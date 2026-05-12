@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>数据清洗工具 (Flask版)</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; margin: 0; background-color: #f8f9fa; color: #212529; }
+        .container { max-width: 1400px; margin: 20px auto; padding: 20px; background-color: #fff; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        h1, h2 { color: #343a40; }
+        .form-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; align-items: end; }
+        .form-group { display: flex; flex-direction: column; }
+        label { margin-bottom: 5px; font-weight: bold; font-size: 0.9em; color: #495057; }
+        input[type="text"], select { width: 100%; padding: 10px; border: 1px solid #ced4da; border-radius: 4px; box-sizing: border-box; }
+        .btn { padding: 10px 15px; border: none; border-radius: 4px; cursor: pointer; font-size: 1em; }
+        .btn-primary { background-color: #007bff; color: white; }
+        .btn-secondary { background-color: #6c757d; color: white; }
+        .btn-danger { background-color: #dc3545; color: white; }
+        .review-area { display: grid; grid-template-columns: 3fr 2fr; gap: 20px; margin-top: 20px; }
+        .image-container, .json-container { padding: 15px; border: 1px solid #e9ecef; border-radius: 4px; overflow: hidden; }
+        .image-container img { max-width: 100%; height: auto; display: block; min-height: 400px; object-fit: contain; }
+        .json-container pre { white-space: pre-wrap; word-wrap: break-word; background-color: #f8f9fa; padding: 10px; border-radius: 4px; max-height: 600px; overflow-y: auto; }
+        .controls { display: flex; justify-content: space-between; margin-top: 20px; }
+        .progress-info { text-align: center; font-size: 1.2em; font-weight: bold; margin-bottom: 20px; }
+        .log-container { margin-top: 20px; }
+        .log-container details { padding: 10px; border: 1px solid #e9ecef; border-radius: 4px; }
+        .log-container ul { list-style-type: none; padding: 0; max-height: 200px; overflow-y: auto; }
+        .log-container li { padding: 5px 0; border-bottom: 1px solid #f1f3f5; }
+        hr { border: 0; border-top: 1px solid #dee2e6; margin: 30px 0; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>模型标注结果人工清洗工具</h1>
+        
+        <form action="{{ url_for('start_review') }}" method="post">
+            <div class="form-grid">
+                <div class="form-group">
+                    <label for="image_path">1. 图片根目录路径</label>
+                    <input type="text" id="image_path" name="image_path" value="{{ paths.get('image', '') }}" required>
+                </div>
+                <div class="form-group">
+                    <label for="annotation_path">2. 标注结果根目录路径</label>
+                    <input type="text" id="annotation_path" name="annotation_path" value="{{ paths.get('annotation', '') }}" required>
+                </div>
+                <div class="form-group">
+                    <label for="deleted_path">3. 删除数据存放路径</label>
+                    <input type="text" id="deleted_path" name="deleted_path" value="{{ paths.get('deleted', '') }}" required>
+                </div>
+            </div>
+            <div class="form-grid" style="margin-top: 20px;">
+                <div class="form-group">
+                    <label for="event_category">4. 选择事件类别</label>
+                    <select id="event_category" name="event_category" required></select>
+                </div>
+                <div class="form-group">
+                    <label for="risk_level">5. 选择风险等级</label>
+                    <select id="risk_level" name="risk_level" required></select>
+                </div>
+                <button type="submit" class="btn btn-primary">开始筛选</button>
+            </div>
+        </form>
+
+        <hr>
+
+        {% if current_item %}
+        <div class="progress-info">
+            进度: {{ current_index + 1 }} / {{ total_items }}
+        </div>
+        <div class="review-area">
+            <div class="image-container">
+                <h2>图片预览</h2>
+                <img src="{{ url_for('get_image', path=current_item.image_path) }}" alt="图片加载失败">
+            </div>
+            <div class="json-container">
+                <h2>标注结果</h2>
+                <pre>{{ formatted_json }}</pre>
+            </div>
+        </div>
+        <div class="controls">
+            <form action="{{ url_for('navigate') }}" method="post" style="display:inline;"><input type="hidden" name="direction" value="-1"><button type="submit" class="btn btn-secondary">上一张</button></form>
+            <form action="{{ url_for('delete_item') }}" method="post" style="display:inline;"><button type="submit" class="btn btn-danger">删除标注</button></form>
+            <form action="{{ url_for('navigate') }}" method="post" style="display:inline;"><input type="hidden" name="direction" value="1"><button type="submit" class="btn btn-primary">结果正确 (保留并下一张)</button></form>
+        </div>
+        {% elif paths and total_items is defined and total_items == 0 %}
+        <div class="progress-info">没有找到符合条件的数据。</div>
+        {% endif %}
+
+        <div class="log-container">
+            <details><summary>查看已删除标注记录 ({{ deleted_log|length }})</summary>
+                <ul>
+                    {% for log_entry in deleted_log %}<li>{{ log_entry }}</li>{% else %}<li>无删除记录</li>{% endfor %}
+                </ul>
+            </details>
+        </div>
+    </div>
+
+    <script>
+        // 将后端传递的状态保存到JS变量中
+        const initialState = {
+            selection: {
+                category: "{{ selection.get('category', '') }}",
+                level: "{{ selection.get('level', '') }}"
+            }
+        };
+
+        const annotationPathInput = document.getElementById('annotation_path');
+        const categorySelect = document.getElementById('event_category');
+        const riskSelect = document.getElementById('risk_level');
+
+        function updateDropdowns() {
+            const path = annotationPathInput.value;
+            if (!path) return;
+
+            fetch("{{ url_for('scan_path') }}", {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ path: path }),
+            })
+            .then(response => response.json())
+            .then(data => {
+                // 清空并填充下拉菜单
+                categorySelect.innerHTML = '';
+                riskSelect.innerHTML = '';
+                
+                data.categories.forEach(cat => {
+                    const option = new Option(cat, cat);
+                    categorySelect.add(option);
+                });
+                
+                data.levels.forEach(level => {
+                    const option = new Option(level, level);
+                    riskSelect.add(option);
+                });
+
+                // 恢复之前的选择
+                if (initialState.selection.category) {
+                    categorySelect.value = initialState.selection.category;
+                }
+                if (initialState.selection.level) {
+                    riskSelect.value = initialState.selection.level;
+                }
+            })
+            .catch(error => console.error('Error fetching dropdown data:', error));
+        }
+
+        // 当用户手动修改标注路径时，更新下拉菜单
+        annotationPathInput.addEventListener('blur', updateDropdowns);
+        
+        // 页面加载完成后，如果标注路径有值，自动触发一次更新来填充和恢复下拉菜单
+        window.addEventListener('load', function() {
+            if (annotationPathInput.value) {
+                updateDropdowns();
+            }
+        });
+    </script>
+</body>
+</html>
