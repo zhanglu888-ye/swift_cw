@@ -1,0 +1,24 @@
+{
+  "image": "negative/新华巷口1_20261120094927_01.jpg",
+  "image_sha256": "4b694fe55761be4181945c0a97d0688ac5703979e5b10322e1b9fb5bbdd0cd8f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿绿色马甲戴帽的人背对镜头站在黄色台面后，台面上放着一个棕色纸箱和一个深色扁平物件。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 381,
+    "total_tokens": 574,
+    "completion_tokens": 193,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 117
+    }
+  }
+}

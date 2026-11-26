@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0252_00.jpg",
+  "image_sha256": "02da987cf2b49cd866c068d7771a8b310d30b00b62c87fdbb3298cff80295569",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名女子弯腰扶着一个灰色液化石油气钢瓶，钢瓶顶部带阀门并固定在带轮推车和蓝色把手上。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 464,
+    "total_tokens": 758,
+    "completion_tokens": 294,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 217
+    }
+  }
+}

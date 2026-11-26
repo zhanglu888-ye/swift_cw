@@ -1,0 +1,24 @@
+{
+  "image": "negative/虎台二巷梧桐午托班后厨_20261118104500_00.jpg",
+  "image_sha256": "5deca320b9aa2702bca3d30f65815cd81932506557e859bd786c3f8389518201",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿红衣戴蓝头套的人在打开的冰箱前整理袋装食材，前景白色塑料筐内盛有切好的绿色蔬菜。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 619,
+    "total_tokens": 863,
+    "completion_tokens": 244,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 165
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "image": "positive/u=2886994959,312586915&fm=253&fmt=auto&app=138&f=JPEG_00.jpg",
+  "image_sha256": "95d5a9f0be9380a78dae3e9ca9e96d1941c58b8eae330599cc61c65d41f6ddf9",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴帽男子站立并举手至嘴边，周围未见刀具、斧头、桶壶、钢瓶、枪形物或弩。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 609,
+    "completion_tokens": 279,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 200
+    }
+  }
+}

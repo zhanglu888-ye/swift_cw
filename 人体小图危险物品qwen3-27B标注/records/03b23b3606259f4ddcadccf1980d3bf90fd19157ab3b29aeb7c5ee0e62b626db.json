@@ -1,0 +1,24 @@
+{
+  "image": "negative/兴海路11号院西南角枪机2_20261122132732_01.jpg",
+  "image_sha256": "e3c967771288bb02acd3245d4988c794ab7894891ff9b2b0eabe9b8ab208856c",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名儿童在健身房内手握红黑配色的健身器械把手进行训练，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 423,
+    "total_tokens": 597,
+    "completion_tokens": 174,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 104
+    }
+  }
+}

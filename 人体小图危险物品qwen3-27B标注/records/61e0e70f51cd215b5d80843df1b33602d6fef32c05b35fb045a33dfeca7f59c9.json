@@ -1,0 +1,26 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索 (5)_53_01.jpg",
+  "image_sha256": "da3eea81eef4a2d2b727a92402ae92a0297fb0274f0974895fc38f59288ab756",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "女子手持一根细长木棍状工具，身着条纹上衣与格子围裙，斜挎红绿相间包。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 567,
+    "total_tokens": 881,
+    "completion_tokens": 314,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 240
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/东交通巷1_20261123154435_01.jpg",
+  "image_sha256": "f6e2fc22a7167d67e070d8b569bcaa972a0544ddb588194900311f43149cfa45",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名黑衣戴白手套男子肩扛一个绿色圆形桶状容器。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 335,
+    "total_tokens": 575,
+    "completion_tokens": 240,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 175
+    }
+  }
+}

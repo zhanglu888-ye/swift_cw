@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店南_20261002200840_07.jpg",
+  "image_sha256": "9e6470e5a192f4b8146644a20a49fe627f2f5c2e314804f13f4af447049beb85",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深色衣裤和灰色背心的男子在通道中行走，右手握一深色小物但形状模糊无法辨认。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 669,
+    "completion_tokens": 336,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 259
+    }
+  }
+}

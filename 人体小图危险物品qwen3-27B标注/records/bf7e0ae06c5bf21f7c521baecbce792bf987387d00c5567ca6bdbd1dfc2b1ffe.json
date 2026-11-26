@@ -1,0 +1,24 @@
+{
+  "image": "negative/东交通巷1_20261123154439_03.jpg",
+  "image_sha256": "30380adc81d9654319320e208ab86d6d7089d2165b2eb9e41383fd3edc4aa354",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色上衣、戴墨镜的男子站在深色汽车旁，身旁有灰色方形箱体和一根树干，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 320,
+    "total_tokens": 536,
+    "completion_tokens": 216,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 139
+    }
+  }
+}

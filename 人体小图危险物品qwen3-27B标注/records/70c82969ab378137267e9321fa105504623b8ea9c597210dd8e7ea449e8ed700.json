@@ -1,0 +1,24 @@
+{
+  "image": "negative/刘家寨小区农贸市场西北角_20261123142816_02.jpg",
+  "image_sha256": "2276370b1ef3a48bfe9acbace78629f99a1d25cdee0c7671e8a30a229b44f3be",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色衣裤的女子站立，一手叉腰，另一手握持一根细长棍状物，身旁有红色塑料筐。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 716,
+    "completion_tokens": 386,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 309
+    }
+  }
+}

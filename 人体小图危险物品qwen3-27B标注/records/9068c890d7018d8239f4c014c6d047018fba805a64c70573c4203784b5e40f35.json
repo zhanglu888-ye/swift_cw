@@ -1,0 +1,24 @@
+{
+  "image": "positive/盐湖巷十字_20261123115315_01.jpg",
+  "image_sha256": "09244628c2b08fa5a783a8c36c0f1b8b5f4a4c58bb4975187b5da5e68e781d90",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人肩扛一个绿色圆柱形钢瓶，瓶身呈绿色，两端带金属环状结构，形似液化石油气钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 345,
+    "total_tokens": 543,
+    "completion_tokens": 198,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 118
+    }
+  }
+}

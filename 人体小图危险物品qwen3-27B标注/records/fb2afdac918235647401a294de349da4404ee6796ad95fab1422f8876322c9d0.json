@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道匡威店南_20261027121415_01.jpg",
+  "image_sha256": "5401abb253ea468a3e51565231b1d67e9831787b8df07e4359c4a0111039d179",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名白衣男子站在平板手推车上，周围及车上堆放着多个装有黄色液体的大容量塑料油桶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 423,
+    "total_tokens": 652,
+    "completion_tokens": 229,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 156
+    }
+  }
+}

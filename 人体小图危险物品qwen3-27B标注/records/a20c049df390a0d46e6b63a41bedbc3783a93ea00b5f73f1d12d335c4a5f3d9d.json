@@ -1,0 +1,24 @@
+{
+  "image": "positive/8cd390be56e99bedd1ec79e05186_00.jpg",
+  "image_sha256": "cb48c1c042d07b95d8ca88e618b35be2d7c62c0a1b09cf14395782a4a4f6eef0",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "前景人物手持一把黄黑相间的弩，可见横向弓臂、弦及箭槽结构。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 471,
+    "total_tokens": 740,
+    "completion_tokens": 269,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 198
+    }
+  }
+}

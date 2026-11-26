@@ -1,0 +1,24 @@
+{
+  "image": "negative/杨家寨萌遥幼儿园后厨02_20261118103852_00.jpg",
+  "image_sha256": "f64c5aa9220be6a4d0d31bf62496ef33cdaf4c0173f28e919a5d03b2f9b96d1b",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿白色厨师服、戴白色厨师帽和围裙、双手戴黄色橡胶手套的人，双手空垂未持物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1003,
+    "total_tokens": 1195,
+    "completion_tokens": 192,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 114
+    }
+  }
+}

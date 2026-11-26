@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道637火车头东侧停车场入口北_20261122222334_00.jpg",
+  "image_sha256": "3fb8e371ed74df89b96e30351795f74f3ab8e5b3e55a8911022d24f6ea58655d",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子骑蓝色摩托车，车侧绑有一个绿色圆柱形液化气钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 515,
+    "total_tokens": 880,
+    "completion_tokens": 365,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 298
+    }
+  }
+}

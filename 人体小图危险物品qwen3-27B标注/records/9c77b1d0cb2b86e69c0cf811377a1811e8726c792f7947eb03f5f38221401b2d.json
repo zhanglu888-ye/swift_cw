@@ -1,0 +1,24 @@
+{
+  "image": "positive/北气象巷路口祭祀点_20261123115937_00.jpg",
+  "image_sha256": "fd785c9c24288ad11fac4361d85854c2a97a5fe141b387a28732f2e5bcb426f0",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿红色连帽衫、戴帽的人双手持握一支带枪托和护木的步枪形物体，身上斜挎带子并挂有黑色包。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 388,
+    "total_tokens": 626,
+    "completion_tokens": 238,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 152
+    }
+  }
+}

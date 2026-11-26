@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店南_20261116100502_00.jpg",
+  "image_sha256": "29e6dac5b128fb43a7c5b8ecfd8e4c0e52a5c289ab90b587aaf4153f53b67562",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色羽绒服的男子手扶一辆带金属扶手和蓝色底板的平板手推车。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 555,
+    "total_tokens": 802,
+    "completion_tokens": 247,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 178
+    }
+  }
+}

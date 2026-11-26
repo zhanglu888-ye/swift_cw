@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0257_00.jpg",
+  "image_sha256": "c99922562cf1815b4ec3e5f28e81ec423fd63af45b0062e872879b8c5a9df3fc",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子戴手套手持一把黑色斧头，斧头带有金属斧刃和长柄。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 593,
+    "total_tokens": 858,
+    "completion_tokens": 265,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 195
+    }
+  }
+}

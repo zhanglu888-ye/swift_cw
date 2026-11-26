@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店南_20261003171319_05.jpg",
+  "image_sha256": "9a39efd60150e76be975def0e17106e23428593f47a588c17ba7222eefd0d7e8",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "两名穿深色衣服的人行走，其中一人手持一根垂直向下的细长杆状物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 663,
+    "completion_tokens": 338,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 269
+    }
+  }
+}

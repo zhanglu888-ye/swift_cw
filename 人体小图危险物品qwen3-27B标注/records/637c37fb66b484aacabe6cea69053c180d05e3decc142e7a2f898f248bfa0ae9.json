@@ -1,0 +1,26 @@
+{
+  "image": "positive/海湖幼儿园后厨操作间1_20261117104815_00.jpg",
+  "image_sha256": "ae30a794f3fa0970541a094e3fb348dbfd5d8641e09a3fdb82d29a04be7d80d9",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人手持绿色手柄的金属刮板状工具在台面操作，旁边台面上放有一个黄色小罐。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 711,
+    "total_tokens": 1000,
+    "completion_tokens": 289,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 217
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/虎台一巷16号院西变焦枪机_20261119170553_02.jpg",
+  "image_sha256": "0b69ed542d43c7143f3ae744d5fef1b02b7f7b577ef971b5efb52c468f6484d4",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 402,
+    "total_tokens": 607,
+    "completion_tokens": 205,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 151
+    }
+  }
+}

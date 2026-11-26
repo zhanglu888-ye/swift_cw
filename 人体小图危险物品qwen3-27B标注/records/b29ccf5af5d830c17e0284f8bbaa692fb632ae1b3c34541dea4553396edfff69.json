@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0508_00.jpg",
+  "image_sha256": "32271e9747993a6380355214fbe31c134323eddc2c90f574278fc15ada6a0974",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴帽男子双手握持一把斧头，斧刃朝下置于树桩上，背景为堆叠的木柴。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 567,
+    "total_tokens": 837,
+    "completion_tokens": 270,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 192
+    }
+  }
+}

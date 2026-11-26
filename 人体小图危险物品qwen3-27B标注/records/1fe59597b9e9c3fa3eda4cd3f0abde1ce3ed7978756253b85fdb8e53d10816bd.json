@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261007184215_02.jpg",
+  "image_sha256": "c70d30d7fe4c1f05e7c77d565aeb27c9140ec5bf155f74ab127d2631845eb5dd",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色外套、黑裤、白鞋的男子站立，右手握持一细长浅色物体，细节模糊。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 395,
+    "total_tokens": 806,
+    "completion_tokens": 411,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 337
+    }
+  }
+}

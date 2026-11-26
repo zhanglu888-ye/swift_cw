@@ -1,0 +1,24 @@
+{
+  "image": "positive/e42ca011-19e8-46e3-aeea-b36d89dfe014_00.jpg",
+  "image_sha256": "cd89eaf259b495d63cc31ca4c901f4c2f81a9914d0d7896b2aef4a2e5a44acfe",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿蓝橙工作服的女子手持一部智能手机，身旁立着一个带绿色阀门的灰色液化气钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1003,
+    "total_tokens": 1621,
+    "completion_tokens": 618,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 546
+    }
+  }
+}

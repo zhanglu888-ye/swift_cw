@@ -1,0 +1,24 @@
+{
+  "image": "negative/人民公园游乐园门口1号摄像机_20261121162334_04.jpg",
+  "image_sha256": "7307479c59501306d7bd2ebe7b59dc89d84faa4cb11d7519ed5a47d430cfc3dd",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴帽穿灰色羽绒服的男子手提一个白色袋状物行走。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 576,
+    "completion_tokens": 251,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 186
+    }
+  }
+}

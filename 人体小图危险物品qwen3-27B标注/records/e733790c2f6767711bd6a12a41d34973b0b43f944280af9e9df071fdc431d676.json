@@ -1,0 +1,24 @@
+{
+  "image": "negative/虎台一巷中段东侧人行辅道人脸检测朝西南_20261117110612_00.jpg",
+  "image_sha256": "2534f65570b62e3b0a64a3a02cba094e9f857344428b16f98823c700ae12a046",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "人物手提一个黄色袋子，未见其他目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 363,
+    "total_tokens": 541,
+    "completion_tokens": 178,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 117
+    }
+  }
+}

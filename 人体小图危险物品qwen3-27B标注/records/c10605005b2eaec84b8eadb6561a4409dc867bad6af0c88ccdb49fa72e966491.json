@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道西关大街停车场入口东_20261106131604_01.jpg",
+  "image_sha256": "f01df904fee6de93c77b810c0d9bf79839ba653605271208f8837d881c1be630",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中为一根绿色圆柱形立柱，周围堆放着浅色石块，未见手持物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 465,
+    "total_tokens": 666,
+    "completion_tokens": 201,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 132
+    }
+  }
+}

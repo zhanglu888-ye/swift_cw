@@ -1,0 +1,26 @@
+{
+  "image": "positive/刘家寨小区农贸市场西北角_20261118172034_02.jpg",
+  "image_sha256": "1e4bbeb2f0cca89aa21374a29d6e94d11eed618f45779775e6781d386d4803c6",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色运动服的男孩手持一根细长深色杆状物，斜置于身前。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 320,
+    "total_tokens": 622,
+    "completion_tokens": 302,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 234
+    }
+  }
+}

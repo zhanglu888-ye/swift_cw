@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道三岔口北_20261004162342_02.jpg",
+  "image_sha256": "c40ed0e32ff46d956c43523a494042d6503a67b2697c1c842de4977e62ad63ec",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴头盔穿深色衣服的人骑在一辆绿色电动车上，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 339,
+    "total_tokens": 563,
+    "completion_tokens": 224,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 156
+    }
+  }
+}

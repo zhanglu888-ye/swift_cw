@@ -1,0 +1,24 @@
+{
+  "image": "negative/东方幼教幼儿园后厨加工间_20261116094525 (1)_00.jpg",
+  "image_sha256": "9ac1f018c11cf7690377d9dced50357d3c7af6e17e2161323b5d5c7b7b4743e5",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "厨房不锈钢台面上堆放多颗绿色卷心菜，一名人员手扶白色砧板，另一名人员手按卷心菜。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1235,
+    "total_tokens": 1555,
+    "completion_tokens": 320,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 241
+    }
+  }
+}

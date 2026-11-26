@@ -1,0 +1,24 @@
+{
+  "image": "positive/01ea30cba13727134f0370019ece9d4be5_258_3_00.jpg",
+  "image_sha256": "1c0c283c8a4596d38ddcbd3659ac43a6966ed15f0e43bf047d8c3e8b625d740d",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子身侧立着一个浅蓝色带红色字样的液化气钢瓶，背景左侧可见一个蓝色桶状容器。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 939,
+    "total_tokens": 1353,
+    "completion_tokens": 414,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 340
+    }
+  }
+}

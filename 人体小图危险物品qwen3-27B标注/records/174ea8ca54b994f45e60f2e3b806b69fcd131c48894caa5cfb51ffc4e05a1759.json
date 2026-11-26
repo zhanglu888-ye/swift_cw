@@ -1,0 +1,24 @@
+{
+  "image": "positive/人民公园大门口出口1号摄像机_20261122151258_03.jpg",
+  "image_sha256": "b56422a647b7507d9da07b5f925acb037ceb2753f28045d3bd8e49fe59eafacc",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人手持一支深色步枪形长枪，可见枪管、护木与弹匣结构，并肩挎格纹包。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 339,
+    "total_tokens": 592,
+    "completion_tokens": 253,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 177
+    }
+  }
+}

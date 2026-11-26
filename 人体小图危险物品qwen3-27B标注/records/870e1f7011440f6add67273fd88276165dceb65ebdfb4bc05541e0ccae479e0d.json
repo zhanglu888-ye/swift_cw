@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261009145004_02.jpg",
+  "image_sha256": "b1afddacd3017a08e0ca1ba4f3370843bb6a34c7348f4c98ec0978cf9122af50",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "人物肩挎一只棕色皮包，一手举至耳侧，未见其他目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 320,
+    "total_tokens": 499,
+    "completion_tokens": 179,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 110
+    }
+  }
+}

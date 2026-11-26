@@ -1,0 +1,24 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索 (4)_1_01.jpg",
+  "image_sha256": "5fd6cad143f8904f037d18abd0bfaefb78219e4de6b3c8106a4613b7439638e4",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中两人手部接触一个黑色筒状物体，旁边提着一个白色塑料袋。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "不确定",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 815,
+    "total_tokens": 1487,
+    "completion_tokens": 672,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 605
+    }
+  }
+}

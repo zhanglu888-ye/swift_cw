@@ -1,0 +1,24 @@
+{
+  "image": "negative/东方幼教幼儿园后厨加工间_20261119103238_00.jpg",
+  "image_sha256": "48e70a6d23cecf7b867696643faec9b1c35962f4846fec5fb04cda773fed08cd",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中为身穿白色围裙、黑色长裤和运动鞋的人背影，未见手持物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 957,
+    "total_tokens": 1126,
+    "completion_tokens": 169,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 100
+    }
+  }
+}

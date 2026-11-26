@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0207_00.jpg",
+  "image_sha256": "4fc01b797392c92a8af3ecc40f78163d4381bafa87e191a6e4d921094ce2498f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子手提一个外包白色保护套、顶部带蓝色提手和阀门的圆柱形液化气钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 475,
+    "total_tokens": 753,
+    "completion_tokens": 278,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 206
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/刘家寨小区农贸市场北门基站款摄像机_20261120093003_01.jpg",
+  "image_sha256": "3536ec3dd59f030c7b76742b63bcaad2f831254acfba2228b6d9fc9e212ae42d",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿蓝色上衣的男子在行走，未见明显手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 535,
+    "completion_tokens": 210,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 146
+    }
+  }
+}

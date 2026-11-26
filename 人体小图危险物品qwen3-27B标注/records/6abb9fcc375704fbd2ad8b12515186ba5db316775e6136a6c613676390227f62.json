@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0476_00.jpg",
+  "image_sha256": "9b4dde38f417ccb231cce2382f7e88a0645e365197e65629b6a27671cd59ad52",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一个橙红色带蓝绿色提手的大容量塑料桶/水壶，外罩印有红字的袋子。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 515,
+    "total_tokens": 790,
+    "completion_tokens": 275,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 203
+    }
+  }
+}

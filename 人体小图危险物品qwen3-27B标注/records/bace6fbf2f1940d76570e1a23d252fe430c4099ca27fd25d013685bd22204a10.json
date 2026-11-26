@@ -1,0 +1,24 @@
+{
+  "image": "negative/北气象巷路口祭祀点_20261122165400_00.jpg",
+  "image_sha256": "d7e3cd5ad662ae974aafe1c3df14733f7703872c66a022924d0a828d9805c47d",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子双手持一个黑色方形盒子状物体，表面有白色文字与图案。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 431,
+    "total_tokens": 607,
+    "completion_tokens": 176,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 109
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道匡威店西_20261107160459_01.jpg",
+  "image_sha256": "1347e5ec22ccd49e4441bc4e87ee2d288b07711b31d678426423cf0142a11e4c",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人推着手推车，车上放有大容量透明塑料水桶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 357,
+    "total_tokens": 549,
+    "completion_tokens": 192,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 129
+    }
+  }
+}

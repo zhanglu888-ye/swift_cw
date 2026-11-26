@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道阿迪达斯北_20261107165238_04.jpg",
+  "image_sha256": "093233206853e7ecd2e6d2337596a146f356ed6501faa460d9ba9d76413af882",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴口罩者推着一辆带遮阳篷的婴儿手推车，双手握在车把上。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 495,
+    "completion_tokens": 162,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 91
+    }
+  }
+}

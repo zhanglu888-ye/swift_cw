@@ -1,0 +1,24 @@
+{
+  "image": "negative/虎台二巷梧桐午托班后厨_20261116095737_01.jpg",
+  "image_sha256": "558a9eeb5d157b4796cf92fc6d7b9a2e7adece4cc94b5823e8eaa667782bf36c",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿红衣白围裙戴蓝帽蓝手套的人背对镜头站在不锈钢操作台旁，周围有金属盆、装食材的盆和地上的蔬菜袋，手中握一浅色小物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 516,
+    "total_tokens": 796,
+    "completion_tokens": 280,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 188
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道阿迪达斯北_20261107112320_02.jpg",
+  "image_sha256": "790fdc8a58ec2fe8438f6f5140d3b55c02fa1dbc8310fb6ffa2f53d2c13c8814",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一辆银黑相间的电动踏板车停放在地面上，可见后视镜、座椅和车轮。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 488,
+    "completion_tokens": 163,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 94
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/南交通巷北口_20261121162350_12.jpg",
+  "image_sha256": "106529a7d95b13347670f1ac1bfa1498aa768302b44a2d0b0829944a170320d0",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "人群中一名黑衣人手提一个白色袋状物，其余人未见明显手持物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 544,
+    "completion_tokens": 219,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 152
+    }
+  }
+}

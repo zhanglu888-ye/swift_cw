@@ -1,0 +1,24 @@
+{
+  "image": "positive/新华巷口1_20261120095023_00.jpg",
+  "image_sha256": "b8275c44c04453fbd848cb2b30bf68ea78de752a0a56c42be4667658dc7eda13",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深色衣服的人肩扛一个灰色金属液化石油气钢瓶，罐身印有红色字样，左下角地面另放有一个绿色钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 391,
+    "total_tokens": 693,
+    "completion_tokens": 302,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 221
+    }
+  }
+}

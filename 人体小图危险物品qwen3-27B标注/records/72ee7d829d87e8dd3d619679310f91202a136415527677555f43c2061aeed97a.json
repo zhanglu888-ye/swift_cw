@@ -1,0 +1,24 @@
+{
+  "image": "negative/才儿坊幼儿园厨房操作间_20261118103654_02.jpg",
+  "image_sha256": "3d27060934ed9e3faaca03f5f9f28c498c6bc73146710585e541933c74e23ff9",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "厨师手持一个深色塑料调味瓶，旁边不锈钢盆内盛有土豆、辣椒、黄瓜等蔬菜。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 388,
+    "total_tokens": 685,
+    "completion_tokens": 297,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 225
+    }
+  }
+}

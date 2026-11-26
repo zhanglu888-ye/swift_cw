@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店南_20261119140648_00.jpg",
+  "image_sha256": "38b54fb173f73b17267092098cc255ac127e87e82ccf1c148d37cf23f5698095",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴头盔者骑乘一辆银黑色电动车，双手握把，后座人员手持一小型物体，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 375,
+    "total_tokens": 597,
+    "completion_tokens": 222,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 145
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "image": "positive/海湖幼儿园后厨操作间1_20261117104151 (1)_00.jpg",
+  "image_sha256": "1555b617399c65f3bb147e407ac126ba8c1f5e14010542a7bda2668f923ed5ce",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿白色工作服、系棕色围裙、戴蓝色帽子和口罩及白色手套的人正伸手拉白色柜门，旁边不锈钢台面上放着装有肉块的不锈钢盆。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 731,
+    "total_tokens": 999,
+    "completion_tokens": 268,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 180
+    }
+  }
+}

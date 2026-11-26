@@ -1,0 +1,24 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索 (1)_505_00.jpg",
+  "image_sha256": "9235f30f6b16c5311e0e20f91fc4b6ff94e236195ae180e332eac86828155749",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色羽绒服的男子手持一把装有双环瞄准镜并搭有带羽箭矢的黑色弩。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 738,
+    "total_tokens": 1007,
+    "completion_tokens": 269,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 197
+    }
+  }
+}

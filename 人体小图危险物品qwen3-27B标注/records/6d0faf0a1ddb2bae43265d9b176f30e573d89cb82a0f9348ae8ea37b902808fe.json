@@ -1,0 +1,24 @@
+{
+  "image": "positive/扛煤气罐_111_00.jpg",
+  "image_sha256": "3318544a1272a5dd6819e6d13cdf3fdc798740b39a222adefd73fb91c5a69fbf",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿防护服者手提一个黄色液化石油气钢瓶，瓶身印有“东明石化”字样及编号，顶部带护罩和阀门。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 623,
+    "total_tokens": 847,
+    "completion_tokens": 224,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 142
+    }
+  }
+}

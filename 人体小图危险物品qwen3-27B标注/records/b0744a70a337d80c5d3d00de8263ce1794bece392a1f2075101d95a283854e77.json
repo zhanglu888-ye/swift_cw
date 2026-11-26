@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道同盛路停车场入口_20261101133919 (1)_04.jpg",
+  "image_sha256": "45a11768ffa59a1e460f5e8573a5d504eb26f3f1e72dad7f93fad2b61f3cdb99",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色皮夹克、红色上衣和黑色长靴的女子行走，手中未见明显物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 530,
+    "completion_tokens": 205,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 135
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/虎台二巷梧桐午托班后厨_20261118105121_01.jpg",
+  "image_sha256": "bb2267be25e5faa0559cb0be435288c58deebca9346801d69ff74dc405089258",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "厨房内一名人员手持菜刀在砧板上切菜，另一名人员手持带红色盖子的白色塑料桶。",
+    "刀具": "有",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 508,
+    "total_tokens": 868,
+    "completion_tokens": 360,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 286
+    }
+  }
+}

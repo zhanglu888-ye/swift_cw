@@ -1,0 +1,24 @@
+{
+  "image": "positive/66823bcb64e1800ebb192e64_00.jpg",
+  "image_sha256": "79d5a85f60a0a7a137ed82a0290c5b869ff0a7a08c359ab77e68d9a4ea9526bc",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿橙色工作服、戴白手套的男子双手抱着一个橙红色圆柱形液化石油气钢瓶，瓶身印有白色字样、底部带锈迹并可见顶部阀门。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 455,
+    "total_tokens": 714,
+    "completion_tokens": 259,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 172
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0415_00.jpg",
+  "image_sha256": "094d0ad0a449f09fbb6590b3148bca58dea371b5351b00630b608306b1b975e0",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子双手扶着两个液化气钢瓶，左侧为青绿色钢瓶带顶部护罩，右侧钢瓶被白色编织袋包裹。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 645,
+    "total_tokens": 965,
+    "completion_tokens": 320,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 242
+    }
+  }
+}

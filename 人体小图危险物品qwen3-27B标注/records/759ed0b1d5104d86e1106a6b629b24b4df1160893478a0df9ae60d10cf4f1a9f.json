@@ -1,0 +1,24 @@
+{
+  "image": "positive/虎台二巷梧桐午托班后厨_20261118104447_01.jpg",
+  "image_sha256": "357c0a200465f25f0c245ef18b7c96aa304d9be2f682294ffeb1ec854f7e4aae",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿红衣戴蓝帽的工作人员手持一把金属菜刀在木砧板上切胡萝卜，旁边砧板上另放一把带木柄的菜刀。",
+    "刀具": "有",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 703,
+    "total_tokens": 932,
+    "completion_tokens": 229,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 147
+    }
+  }
+}

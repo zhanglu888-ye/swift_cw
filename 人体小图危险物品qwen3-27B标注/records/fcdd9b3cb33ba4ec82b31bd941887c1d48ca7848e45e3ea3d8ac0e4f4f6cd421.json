@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道匡威店西_20261031093622_00.jpg",
+  "image_sha256": "eb7d8be28fe53dff2068e43ab66f9a133c3f4095ffdd0f51649587baab322b0f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人双手各提一个白色大容量塑料桶壶，桶身带提手和瓶口结构。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 381,
+    "total_tokens": 601,
+    "completion_tokens": 220,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 149
+    }
+  }
+}

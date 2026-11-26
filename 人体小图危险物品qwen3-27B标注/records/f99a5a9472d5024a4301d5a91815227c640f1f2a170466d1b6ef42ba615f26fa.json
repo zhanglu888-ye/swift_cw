@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店南_20261002125928_00.jpg",
+  "image_sha256": "5323627f4830367f0721fddf0f9a559481282b99766a92a8a56a3c16359a2fb3",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "人物肩背浅色花纹单肩包，左手提浅色布袋，旁有绿色包装包裹，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 415,
+    "total_tokens": 630,
+    "completion_tokens": 215,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 141
+    }
+  }
+}

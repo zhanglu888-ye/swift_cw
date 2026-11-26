@@ -1,0 +1,26 @@
+{
+  "image": "positive/唐道同盛路停车场入口_20261101133919 (1)_00.jpg",
+  "image_sha256": "97795f02491cdb78cfe167d81d7e3f67a7f55486dde0466598fee6870d17ea39",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深蓝色羽绒服戴黑帽的男子背手站立，身后手捏一小块红色物，右侧一人提黑色包，左上小孩手持一黑色小物件。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 515,
+    "total_tokens": 944,
+    "completion_tokens": 429,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 344
+    }
+  }
+}

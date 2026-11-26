@@ -1,0 +1,24 @@
+{
+  "image": "positive/中泰百货东侧_20261122131508_02.jpg",
+  "image_sha256": "c274e8188e799745a246978dde90a4bd5d6e321d974273941c6c34f9073dcb39",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿蓝绿外套的男孩手持一把黑色步枪形物体，斜挎于身前。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 515,
+    "completion_tokens": 190,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 121
+    }
+  }
+}

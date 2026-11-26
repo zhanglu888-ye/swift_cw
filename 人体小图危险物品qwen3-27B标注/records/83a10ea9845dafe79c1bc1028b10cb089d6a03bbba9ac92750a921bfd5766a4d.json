@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道637火车头东侧停车场入口北_20261116083328_00.jpg",
+  "image_sha256": "6eca083eb28ca27dbe27afa0c104a05dff586aaa7235b02a3d25f92c42daee4f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深色衣裤的男子背对镜头行走，左手提着一个白色带绿色标签的大容量塑料桶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 351,
+    "total_tokens": 623,
+    "completion_tokens": 272,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 199
+    }
+  }
+}

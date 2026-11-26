@@ -1,0 +1,24 @@
+{
+  "image": "negative/发现更多精彩视频 - 抖音搜索 (1)_800_01.jpg",
+  "image_sha256": "9d10d2795643e683eae2627558fc885d338f08115699f5a8ee803ae34d8b553b",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴眼镜男子站在银色汽车旁，双手举着一个深色小型设备靠近面部，疑似相机或手机。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 365,
+    "total_tokens": 591,
+    "completion_tokens": 226,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 153
+    }
+  }
+}

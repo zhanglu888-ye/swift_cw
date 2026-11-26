@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道苹果手机店北_20261107150512_04.jpg",
+  "image_sha256": "aeb076821763683b0e9effedfccadb34ff84e36d0b4c2f142ef77d90bd8758f2",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴口罩、戴帽、穿灰色羽绒服和长裤的儿童正在行走，双手未见持有物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 491,
+    "completion_tokens": 166,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 96
+    }
+  }
+}

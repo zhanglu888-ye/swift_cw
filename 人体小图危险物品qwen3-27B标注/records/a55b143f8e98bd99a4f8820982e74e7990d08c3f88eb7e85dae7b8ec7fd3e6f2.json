@@ -1,0 +1,24 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索 (1)_151_00.jpg",
+  "image_sha256": "3631fd9c01e87ef19bcfe11856233735635176c049e68f40f329e85f0f2648f2",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子坐在木椅上双手持握一把木质弓臂带弦的弩。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 768,
+    "total_tokens": 942,
+    "completion_tokens": 174,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 107
+    }
+  }
+}

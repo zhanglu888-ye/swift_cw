@@ -1,0 +1,24 @@
+{
+  "image": "negative/东方幼教幼儿园后厨加工间_20261119114613_00.jpg",
+  "image_sha256": "ea8ee56b25db3c045a368021df458ba40bdcdcd1194ee9795f46a7a529e2e699",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "两名穿白色工作服戴口罩的工作人员手持红色和橙色塑料篮筐，筐内装满切开的饼类食物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1015,
+    "total_tokens": 1218,
+    "completion_tokens": 203,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 130
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/刘家寨小区农贸市场西北角_20261118172047_03.jpg",
+  "image_sha256": "9788e0b0887fa1a77de10ab16e570f5fb187f06044ba82bdc1dbdd1892011469",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色皮夹克、深色长裤和白鞋的男子背对镜头行走，背景有一辆绿色三轮车，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 320,
+    "total_tokens": 523,
+    "completion_tokens": 203,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 126
+    }
+  }
+}

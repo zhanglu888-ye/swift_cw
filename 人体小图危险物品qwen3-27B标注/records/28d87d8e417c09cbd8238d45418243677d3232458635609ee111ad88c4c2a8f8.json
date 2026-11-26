@@ -1,0 +1,26 @@
+{
+  "image": "negative/虎台二巷梧桐午托班后厨_20261118105145_00.jpg",
+  "image_sha256": "e82675ced1aaf51d90cd19914bd02793014646afd8dd1dc97ddf1f99e1c1584e",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "厨师手持一柄深色柄工具在不锈钢盆中处理白色块状食材。",
+    "刀具": "不确定",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 515,
+    "total_tokens": 1005,
+    "completion_tokens": 490,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 423
+    }
+  }
+}

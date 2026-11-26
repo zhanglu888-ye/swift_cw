@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道西关大街停车场入口东_20261031150636_03.jpg",
+  "image_sha256": "2a337cdbb0c16813dce42b938b2bb3b7789c107797900e27b4075cbbb72ff258",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "人物双手持一小型食物状物品靠近嘴边，头顶架着一副墨镜。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1221,
+    "total_tokens": 1374,
+    "completion_tokens": 153,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 86
+    }
+  }
+}

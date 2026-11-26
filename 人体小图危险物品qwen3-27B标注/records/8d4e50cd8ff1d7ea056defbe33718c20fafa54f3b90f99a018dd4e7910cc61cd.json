@@ -1,0 +1,24 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索 (5)_16_01.jpg",
+  "image_sha256": "885c18e9262dc65f62a28b55dda64cdb5eb88b61bf6a96f29d6f4b7cd9b525e5",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "两人共同手持一把木制弩，可见弓臂、弦及搭放的箭。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 549,
+    "total_tokens": 765,
+    "completion_tokens": 216,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 149
+    }
+  }
+}

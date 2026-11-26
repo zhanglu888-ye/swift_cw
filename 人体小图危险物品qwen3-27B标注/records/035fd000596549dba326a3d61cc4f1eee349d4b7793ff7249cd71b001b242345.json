@@ -1,0 +1,24 @@
+{
+  "image": "negative/虎台二巷梧桐午托班后厨_20261118104949_00.jpg",
+  "image_sha256": "1d6e149e6330f2aa0918f4ab7273cf9872d57ba202d745d1a2a759341976d6e2",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "厨师右手持一把长柄勺在灶台炒锅中操作，旁边放有金属锅和不锈钢盆。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 462,
+    "total_tokens": 776,
+    "completion_tokens": 314,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 241
+    }
+  }
+}

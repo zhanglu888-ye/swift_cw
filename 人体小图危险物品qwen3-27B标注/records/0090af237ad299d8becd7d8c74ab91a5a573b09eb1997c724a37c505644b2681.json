@@ -1,0 +1,26 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索 (5)_107_00.jpg",
+  "image_sha256": "5376295b758ad8223b26c5be1965ca97b048bd3ec48be2aef1e17c903f6173d8",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "女子斜挎一只黑色链条包，另一手扶着一捆木条架。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 579,
+    "total_tokens": 933,
+    "completion_tokens": 354,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 287
+    }
+  }
+}

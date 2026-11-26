@@ -1,0 +1,24 @@
+{
+  "image": "negative/海湖幼儿园后厨操作间1_20261117104513_01.jpg",
+  "image_sha256": "e0a6cb1de056bcb1cf400cb84ec966e8101cbeb9cd502cfb2a53d21905fd23c9",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人手持金属盆，另一人手持长柄清洁工具，背景为厨房操作台与食材。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 835,
+    "total_tokens": 1108,
+    "completion_tokens": 273,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 202
+    }
+  }
+}

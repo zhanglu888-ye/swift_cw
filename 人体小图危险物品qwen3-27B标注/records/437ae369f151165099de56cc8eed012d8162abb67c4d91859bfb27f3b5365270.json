@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道匡威店西_20261023143419_01.jpg",
+  "image_sha256": "54e7e3f8809da7ea5f3002f471bd9471392507f6d39d84114b0b90c973d593fb",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子手提一捆用蓝色塑料膜包裹的大容量桶装水。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 515,
+    "total_tokens": 779,
+    "completion_tokens": 264,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 198
+    }
+  }
+}

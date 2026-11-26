@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0044_00.jpg",
+  "image_sha256": "529babf416331ea1426b78593a49338adc8e0615d60679cac51c4bd5b1b85903",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿灰色棉服、戴白手套者蹲坐于户外木柴堆旁，手持一根长木柄工具，柄下端插入地面木柴中，头部被遮挡不可辨。",
+    "刀具": "无",
+    "斧头": "不确定",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 541,
+    "total_tokens": 1059,
+    "completion_tokens": 518,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 428
+    }
+  }
+}

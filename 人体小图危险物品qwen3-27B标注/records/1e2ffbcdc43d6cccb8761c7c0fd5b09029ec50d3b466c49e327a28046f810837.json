@@ -1,0 +1,24 @@
+{
+  "image": "negative/虎台二巷梧桐午托班后厨_20261119104149_00.jpg",
+  "image_sha256": "f0d8e98af5942651db06a8d3aa6883c164366d5195902197525e34ed456a9ce8",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "两人手持透明塑料袋和白色纸张，袋内装有长条状蔬菜。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 741,
+    "total_tokens": 1029,
+    "completion_tokens": 288,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 222
+    }
+  }
+}

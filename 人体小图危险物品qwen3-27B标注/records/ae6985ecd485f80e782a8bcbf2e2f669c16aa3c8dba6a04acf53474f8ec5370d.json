@@ -1,0 +1,24 @@
+{
+  "image": "negative/u=3219575410,1848916312_fm=253_fmt=auto_app=138_f=JPEG_02.jpg",
+  "image_sha256": "b924206cae4c712bcd2370fc6dd332c3b6528d7c9cc6df263a558be35e7c9ae3",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名身穿带黄色反光条深色消防服、头戴黄色头盔的人员站立，双手未见持有明显物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 542,
+    "completion_tokens": 217,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 145
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "image": "positive/唐道阿迪达斯北_20261101165414_02.jpg",
+  "image_sha256": "1bb7c2facf841079b0b1ea6c04cbeee0aa9618f523fdc11e493830f2ccba81dd",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴黑帽穿浅色外套的人俯身整理一辆堆满袋子、篮子等杂物的推车。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 332,
+    "total_tokens": 606,
+    "completion_tokens": 274,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 202
+    }
+  }
+}

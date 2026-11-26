@@ -1,0 +1,24 @@
+{
+  "image": "positive/王子岛幼儿园后厨操作间2_20261118103805_00.jpg",
+  "image_sha256": "395c04c24d6cea450949a17a99ccea056c5bdb2a080345ab53c57ec99842e128",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "背景人物手持一把金属菜刀在案板前切肉，前景人物手中握着一小块浅色物件。",
+    "刀具": "有",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 627,
+    "total_tokens": 920,
+    "completion_tokens": 293,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 221
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店西_20261002164142_06.jpg",
+  "image_sha256": "ea38d86351bd476c68b30289e3eca256204e1bc50d95008aedea614a8da2ae25",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名女子手持白色手机，身旁男子手臂搭在其肩上，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 355,
+    "total_tokens": 531,
+    "completion_tokens": 176,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 109
+    }
+  }
+}

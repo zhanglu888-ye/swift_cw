@@ -1,0 +1,24 @@
+{
+  "image": "positive/东方幼教幼儿园后厨加工间_20261119143440_00.jpg",
+  "image_sha256": "086942865b553eb0916680f1d5c199f985b14d9a8762faf51d731730a64ba48a",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "手持一把宽刃金属菜刀，正在不锈钢台面上切黄瓜，旁边有多个不锈钢盆盛放切好的黄瓜段。",
+    "刀具": "有",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 893,
+    "total_tokens": 1117,
+    "completion_tokens": 224,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 149
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261005164033_04.jpg",
+  "image_sha256": "275a2bc056817b94492fddcc722316fced2174f4fc604dea4d46522ca7dc8632",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "女子左手提着一个白色纸质购物袋，右手握着一个小型深色物件。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 451,
+    "total_tokens": 691,
+    "completion_tokens": 240,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 174
+    }
+  }
+}

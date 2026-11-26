@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261024182500_11.jpg",
+  "image_sha256": "68e40983d100915f0915b755873cd53cb110bf4f5dac59ed67ea7a08a4c4fa4f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "两人站立于户外，前景者穿棕色条纹披肩与格子长裙并斜挎包带，后方者穿黑衣手举至脸侧，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 587,
+    "completion_tokens": 257,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 172
+    }
+  }
+}

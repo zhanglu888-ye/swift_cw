@@ -1,0 +1,4162 @@
+[
+  {
+    "image": "negative/01ea6aef9a1f927c010370019fb1b93e33_309_9_00.jpg",
+    "image_sha256": "c3ff0fff3145452f4be17bd6537eb8e21c5adf0fa61c37f2d35ca745cc23aa5f",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "戴草帽男子手持一根细长杆状物，身旁可见一个浅色桶状容器。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "有",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 323,
+      "total_tokens": 728,
+      "completion_tokens": 405,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 336
+      }
+    }
+  },
+  {
+    "image": "negative/1483034978257342464_05.jpg",
+    "image_sha256": "9f01993a2751236a1c4eee483c586a7cbcc91d59b78977e23a26b29caa65a077",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "画面中有人骑摩托车，旁边可见一个橙红色圆柱形液化气钢瓶及一个白色带红心的喇叭状物体。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "有",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 327,
+      "total_tokens": 647,
+      "completion_tokens": 320,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 244
+      }
+    }
+  },
+  {
+    "image": "negative/71-mp4_42_100x100_0_jpg.rf.54509256952ed24c19569e5fc0ed3a9a_00.jpg",
+    "image_sha256": "94d1ecfca81a8aeed9edfaac64dcdc0c30eeb4253049d4a3eb815ac0c1da38d6",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一人站立，腰侧手部握持一深色模糊小物体，外形无法辨认。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "不确定",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 327,
+      "total_tokens": 681,
+      "completion_tokens": 354,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 286
+      }
+    }
+  },
+  {
+    "image": "negative/92-mp4_260_100x100_0_jpg.rf.4ba80702928522f9b5e501d7b5559eec_00.jpg",
+    "image_sha256": "b85cd2208eb1efc107c7d5f288b3d5c4d09fd25f5c674b6715d9527d80d4648a",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿灰蓝拼接卫衣的男子双手张开站立，画面右下角可见一个白色塑料桶。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "有",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 415,
+      "total_tokens": 761,
+      "completion_tokens": 346,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 277
+      }
+    }
+  },
+  {
+    "image": "negative/frame_0310_01.jpg",
+    "image_sha256": "f46ae39fd143fb91a1778e2106d201f12a0a5a8ddd4f344b75a1e6254b331290",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "墙角地面放着一个黄色塑料桶，旁边靠墙立着一把扫帚，顶部悬挂一个黄色物体。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "有",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 343,
+      "total_tokens": 610,
+      "completion_tokens": 267,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 194
+      }
+    }
+  },
+  {
+    "image": "negative/frame_0311_01.jpg",
+    "image_sha256": "c0c64a0b20599bddf6d243da5af83e7a74d0eadde9e141780fa0c1b58450d341",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "墙角放置一个黄色塑料桶，旁边靠着扫帚和拖把等清洁工具，上方有一盏黄色吊灯。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "有",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 335,
+      "total_tokens": 589,
+      "completion_tokens": 254,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 180
+      }
+    }
+  },
+  {
+    "image": "negative/frame_0313_01.jpg",
+    "image_sha256": "8616cf82bc505e174e0e48806fdfc6e0cdb81169514675638ded863d30044ce0",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "白色瓷砖墙边放着一个黄色塑料桶，顶部悬挂一个黄色灯罩。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "有",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 321,
+      "total_tokens": 570,
+      "completion_tokens": 249,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 182
+      }
+    }
+  },
+  {
+    "image": "negative/frame_0317_01.jpg",
+    "image_sha256": "032641422f51027e9714d39950013cf1b24870fab33e0efcb075c15fd628cf0a",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "墙角地面放着一个黄色塑料桶，旁边有红色清洁工具，上方悬挂黄色灯罩。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "有",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 324,
+      "total_tokens": 562,
+      "completion_tokens": 238,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 168
+      }
+    }
+  },
+  {
+    "image": "negative/frame_0318_01.jpg",
+    "image_sha256": "4fdeea40f5993e2fdc50a2e98dc89e90cde17f22309b89402693d81421514a71",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "地面放着一个带标签的黄色大容量塑料桶，旁边靠着一把红色扫帚，左上角悬挂一个黄色物体。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "有",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 324,
+      "total_tokens": 656,
+      "completion_tokens": 332,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 256
+      }
+    }
+  },
+  {
+    "image": "negative/u=2893048581,2855310798&fm=253&fmt=auto&app=138&f=JPEG_03.jpg",
+    "image_sha256": "06625a3c993151d87052ac2d783d5146d32e5b48859bc21c8e256a4ecae9d8bb",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿白色上衣、深色长裤的人手持一个斜跨身前的长条状物体，图像模糊，物品细节无法辨认。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "不确定",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 333,
+      "total_tokens": 736,
+      "completion_tokens": 403,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 326
+      }
+    }
+  },
+  {
+    "image": "negative/u=491441126,2320344067&fm=253&fmt=auto&app=138&f=JPEG_06.jpg",
+    "image_sha256": "b4f3ed17dfa63fc09949a96e994ab9ff6716efcd553b3e64c37ec1339cbe6bb5",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "画面中可见一把带木质弓臂和弦线的弩。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "有"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 325,
+      "total_tokens": 652,
+      "completion_tokens": 327,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 264
+      }
+    }
+  },
+  {
+    "image": "negative/东方幼教幼儿园后厨加工间_20261116100006_00.jpg",
+    "image_sha256": "ff17a2363fcf8641e03f7cf4065ebee488bd4565a033f842631b283f0ada3fb3",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿白色工作服戴白帽的人手中提着一个银灰色金属桶状容器。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "有",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 1254,
+      "total_tokens": 1519,
+      "completion_tokens": 265,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 197
+      }
+    }
+  },
+  {
+    "image": "negative/东方幼教幼儿园后厨加工间_20261119102807_00.jpg",
+    "image_sha256": "6dcb94d020a6c2ebfb84451efa5499eb2608d60d6d2f9f9796376c3bc6c89b04",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "穿白色工作服者手持一件红色手柄带金属刃的物品。",
+      "刀具": "不确定",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 1347,
+      "total_tokens": 1852,
+      "completion_tokens": 505,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 442
+      }
+    }
+  },
+  {
+    "image": "negative/东方幼教幼儿园后厨加工间_20261119142833_00.jpg",
+    "image_sha256": "4da8641e6b586cceab6b77d778f4ef3af9b49aa0e9b50fbe9dd0ca177d770792",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "手持一红色模糊块状物，下方带金属反光小件，整体模糊无法辨认具体种类。",
+      "刀具": "不确定",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 871,
+      "total_tokens": 1530,
+      "completion_tokens": 659,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 587
+      }
+    }
+  },
+  {
+    "image": "negative/中华巷5号院大门口定焦枪机_20261111190655_00.jpg",
+    "image_sha256": "6b091c9ce01e5646ae01abfaa8c3ad568a9c81116a0cb30f06f0f33082a98469",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "穿绿色毛绒外套者手持一深色尖状物体，形态模糊难辨。",
+      "刀具": "不确定",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 453,
+      "total_tokens": 786,
+      "completion_tokens": 333,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 266
+      }
+    }
+  },
+  {
+    "image": "negative/人民公园游船码头3号摄像机_20261121155329_02.jpg",
+    "image_sha256": "a32f8088d23e4f9f0ff84f2520d27a1366063d5e60afb4f75ea3c27037c790a9",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "背景人物手提一个带提梁的浅色水壶状容器，前景人物手持白色物体，其余未见目标。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "有",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 363,
+      "total_tokens": 706,
+      "completion_tokens": 343,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 270
+      }
+    }
+  },
+  {
+    "image": "negative/刘家寨小区农贸市场西北角_20261123142816_04.jpg",
+    "image_sha256": "7849d5ea91cac1fcc3ca9e5909240a1931f68d4cf02bb84a2ab8ee9ca68286e0",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿深色衣服的人抬手握着长条状物体，旁边有人提着红色塑料筐及红色桶状容器。",
+      "刀具": "不确定",
+      "斧头": "无",
+      "桶壶": "有",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 330,
+      "total_tokens": 916,
+      "completion_tokens": 586,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 512
+      }
+    }
+  },
+  {
+    "image": "negative/北气象巷路口祭祀点_20261123115902_02.jpg",
+    "image_sha256": "7be51d1e3b2acd6cf9225919ce438c80490d8d257a0f75f3769cd75dfade2834",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿蓝色羽绒服戴帽者背对站立，旁边红衣者手持一个白色壶状物体。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "不确定",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 327,
+      "total_tokens": 763,
+      "completion_tokens": 436,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 365
+      }
+    }
+  },
+  {
+    "image": "negative/北气象巷路口祭祀点_20261123115902_03.jpg",
+    "image_sha256": "aaf4b589d51e6c83d4f4c40ac0c6dba5f4c5bf037fdd786396fe89609e0f052a",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一人手提一个白色带提手的塑料桶/水壶状容器。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "有",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 325,
+      "total_tokens": 564,
+      "completion_tokens": 239,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 175
+      }
+    }
+  },
+  {
+    "image": "negative/北气象巷路口祭祀点_20261123115906_05.jpg",
+    "image_sha256": "6b4664ea67475747c53cc40183c8199f55c6ad7645ee3002c75a5e1b68613d1f",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一人手提一个白色带把手的塑料桶状容器，另一人骑在自行车上。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "有",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 320,
+      "total_tokens": 559,
+      "completion_tokens": 239,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 170
+      }
+    }
+  },
+  {
+    "image": "negative/北气象巷路口祭祀点_20261123115912_04.jpg",
+    "image_sha256": "42b148b6746c37f99c5197b737a31831f0dfcb607405d85cffacf78642b10f83",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "两人站立，左侧者手提一个带提手的白色桶状容器。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "有",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 333,
+      "total_tokens": 562,
+      "completion_tokens": 229,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 164
+      }
+    }
+  },
+  {
+    "image": "negative/南交通巷北口_20261121162350_11.jpg",
+    "image_sha256": "a6eb96659744e15b63baec288577a316ed667a7a26c77350827bd73fa4e05877",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "穿蓝白外套男子手中握持一细长深色物体，外形不清晰，疑似刀状物。",
+      "刀具": "不确定",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 330,
+      "total_tokens": 626,
+      "completion_tokens": 296,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 224
+      }
+    }
+  },
+  {
+    "image": "negative/发现更多精彩视频 - 抖音搜索 (1)_8_01.jpg",
+    "image_sha256": "33d5d05faa8ffe32151c4605e9d3bcfaebc17badb6c55f80cd94d987af649443",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一人手持一长条状带金属刃部的刀具。",
+      "刀具": "有",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 343,
+      "total_tokens": 585,
+      "completion_tokens": 242,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 180
+      }
+    }
+  },
+  {
+    "image": "negative/唐道637火车头东侧停车场入口北_20261022100347_02.jpg",
+    "image_sha256": "d703994fdd93682d0567e768adc3f19e27b3e21543a6b9ef322ca8af80d6ec49",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "穿蓝色工作服的人站在一个蓝色大容量桶状容器旁，手边有一个灰色设备状物体。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "有",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 385,
+      "total_tokens": 648,
+      "completion_tokens": 263,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 192
+      }
+    }
+  },
+  {
+    "image": "negative/唐道8号门_20261004094639_00.jpg",
+    "image_sha256": "c583e84e00740a79fea43e28cb8b86a82f74106c1ba5e358a116055751a4249c",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿红色连帽外套的人背对镜头，右手提着一个带提手的浅色小容器。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "不确定",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 489,
+      "total_tokens": 925,
+      "completion_tokens": 436,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 365
+      }
+    }
+  },
+  {
+    "image": "negative/唐道8号门_20261005164033_13.jpg",
+    "image_sha256": "ed9958e38c37a005eb8a2ddfdb16d5ce000a02b189304570c73960df62261541",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一人肩挎白色袋子，手中握持一深色长条状物，外观模糊难以辨认。",
+      "刀具": "不确定",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 325,
+      "total_tokens": 789,
+      "completion_tokens": 464,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 393
+      }
+    }
+  },
+  {
+    "image": "negative/唐道8号门_20261007182843_05.jpg",
+    "image_sha256": "efcf6c9794bc5a82790a840d9c4edf364cdd29cdd6dc95b7ada40fe53882fe1f",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名长发女子背对镜头行走，左手握持一件带浅色手柄和银白刃片的刀状物。",
+      "刀具": "有",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 320,
+      "total_tokens": 538,
+      "completion_tokens": 218,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 144
+      }
+    }
+  },
+  {
+    "image": "negative/唐道8号门_20261007184225_06.jpg",
+    "image_sha256": "92412b9147b4538e84fb95d2fc8df006136be8f802bfd74e7366edba273191d9",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿黑色皮夹克、黑裤的人背对镜头行走，左手提着一个浅色桶状或袋状容器。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "不确定",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 325,
+      "total_tokens": 755,
+      "completion_tokens": 430,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 355
+      }
+    }
+  },
+  {
+    "image": "negative/唐道8号门_20261007184226_07.jpg",
+    "image_sha256": "5c6609194adfab44f313ae4748d0dc7899b9f362ca61e7ba890114119804ed66",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一人背对镜头行走，左手提着一个浅色块状容器或袋状物。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "不确定",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 325,
+      "total_tokens": 643,
+      "completion_tokens": 318,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 250
+      }
+    }
+  },
+  {
+    "image": "negative/唐道8号门_20261008195653_03.jpg",
+    "image_sha256": "d8bbc16e8716c01f27587f3cb4eb1f0434dddbfec9a6079d69e3ca743d6e81f7",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿黑色特警制服的人员背对镜头行走，双手在身前握持一深色物体但细节模糊。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "不确定",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 447,
+      "total_tokens": 862,
+      "completion_tokens": 415,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 342
+      }
+    }
+  },
+  {
+    "image": "negative/唐道8号门_20261010193756_12.jpg",
+    "image_sha256": "8c187d59e2a85dab3a3cb5533d2bec566acd4143fbfa5a1d1f6922c87a135b06",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿黑衣戴帽男子手提一个白色细长瓶状物，背景有多名站立人员。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "不确定",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 320,
+      "total_tokens": 695,
+      "completion_tokens": 375,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 305
+      }
+    }
+  },
+  {
+    "image": "negative/唐道8号门_20261010193756_13.jpg",
+    "image_sha256": "cde53a997b281b431a1a7df1d45ff39aa7a9ce0bdd05dcdbee9d541f39c28c03",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿黑色皮夹克戴帽男子右手提着一个银灰色金属圆柱形钢瓶，顶部可见阀门结构。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "有",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 333,
+      "total_tokens": 584,
+      "completion_tokens": 251,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 177
+      }
+    }
+  },
+  {
+    "image": "negative/唐道8号门_20261023212402_02.jpg",
+    "image_sha256": "1f1aff09758b4db66c4b7a3dc0bae6906ac29e0d669d4f1f94f42916c6cf9074",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿黑色制服的安保人员背对镜头行走，右手握持一黑色长条状物体，外形疑似枪形物但细节不清。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "不确定",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 325,
+      "total_tokens": 649,
+      "completion_tokens": 324,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 243
+      }
+    }
+  },
+  {
+    "image": "negative/唐道8号门_20261025195708_06.jpg",
+    "image_sha256": "bb636abfd7ad83f24db0c79978dcaa586e7f2f1d70cd7412bd8f06ed5f3fd404",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一人站在玻璃门前，手持一长条状模糊物体，细节不清。",
+      "刀具": "不确定",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "不确定",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 333,
+      "total_tokens": 911,
+      "completion_tokens": 578,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 512
+      }
+    }
+  },
+  {
+    "image": "negative/唐道8号门_20261107194621_07.jpg",
+    "image_sha256": "249de0f285c0d6591a11c2ad0c7df4717ea7ce1ae9d57658fa98ea9c02a8cac3",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿深色衣裤的人背对镜头，身侧垂有一根细长条状物，外观模糊难以辨认。",
+      "刀具": "不确定",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 325,
+      "total_tokens": 693,
+      "completion_tokens": 368,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 293
+      }
+    }
+  },
+  {
+    "image": "negative/唐道匡威店南_20261002151222_04.jpg",
+    "image_sha256": "30c1438c209083ec4d48a87ed0fbf74ddacbae9796d3f6afcc5d6083741e1845",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "黑衣男子右手下垂握持一把手枪形物体，可见握把与枪管轮廓。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "有",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 330,
+      "total_tokens": 577,
+      "completion_tokens": 247,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 178
+      }
+    }
+  },
+  {
+    "image": "negative/唐道匡威店南_20261003201433_01.jpg",
+    "image_sha256": "4d3d12236149a0864be8013b53f2e065a25847a55cb7f5dcf621a9c55a22ec93",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名身着深色制服的警察，腰侧佩戴枪套，双手在身前持握一模糊深色物体。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "不确定",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 439,
+      "total_tokens": 1093,
+      "completion_tokens": 654,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 581
+      }
+    }
+  },
+  {
+    "image": "negative/唐道匡威店南_20261004120413_03.jpg",
+    "image_sha256": "fd48369ee0f1a7e7191c72660298d29cc50f70078fbd030eefa4bf33fa134281",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "地面场景，前景可见金属栏杆及一个绿色半透明塑料容器，背景有人腿部。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "不确定",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 325,
+      "total_tokens": 798,
+      "completion_tokens": 473,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 404
+      }
+    }
+  },
+  {
+    "image": "negative/唐道匡威店南_20261019125306_02.jpg",
+    "image_sha256": "9fa85bf5b551ecda507260cb61c423ba6d7ad2169335d5e29b8d4a951a7a15d2",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿深色外套的人行走时手持一件带握把和向前管状结构的枪形物体。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "有",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 321,
+      "total_tokens": 539,
+      "completion_tokens": 218,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 147
+      }
+    }
+  },
+  {
+    "image": "negative/唐道匡威店南_20261019125306_09.jpg",
+    "image_sha256": "2c1008bb8dcffecb8853c0e0e2d9e5d1c4faa5d2cc7bf47fb06c00ee13418792",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名黑衣男子行走，右手握持一长条状刀具垂于身侧。",
+      "刀具": "有",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 327,
+      "total_tokens": 615,
+      "completion_tokens": 288,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 220
+      }
+    }
+  },
+  {
+    "image": "negative/唐道匡威店西_20261003131604_02.jpg",
+    "image_sha256": "3a024aeb69f773d90c3d96cd5d5574cd074b7bd569c5812c2384640356ec7eb0",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿黑色T恤的男子手持一个浅色细长物体和一个白色小物体，外观模糊难以辨认。",
+      "刀具": "不确定",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 330,
+      "total_tokens": 684,
+      "completion_tokens": 354,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 283
+      }
+    }
+  },
+  {
+    "image": "negative/唐道匡威店西_20261003131604_04.jpg",
+    "image_sha256": "53c878ff5e8717c75a280b1c1f06eed7af63212afc3e982a6ade4d886a9d6545",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "行人手提浅色袋子，背景中一人手提红色带提手桶状容器。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "有",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 330,
+      "total_tokens": 596,
+      "completion_tokens": 266,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 199
+      }
+    }
+  },
+  {
+    "image": "negative/唐道同盛路停车场入口_20261017153748_05.jpg",
+    "image_sha256": "3b54c2a8eb85d476cbc7c53a1d7e8bb321b2a054c136d3e5c9d3289124d5e57d",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名戴帽、穿黑白拼色外套与黑裤白鞋者站立，其右后方背景可见一个蓝色桶状容器。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "有",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 327,
+      "total_tokens": 991,
+      "completion_tokens": 664,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 586
+      }
+    }
+  },
+  {
+    "image": "negative/唐道苹果手机店北_20261017154040_02.jpg",
+    "image_sha256": "08babc4af801d577daa5dd713edf98ebee06846dfd71c7d424764ee18711a9a2",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿深色制服戴帽的人员怀抱一支带枪托和弹匣的长枪形物体。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "有",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 325,
+      "total_tokens": 520,
+      "completion_tokens": 195,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 125
+      }
+    }
+  },
+  {
+    "image": "negative/唐道苹果手机店北_20261017154040_03.jpg",
+    "image_sha256": "2ed8228d9d046b816a63747ba26b734be40ab536cea2b764214dee4d1218bedb",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿黑色制服戴帽的人员手持一把深色手枪状物体行走。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "有",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 335,
+      "total_tokens": 725,
+      "completion_tokens": 390,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 325
+      }
+    }
+  },
+  {
+    "image": "negative/唐道西关大街停车场入口东_20261002151429_01.jpg",
+    "image_sha256": "dacf7dd552e68eb52f42c228d57a3d91e1be0476abedc309539bddbe096a2066",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿深色制服、背印有“西宁特警 SWAT”字样战术背心的人员，腰间装备带上插有一把黑色枪形物。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "有",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 2261,
+      "total_tokens": 2579,
+      "completion_tokens": 318,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 240
+      }
+    }
+  },
+  {
+    "image": "negative/唐道西关大街停车场入口东_20261024144702_01.jpg",
+    "image_sha256": "8ac785b9e50f90870a9ade001a2f957757ecd2921ff77eb68b1e6c3fdd3a177e",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿灰色上衣的女子手持一个白色带金属盖和提环的水壶状容器。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "有",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 1935,
+      "total_tokens": 2371,
+      "completion_tokens": 436,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 367
+      }
+    }
+  },
+  {
+    "image": "negative/唐道西关大街停车场入口东_20261031150636_01.jpg",
+    "image_sha256": "666d7df9ee194751656d649ab327e2299073d1c2c4fb5c9f33414d5e73f136f6",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿豹纹外套、黑裤白鞋的女子行走，画面左侧可见一个带蓝色顶部的灰白色大容量桶状容器。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "有",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 1129,
+      "total_tokens": 1435,
+      "completion_tokens": 306,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 228
+      }
+    }
+  },
+  {
+    "image": "negative/唐道阿迪达斯北_20261006164436_05.jpg",
+    "image_sha256": "6a0dc5600fb5f6c7da75082b8013d5f9ab359e50101a370221d9b9ad5b5e856e",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿深色衣裤的男子站立，右手握持一细长条状物垂于身侧，左手持一浅色小物件，整体图像模糊。",
+      "刀具": "不确定",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 325,
+      "total_tokens": 589,
+      "completion_tokens": 264,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 182
+      }
+    }
+  },
+  {
+    "image": "negative/唐道阿迪达斯北_20261006164436_09.jpg",
+    "image_sha256": "81911c8ac7225716fa63fe6c01fb38de950bd634ee58d61448bc268561711407",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿白T恤、腰系格子衬衫的男子背对镜头站立，右手下垂处似握有一深色细长条状物，外形模糊难辨。",
+      "刀具": "不确定",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 363,
+      "total_tokens": 710,
+      "completion_tokens": 347,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 264
+      }
+    }
+  },
+  {
+    "image": "negative/唐道阿迪达斯北_20261101134509_01.jpg",
+    "image_sha256": "e4a7748b5f13ded44bf0c51697bb8f9ef9a730850d450dbe8ee81c169e97f1d5",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "穿红衣戴头巾者左手提一银白色金属反光细长物件，形状不清晰。",
+      "刀具": "不确定",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 320,
+      "total_tokens": 649,
+      "completion_tokens": 329,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 259
+      }
+    }
+  },
+  {
+    "image": "negative/唐道阿迪达斯北_20261108134544 (1)_07.jpg",
+    "image_sha256": "e66d905972bb729f999e6856f464d59cf4d578fa7a97edcf765fa5a9d57638b9",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿红色上衣、戴透明头套的人背对镜头行走，手中握持一个细长条状物体，外观模糊难以确认为具体工具。",
+      "刀具": "不确定",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 339,
+      "total_tokens": 735,
+      "completion_tokens": 396,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 314
+      }
+    }
+  },
+  {
+    "image": "negative/唐道阿迪达斯北_20261108134544_07.jpg",
+    "image_sha256": "e66d905972bb729f999e6856f464d59cf4d578fa7a97edcf765fa5a9d57638b9",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "穿红衣戴白头套者身侧持一长条状刀具，可见浅色刀柄与深色刀身。",
+      "刀具": "有",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 339,
+      "total_tokens": 784,
+      "completion_tokens": 445,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 371
+      }
+    }
+  },
+  {
+    "image": "negative/唐道阿迪达斯北_20261114165547_00.jpg",
+    "image_sha256": "9cb3497639df06d65d9b47a80ca21bf46cb9a3ab78a82c85c8bf3c1f18acce3c",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "右侧人物手持一把由绿、红、蓝等彩色部件组成的玩具枪形物。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "有",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 475,
+      "total_tokens": 758,
+      "completion_tokens": 283,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 214
+      }
+    }
+  },
+  {
+    "image": "negative/唐道阿迪达斯北_20261115115314_01.jpg",
+    "image_sha256": "d181153b73e5903891c3b97dcdeab5bdddd27855a1c47a275bb030c2e535eb91",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿黑白卫衣的男子背对镜头，手提一个粉色带盖小容器，疑似水壶或保温杯。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "不确定",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 475,
+      "total_tokens": 913,
+      "completion_tokens": 438,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 365
+      }
+    }
+  },
+  {
+    "image": "negative/唐道阿迪达斯南_20261018191543_01.jpg",
+    "image_sha256": "e738d6001e61d9429f8ddefdaf3883190a8187f158ece3c96127ee8b3e2b791d",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿黑色特警制服、戴帽的人员背对镜头行走，腰侧及左手处可见深色装备，具体形态模糊。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "不确定",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 351,
+      "total_tokens": 753,
+      "completion_tokens": 402,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 325
+      }
+    }
+  },
+  {
+    "image": "negative/扛煤气罐_109_05.jpg",
+    "image_sha256": "0c6eeb7b88c4af8f2c02aa3f5da9c9453cf9544364de14eff9f7504fa976b4c7",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "两名黑衣男子站立，其中一人双手在身前持一深色长条状物体，细节模糊。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "不确定",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 333,
+      "total_tokens": 575,
+      "completion_tokens": 242,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 171
+      }
+    }
+  },
+  {
+    "image": "negative/扛煤气罐_118_02.jpg",
+    "image_sha256": "3691992d439e63521e37e4709930967a79ad9b7480c6566aca13dbbca20283ae",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿制服人员手持一个黑色带金属箍的罐状容器靠近头部。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "不确定",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 415,
+      "total_tokens": 848,
+      "completion_tokens": 433,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 366
+      }
+    }
+  },
+  {
+    "image": "negative/新华巷口1_20261120095002_02.jpg",
+    "image_sha256": "db02f6671a1a9e2eaabca015acebc36a2aa427a47f4820559b547ba059b10e8f",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一人手提一个带白色盖子的绿色塑料桶状容器。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "有",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 320,
+      "total_tokens": 527,
+      "completion_tokens": 207,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 144
+      }
+    }
+  },
+  {
+    "image": "negative/新华巷口1_20261120095004_03.jpg",
+    "image_sha256": "105fb17cd03d0b997cae62f20143fde593d56c45053745fb5c56b5e8c333588d",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一人手持一个绿色带提手的塑料桶/水壶状容器，旁边停着一辆白色电动车。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "有",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 332,
+      "total_tokens": 596,
+      "completion_tokens": 264,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 193
+      }
+    }
+  },
+  {
+    "image": "negative/海湖幼儿园后厨操作间1_20261116094727_00.jpg",
+    "image_sha256": "289dffcda630f20cece9272f125193860692f31a0917adcdd4881717561be6fb",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "厨房操作台上两名穿白色工作服、系棕色围裙、戴蓝色帽子的人员在处理生肉，台上有砧板、生肉及盛满肉块的不锈钢大盆，前方人员手握一黑色长条状物体。",
+      "刀具": "不确定",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 935,
+      "total_tokens": 1443,
+      "completion_tokens": 508,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 409
+      }
+    }
+  },
+  {
+    "image": "negative/海湖幼儿园后厨操作间1_20261117104220_00.jpg",
+    "image_sha256": "c9a5766c815d909faaf1846ea5dda64830d50f184537ab0c395dc4d7da57ce3f",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿白色工作服、系围裙、戴口罩和手套的人在案板前处理食材，台面上放有一把绿色手柄的菜刀和金属盆。",
+      "刀具": "有",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 612,
+      "total_tokens": 1016,
+      "completion_tokens": 404,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 322
+      }
+    }
+  },
+  {
+    "image": "negative/海湖幼儿园后厨操作间1_20261117104402_00.jpg",
+    "image_sha256": "ecde71ffa6a058b5e0c1afe8bf8e376c87a55cb14158ee330d3be2df0856506d",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "两名穿白色工作服、戴蓝色发网的人员在厨房操作台旁活动，右侧木板上放有一把金属刀具。",
+      "刀具": "有",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 895,
+      "total_tokens": 1195,
+      "completion_tokens": 300,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 224
+      }
+    }
+  },
+  {
+    "image": "negative/虎台一巷16号院西变焦枪机_20261119170545_01.jpg",
+    "image_sha256": "995c557239045e08839ccdd5e4f8896c58ba552a593fdd562ae998f040674ad9",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "多人背对站立于草地边，一人手握绿色弯曲杆状物，前景女孩手持一灰白色模糊物体。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "不确定",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 475,
+      "total_tokens": 1142,
+      "completion_tokens": 667,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 592
+      }
+    }
+  },
+  {
+    "image": "negative/虎台一巷16号院西变焦枪机_20261119170545_04.jpg",
+    "image_sha256": "676279ad29c91bc5be36eca49d90041a03c2cd5651121de06f5468bb9ab0f523",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿粉色外套的女孩手持一个灰白色带黑色部件的枪形物体。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "有",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 354,
+      "total_tokens": 589,
+      "completion_tokens": 235,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 168
+      }
+    }
+  },
+  {
+    "image": "negative/虎台二巷梧桐午托班后厨_20261118101512_00.jpg",
+    "image_sha256": "f838752ffc4694046306439b92473a66338ee1cfeb68e6aba265dabfc48275b1",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿红色工作服、戴蓝色发网和口罩的厨房人员双手端着一个带把手的大型不锈钢桶/壶。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "有",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 495,
+      "total_tokens": 750,
+      "completion_tokens": 255,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 180
+      }
+    }
+  },
+  {
+    "image": "negative/虎台二巷梧桐午托班后厨_20261118103635_01.jpg",
+    "image_sha256": "4e48300ed486d88747bd35f82cf63a8e7b39371d4f4f257beedf7f64521c63da",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿红色厨师服、戴白色厨师帽、系白色围裙的人站在厨房操作台旁，台面上放有不锈钢盆、装食物的白色塑料篮以及一把平放的菜刀。",
+      "刀具": "有",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 453,
+      "total_tokens": 1001,
+      "completion_tokens": 548,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 458
+      }
+    }
+  },
+  {
+    "image": "negative/虎台二巷梧桐午托班后厨_20261118104419_00.jpg",
+    "image_sha256": "a824896a32683468b3db34cb270de345b311e0f6797b702b3caf8555b3338f2d",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "穿红衣白围裙的厨师右手握一黑色长条刀状物，操作台旁放有一只白色塑料桶。",
+      "刀具": "有",
+      "斧头": "无",
+      "桶壶": "有",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 439,
+      "total_tokens": 921,
+      "completion_tokens": 482,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 406
+      }
+    }
+  },
+  {
+    "image": "negative/虎台二巷梧桐午托班后厨_20261118104506_00.jpg",
+    "image_sha256": "633bb52a524e02ce9a8a4f0e5373a108cad73c0046825abc21a5d530a61a2fba",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿红色厨师服、系白色围裙戴白帽的厨师背对镜头站在厨房操作台前，台面放有金属盆、白色塑料桶及一根长条状工具。",
+      "刀具": "不确定",
+      "斧头": "无",
+      "桶壶": "有",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 485,
+      "total_tokens": 1303,
+      "completion_tokens": 818,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 729
+      }
+    }
+  },
+  {
+    "image": "negative/虎台二巷梧桐午托班后厨_20261118104526_00.jpg",
+    "image_sha256": "dc9c800bce168e504968f1baf5e641ca816b6b9352cde8a2d8f66b5c3b3614d2",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿红色厨师服、戴白色厨师帽并系白色围裙的人背对镜头站在厨房操作台前，左下角台面处可见一只手握着细长金属物。",
+      "刀具": "不确定",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 439,
+      "total_tokens": 834,
+      "completion_tokens": 395,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 311
+      }
+    }
+  },
+  {
+    "image": "negative/虎台二巷梧桐午托班后厨_20261118105121_00.jpg",
+    "image_sha256": "fc283c5f9742f2496334d669df2b73d3c2178b6c3074675abf3a7475f557adf1",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一人双手端着盛满食物的金属托盘，另一人手持带红盖的白色塑料壶。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "有",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 508,
+      "total_tokens": 796,
+      "completion_tokens": 288,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 219
+      }
+    }
+  },
+  {
+    "image": "negative/虎台二巷梧桐午托班后厨_20261118105136_00.jpg",
+    "image_sha256": "c01382d0bf28b1140641b6e2ea750e590b973183b95a5510c3863121d8c909c4",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "厨房操作台旁，台面放有切好的茄子块、金属盆及一个带绿色标签的白色塑料桶，前景人物穿红衣戴蓝帽背对镜头。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "有",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 580,
+      "total_tokens": 1012,
+      "completion_tokens": 432,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 347
+      }
+    }
+  },
+  {
+    "image": "negative/虎台二巷梧桐午托班后厨_20261118105145_00.jpg",
+    "image_sha256": "e82675ced1aaf51d90cd19914bd02793014646afd8dd1dc97ddf1f99e1c1584e",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "厨师手持一柄深色柄工具在不锈钢盆中处理白色块状食材。",
+      "刀具": "不确定",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 515,
+      "total_tokens": 1005,
+      "completion_tokens": 490,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 423
+      }
+    }
+  },
+  {
+    "image": "negative/虎台二巷梧桐午托班后厨_20261118105204_01.jpg",
+    "image_sha256": "e343088d8fa9dd28d5c7caee600b2dd119fe2b12666a9ece6a481576e78d1f8a",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "厨房操作台旁一名穿白围裙、戴蓝帽的人员站立，台面上可见金属锅、白色塑料桶及切好的食材。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "有",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 591,
+      "total_tokens": 1411,
+      "completion_tokens": 820,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 740
+      }
+    }
+  },
+  {
+    "image": "negative/虎台二巷梧桐午托班后厨_20261119093534_00.jpg",
+    "image_sha256": "91a23c2a3add2e467b29ac6a03af54abbf05f4ab9a1b722d52980cdd0dc81e28",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "穿红衣戴蓝帽口罩的人背对镜头站在厨房，台面放有不锈钢汤桶、长柄勺和粉色抹布，旁边地面有一个套塑料袋的蓝色塑料桶。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "有",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 552,
+      "total_tokens": 1023,
+      "completion_tokens": 471,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 384
+      }
+    }
+  },
+  {
+    "image": "negative/虎台二巷梧桐午托班后厨_20261119094116 (1)_00.jpg",
+    "image_sha256": "912f871bc924bc80bdf5a835eb7e8133f4626eb6523c7891fdeda3b5042e028e",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿红色厨师服、戴白色厨师帽的人站在操作台前，手中握着一把小刀。",
+      "刀具": "有",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 409,
+      "total_tokens": 817,
+      "completion_tokens": 408,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 336
+      }
+    }
+  },
+  {
+    "image": "negative/虎台二巷梧桐午托班后厨_20261119094116_00.jpg",
+    "image_sha256": "d65abdfe4b410da843a3327af47edd504b9607d743505c3e22f66d06058b8eee",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "厨房中一名穿红色上衣、白色围裙和厨师帽的人背对镜头站立，左下角地面放有一个蓝色塑料桶。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "有",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 485,
+      "total_tokens": 876,
+      "completion_tokens": 391,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 314
+      }
+    }
+  },
+  {
+    "image": "negative/虎台二巷梧桐午托班后厨_20261119094207_00.jpg",
+    "image_sha256": "4a6a0332e663dde93c8e5a2c8dd577bb1f0f65ad80fac1213e730d8fe59d8574",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "穿红色厨师服戴白帽者手持长柄厨具站在操作台旁，脚边放有一个套塑料袋的蓝色塑料桶。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "有",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 447,
+      "total_tokens": 761,
+      "completion_tokens": 314,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 236
+      }
+    }
+  },
+  {
+    "image": "negative/虎台二巷梧桐午托班后厨_20261119094256_00.jpg",
+    "image_sha256": "fba3b4b79e573da716a6a274c9622edb4b76587a767beb80198b2990d407914a",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "厨师手持长柄厨具在不锈钢灶台前操作，地面放有一个蓝色塑料桶。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "有",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 447,
+      "total_tokens": 755,
+      "completion_tokens": 308,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 240
+      }
+    }
+  },
+  {
+    "image": "negative/虎台二巷梧桐午托班后厨_20261119094318_00.jpg",
+    "image_sha256": "c4897f9c0136113b425478565db415e3003caccb7a4121474190e9540679f14f",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "厨师一手持不锈钢锅盖、一手扶着一个不锈钢大汤桶，灶台上另放有多个不锈钢锅具。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "有",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 751,
+      "total_tokens": 1227,
+      "completion_tokens": 476,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 403
+      }
+    }
+  },
+  {
+    "image": "negative/虎台二巷梧桐午托班后厨_20261119094319_00.jpg",
+    "image_sha256": "18a64d64a2968236d4e42957ce131371e0ddfbe026f7f0dd9bd6bdc71a4eed49",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "厨师一手持圆形不锈钢锅盖，另一手持带把手的不锈钢桶状水壶。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "有",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 720,
+      "total_tokens": 1057,
+      "completion_tokens": 337,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 270
+      }
+    }
+  },
+  {
+    "image": "negative/虎台二巷梧桐午托班后厨_20261119094321_00.jpg",
+    "image_sha256": "72494e3ce2ca4e91ff4e505110225477186d89b2fbba125c9b2f8322f0e6e6d2",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿红色厨师服、戴白色帽子并系白色围裙带的厨师背对镜头站在灶台前，灶台上放有金属锅具和不锈钢盆，画面右边缘露出一个浅蓝色塑料容器边缘。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "不确定",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 705,
+      "total_tokens": 1377,
+      "completion_tokens": 672,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 577
+      }
+    }
+  },
+  {
+    "image": "negative/虎台二巷梧桐午托班后厨_20261119094323_00.jpg",
+    "image_sha256": "e0d690662f7d9b669775743f5212d1f30751a2961dbc60b54f4dad645bb247a5",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿红色上衣、白色围裙和白色帽子的厨师站在水槽边，手持一深色长条状物体，外观模糊难以辨认。",
+      "刀具": "不确定",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 480,
+      "total_tokens": 958,
+      "completion_tokens": 478,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 397
+      }
+    }
+  },
+  {
+    "image": "negative/虎台二巷梧桐午托班后厨_20261119094430_00.jpg",
+    "image_sha256": "a70de7d7298f037b34cb77220f38e4e34409cb538faf4d811bd8a9071a29dca2",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿红衣、戴蓝帽、系白围裙的人背对镜头在操作台前工作，前景砧板上有切碎的白色食材、一根胡萝卜和几个白色团状物，左侧墙上挂有金属器具。",
+      "刀具": "不确定",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 360,
+      "total_tokens": 1037,
+      "completion_tokens": 677,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 580
+      }
+    }
+  },
+  {
+    "image": "negative/虎台二巷梧桐午托班后厨_20261119094510 (1)_00.jpg",
+    "image_sha256": "5e14a4b224b2007b388d0008425135ddc6913ebf0b34c7882cba65c186998621",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "厨房中一名穿红色厨师服、戴白色厨师帽和口罩的厨师背对镜头在灶台前操作，灶台上放有多个不锈钢锅，地面放有一个套着塑料袋的蓝色塑料桶。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "有",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 605,
+      "total_tokens": 1176,
+      "completion_tokens": 571,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 479
+      }
+    }
+  },
+  {
+    "image": "negative/虎台二巷梧桐午托班后厨_20261119094510_00.jpg",
+    "image_sha256": "be3d7b430e931da8d8371a8f7a34cb919c8d8ec3b6c3c4381a354f8e87d14285",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "厨师手持长柄工具在灶台前操作，灶台上放有不锈钢锅，地面有一个蓝色塑料桶。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "有",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "负样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 580,
+      "total_tokens": 1065,
+      "completion_tokens": 485,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 412
+      }
+    }
+  },
+  {
+    "image": "positive/01e9186d98347cba010370019a876d136f_258_34_00.jpg",
+    "image_sha256": "6321db2f306240113932f8bcbc48d4c75ee50a6a29d3a45f09733382531cbd18",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名戴红帽穿绿衣的男子双手握着一根长木柄状物体，背景为木柴堆和木屋。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 975,
+      "total_tokens": 1377,
+      "completion_tokens": 402,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 326
+      }
+    }
+  },
+  {
+    "image": "positive/01e921b6646407df010370019aabb635dd_115_106_02.jpg",
+    "image_sha256": "db34f78b4be9bf0ba3873fd19cdf989e0eb85022001eacabcebed9f422ec5f32",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "男子手持一个带金属拉线的木制锯木工具，正在切割堆放的木柴。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 1513,
+      "total_tokens": 1794,
+      "completion_tokens": 281,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 212
+      }
+    }
+  },
+  {
+    "image": "positive/01e921b6646407df010370019aabb635dd_115_13_01.jpg",
+    "image_sha256": "7c625d15057de98bcbcae2148757eb444d7c3aa13346708d5b33b7cd9ee5752d",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名男子弯腰双手握持一根棕色木杆，木杆上绑有一根粉红色管状物的长条装置。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 1479,
+      "total_tokens": 1852,
+      "completion_tokens": 373,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 298
+      }
+    }
+  },
+  {
+    "image": "positive/01eac33d6b152fc801037001a10aaaf201_520_18_00.jpg",
+    "image_sha256": "c42bb43fcc8396a231577dc220d8d53cabd77fd6f4f91aceac4732683759121d",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名戴手套的男子手持一台灰黑色电锯（链锯）正在切割一段倒地的树干，可见锯链与手柄。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 831,
+      "total_tokens": 1095,
+      "completion_tokens": 264,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 187
+      }
+    }
+  },
+  {
+    "image": "positive/4-mp4_236_100x100_0_jpg.rf.94dda96e5bda99668cb7d8957b01a04f_00.jpg",
+    "image_sha256": "39198309e85f343c32e05f7ad47e661260210a7bf60b46c340f85873ae7f6076",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "画面中一名穿黑色连帽衫戴口罩者伸手靠近一名穿绿色上衣者，后方有穿蓝色运动服者，未见明显手持目标物品。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 417,
+      "total_tokens": 664,
+      "completion_tokens": 247,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 165
+      }
+    }
+  },
+  {
+    "image": "positive/4-mp4_236_100x100_0_jpg.rf.94dda96e5bda99668cb7d8957b01a04f_01.jpg",
+    "image_sha256": "3c250c64775c07fa1ed7584e2c117b1120b77e89f088446b436681f9b4ee9e8f",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "人物手提一个黑色软质大行李袋。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 335,
+      "total_tokens": 555,
+      "completion_tokens": 220,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 160
+      }
+    }
+  },
+  {
+    "image": "positive/4-mp4_236_100x100_0_jpg.rf.94dda96e5bda99668cb7d8957b01a04f_03.jpg",
+    "image_sha256": "7914f3531df37c3194992fab8cb0dcc7d9a4b6f3694123435166f976773911bb",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "画面中多人站立，右侧黑衣人手提一个黑色包袋，其余人手持手机等小物件，未见刀具、斧头、桶壶、钢瓶、枪形物或弩。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 595,
+      "total_tokens": 848,
+      "completion_tokens": 253,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 164
+      }
+    }
+  },
+  {
+    "image": "positive/78-mp4_276_100x100_0_jpg.rf.01e7da25267dee6d63dd9ace6f2f015d_00.jpg",
+    "image_sha256": "63a5a09bb80f2710aa15fb88fcd1891c668a28c0b074b4de986e97c886f706a1",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "两名穿深色衣服的人站在栏杆旁，其中一人手持一根斜伸的细长杆状物，画面模糊。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 325,
+      "total_tokens": 643,
+      "completion_tokens": 318,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 244
+      }
+    }
+  },
+  {
+    "image": "positive/9901e56cbf4768_00.jpg",
+    "image_sha256": "c8f3ed090ec94d308093a9d6a8a4044918ada50030fa4152277539c7432ff048",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "男子手持一根长条状棕褐色杆状物，斜置于身前，外观似长棍或长管。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 320,
+      "total_tokens": 805,
+      "completion_tokens": 485,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 411
+      }
+    }
+  },
+  {
+    "image": "positive/frame_0179_00.jpg",
+    "image_sha256": "3e35f5fb67d316cf7a2a52993e7f14984421654f0149970652f75342757999ee",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿白色印花T恤和深色短裤的人背对镜头站立，身旁地面有一个灰色圆柱形桶状物。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 325,
+      "total_tokens": 701,
+      "completion_tokens": 376,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 301
+      }
+    }
+  },
+  {
+    "image": "positive/frame_0365_00.jpg",
+    "image_sha256": "47e6fbde7d83d24ca2c303b3166fffce8080be590cb2e5295034075d7cf6694a",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名戴白帽穿深色外套的男子手持一个灰色头盔状物体放在木桩上。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 567,
+      "total_tokens": 814,
+      "completion_tokens": 247,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 178
+      }
+    }
+  },
+  {
+    "image": "positive/frame_0432_00.jpg",
+    "image_sha256": "fa0f904056a9200c1144571f8d57ef620bd726d456ba989a5b3215c48f9cdbc2",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "人物手持一个红色小物体，形状不清晰，背景为柴堆与铁架。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 567,
+      "total_tokens": 833,
+      "completion_tokens": 266,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 197
+      }
+    }
+  },
+  {
+    "image": "positive/frame_0433_00.jpg",
+    "image_sha256": "ad5e1e5da6bea8a0b6bb05d1a24c36bb35f23295341f8a5c3b108f723c4281c6",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名女子双手横握一把长木柄农具，前端为金属铲锄状头部并带红色连接件。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 593,
+      "total_tokens": 861,
+      "completion_tokens": 268,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 193
+      }
+    }
+  },
+  {
+    "image": "positive/u=2886994959,312586915&fm=253&fmt=auto&app=138&f=JPEG_00.jpg",
+    "image_sha256": "95d5a9f0be9380a78dae3e9ca9e96d1941c58b8eae330599cc61c65d41f6ddf9",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名戴帽男子站立并举手至嘴边，周围未见刀具、斧头、桶壶、钢瓶、枪形物或弩。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 330,
+      "total_tokens": 609,
+      "completion_tokens": 279,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 200
+      }
+    }
+  },
+  {
+    "image": "positive/u=2893048581,2855310798&fm=253&fmt=auto&app=138&f=JPEG_02.jpg",
+    "image_sha256": "80a3dc0f4a78cdfa1328d7fe8d8a56931904ac024a54ac3d5be01e2e1c04c98c",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名男子双手横握一根长木杆（木棒），周围有围观人群。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 321,
+      "total_tokens": 594,
+      "completion_tokens": 273,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 205
+      }
+    }
+  },
+  {
+    "image": "positive/u=491441126,2320344067&fm=253&fmt=auto&app=138&f=JPEG_00.jpg",
+    "image_sha256": "c00077895dd95893f83a4228845178658879a9f6f79b50206f7a25e5139c2291",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名男子蹲坐地上双手持一把木制长弓，弓身呈弯曲木条状并带有弓弦。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 479,
+      "total_tokens": 734,
+      "completion_tokens": 255,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 181
+      }
+    }
+  },
+  {
+    "image": "positive/东方幼教幼儿园后厨加工间_20261119102816_01.jpg",
+    "image_sha256": "ffe442ba955f42afa25c9afda4f098e4e077e44bc73fe4ede30e87412cffc121",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿白色工作服、戴白色帽子的人俯拍站立，右手握着一个无法辨认的小物体。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 1047,
+      "total_tokens": 1361,
+      "completion_tokens": 314,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 243
+      }
+    }
+  },
+  {
+    "image": "positive/兴海路19号院南角2枪机_20261121094947_00.jpg",
+    "image_sha256": "3f86d6eaca96827bdf9796dbb005e095b841d62d1ca79d0ae9123c22445f111d",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名戴黄色安全帽、穿绿色外套的人背对镜头站立，双手被外套遮挡不可见，旁边地面放有绿色液化气钢瓶和透明塑料油桶。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 543,
+      "total_tokens": 1632,
+      "completion_tokens": 1089,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 1004
+      }
+    }
+  },
+  {
+    "image": "positive/刘家寨小区农贸市场西北角_20261118172034_02.jpg",
+    "image_sha256": "1e4bbeb2f0cca89aa21374a29d6e94d11eed618f45779775e6781d386d4803c6",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿黑色运动服的男孩手持一根细长深色杆状物，斜置于身前。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 320,
+      "total_tokens": 622,
+      "completion_tokens": 302,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 234
+      }
+    }
+  },
+  {
+    "image": "positive/刘家寨小区农贸市场西北角_20261118172036_03.jpg",
+    "image_sha256": "64df4e6e15209740965e911100b61752598ee97194387c5242ba9653d5a8d835",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿黑色运动服的人手持一根细长杆状物，未见刀具、斧头、桶壶、钢瓶、枪形物或弩。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 325,
+      "total_tokens": 561,
+      "completion_tokens": 236,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 155
+      }
+    }
+  },
+  {
+    "image": "positive/刘家寨小区农贸市场西北角_20261123142816_03.jpg",
+    "image_sha256": "1ce4cdd46538e93a323962362491598997b9a3168e322dd2a71ba299b07ad714",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一人穿黑色运动服站立，手中拿着一张白色纸张状物品，旁边有绿色台面桌子和红色柜子。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 320,
+      "total_tokens": 524,
+      "completion_tokens": 204,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 129
+      }
+    }
+  },
+  {
+    "image": "positive/北气象巷路口祭祀点_20261123115856_00.jpg",
+    "image_sha256": "e88c20f40b01d7902fc11f4407ce79b2321eba0665449af81880ecb8101e49f7",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "画面中两人站立，红衣者手持手机并挎包，未见目标物品。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 320,
+      "total_tokens": 533,
+      "completion_tokens": 213,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 146
+      }
+    }
+  },
+  {
+    "image": "positive/北气象巷路口祭祀点_20261123115856_06.jpg",
+    "image_sha256": "203b15cc1507c996c0faf5752946b522e4725533686db01d19ca6d8d8d75c0b1",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "穿红衣戴帽者手持一根细长红褐色杆状物，旁边一人穿蓝绿上衣背对镜头。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 325,
+      "total_tokens": 730,
+      "completion_tokens": 405,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 331
+      }
+    }
+  },
+  {
+    "image": "positive/北气象巷路口祭祀点_20261123115902_01.jpg",
+    "image_sha256": "4d62663822e614632e3a4725f843c2cab6a07b2b007477335781ab0e8b07c029",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿红色外套戴帽的小孩手持一根长棍状物体，下端为黑色，上端带蓝绿色部件。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 325,
+      "total_tokens": 633,
+      "completion_tokens": 308,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 233
+      }
+    }
+  },
+  {
+    "image": "positive/北气象巷路口祭祀点_20261123115912_00.jpg",
+    "image_sha256": "ec2d0713959642c19f5358fc455a276c7c217764eed3eef2391ce8de3d2c21ea",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿红色外套戴帽子和护目镜的小孩手持一根斜跨身前的长杆状物，该物下端垂有黑色长条、中段带浅色节状结构。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 325,
+      "total_tokens": 735,
+      "completion_tokens": 410,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 322
+      }
+    }
+  },
+  {
+    "image": "positive/南交通巷北口_20261121162439_05.jpg",
+    "image_sha256": "831dbcc64a5ad0b2cbb38caccaa9c38275fe27280ec5286622305842576fa9c5",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名小孩手持一根细长杆状物，其上带有若干黄色部件，其余人未见明显手持物品。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 325,
+      "total_tokens": 657,
+      "completion_tokens": 332,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 260
+      }
+    }
+  },
+  {
+    "image": "positive/发搜索 (1)_1_00.jpg",
+    "image_sha256": "c2c57340d2c2d1f1eb6dc1b6fed4947591bade7d4985168f147ffc22e5aa0356",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名身着中世纪锁子甲与皮甲的人手持一根带皮带缠绕的灰白色长杆状物，身上斜跨一根长木条。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 675,
+      "total_tokens": 1182,
+      "completion_tokens": 507,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 425
+      }
+    }
+  },
+  {
+    "image": "positive/发现更多精彩视频 - 抖音搜索 (1)_113_00.jpg",
+    "image_sha256": "6f3db3d3d3748122da83ba626f0b36682b8edd678ba996376434cdd9767da3e5",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "手持一根长条形木杆（竹竿），其上搭放一块木板状物件。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 567,
+      "total_tokens": 827,
+      "completion_tokens": 260,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 192
+      }
+    }
+  },
+  {
+    "image": "positive/发现更多精彩视频 - 抖音搜索 (1)_8_00.jpg",
+    "image_sha256": "60be8b2aeb3e3afcc73d9c16b69949b0226026cf7e0841ecf66048f56de3aae4",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名戴黑帽穿黑衣的男子右手握持一根竖直长杆状物体，下端带横向把手结构，外观类似长柄工具或支架。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 417,
+      "total_tokens": 716,
+      "completion_tokens": 299,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 218
+      }
+    }
+  },
+  {
+    "image": "positive/发现更多精彩视频 - 抖音搜索 (2)_3_01.jpg",
+    "image_sha256": "0bbda2e177750d2bb6f28688593603956a6b56130012b77f82c0f9d166d92e52",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿红色背心、戴口罩的男子双手握持一根长条状木棍形物体扛于肩侧。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 333,
+      "total_tokens": 590,
+      "completion_tokens": 257,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 184
+      }
+    }
+  },
+  {
+    "image": "positive/发现更多精彩视频 - 抖音搜索 (2)_54_00.jpg",
+    "image_sha256": "b858a408229036d1937ba6f8f90cc46191baca6ab501641851dd196b4a2fe7fd",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一人手持一张木质长弓，弓弦上搭有一支箭，正作瞄准姿势。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 633,
+      "total_tokens": 909,
+      "completion_tokens": 276,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 206
+      }
+    }
+  },
+  {
+    "image": "positive/发现更多精彩视频 - 抖音搜索 (3)_20_00.jpg",
+    "image_sha256": "99fbd26da5aee4acbef8c45d310db88d4e0c6678c4e0394195bfaceff21268d4",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名女子靠在木桌上，旁边堆放着多根竹木长条及弯曲木构件，背景有黄色袋子和杂物。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 627,
+      "total_tokens": 859,
+      "completion_tokens": 232,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 155
+      }
+    }
+  },
+  {
+    "image": "positive/发现更多精彩视频 - 抖音搜索 (3)_20_01.jpg",
+    "image_sha256": "56e06fbdbab76a1a3402c5f6097285d2278e454d10e72c910d71f4a4290ae4ba",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "画面主体为大量堆叠的红棕色与原木色木制椅腿及木条，左侧一人手臂搭在木桌上，手中未持物。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 735,
+      "total_tokens": 962,
+      "completion_tokens": 227,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 146
+      }
+    }
+  },
+  {
+    "image": "positive/发现更多精彩视频 - 抖音搜索 (3)_34_00.jpg",
+    "image_sha256": "aa2840203f2bacb42f7d9459c4febdde2a4aef964805a4327dbe1a1943047079",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "市场摊位上堆放着黄色和白色塑料筐、竹篮及木椅背等木制品，周围有人群聚集。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 735,
+      "total_tokens": 970,
+      "completion_tokens": 235,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 159
+      }
+    }
+  },
+  {
+    "image": "positive/发现更多精彩视频 - 抖音搜索 (3)_49_00.jpg",
+    "image_sha256": "bb3d74cf6a5585e100fe140184378176047aa5da7a9152f5fc25c5dc2441bb55",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一人背对镜头行走，背棕色包并斜挎一条橙红色长条状带物，包上挂有圆形金属环。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 320,
+      "total_tokens": 600,
+      "completion_tokens": 280,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 201
+      }
+    }
+  },
+  {
+    "image": "positive/发现更多精彩视频 - 抖音搜索 (3)_8_00.jpg",
+    "image_sha256": "a2ae550338713b720802651c22e0ec595e475a7f04954c3aa379ef4c4bd17224",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一人背对镜头手持一张带弦的棕色弓，肩背斜挎毛皮袋。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 741,
+      "total_tokens": 1023,
+      "completion_tokens": 282,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 212
+      }
+    }
+  },
+  {
+    "image": "positive/发现更多精彩视频 - 抖音搜索 (4)_47_00.jpg",
+    "image_sha256": "cbaf212e1c313ef84cd52d37c570707e3f57154d725b9569e42764dcf46343cb",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "手持一捆黑色长条状杆件或折叠架，其间夹有一根绿色细杆。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 1055,
+      "total_tokens": 1358,
+      "completion_tokens": 303,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 232
+      }
+    }
+  },
+  {
+    "image": "positive/发现更多精彩视频 - 抖音搜索 (4)_68_01.jpg",
+    "image_sha256": "e83f2fd8ee45418e83952be4f495585959380dd4404a6250869f641e08bb8730",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿制服人员蹲地手持一小型设备并指向地面黑色装置及圆柱、长条状物品。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 585,
+      "total_tokens": 936,
+      "completion_tokens": 351,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 278
+      }
+    }
+  },
+  {
+    "image": "positive/发现更多精彩视频 - 抖音搜索 (5)_107_00.jpg",
+    "image_sha256": "5376295b758ad8223b26c5be1965ca97b048bd3ec48be2aef1e17c903f6173d8",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "女子斜挎一只黑色链条包，另一手扶着一捆木条架。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 579,
+      "total_tokens": 933,
+      "completion_tokens": 354,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 287
+      }
+    }
+  },
+  {
+    "image": "positive/发现更多精彩视频 - 抖音搜索 (5)_53_01.jpg",
+    "image_sha256": "da3eea81eef4a2d2b727a92402ae92a0297fb0274f0974895fc38f59288ab756",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "女子手持一根细长木棍状工具，身着条纹上衣与格子围裙，斜挎红绿相间包。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 567,
+      "total_tokens": 881,
+      "completion_tokens": 314,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 240
+      }
+    }
+  },
+  {
+    "image": "positive/唐道637火车头东侧停车场入口北_20261109105658_00.jpg",
+    "image_sha256": "e78a116602cc90e406b145bc4f2916f5aeefbc7b2c4f3b5199cda04750015868",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名戴口罩、穿绿色上衣和黑色长裤的男子手扶一辆带轮手推车，车上载有蓝色塑料包裹物。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 680,
+      "total_tokens": 890,
+      "completion_tokens": 210,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 134
+      }
+    }
+  },
+  {
+    "image": "positive/唐道637火车头东侧停车场入口北_20261111140722_00.jpg",
+    "image_sha256": "c13a46f88760e1784d778525805fb2e841ab1bcbb494c42aed4086542754cbdd",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿深色上衣和迷彩裤的男子在行走，双手未见持有目标物品。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 497,
+      "total_tokens": 715,
+      "completion_tokens": 218,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 150
+      }
+    }
+  },
+  {
+    "image": "positive/唐道8号门_20261002134136_03.jpg",
+    "image_sha256": "21b09d204636c65383d7106331d5331a754a205862ad434ada1f2fb8b991bd38",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名红衣儿童坐在石墩上，手持一根黑色长条杆状物斜放于腿侧，旁边有人伸手靠近。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 339,
+      "total_tokens": 756,
+      "completion_tokens": 417,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 340
+      }
+    }
+  },
+  {
+    "image": "positive/唐道8号门_20261006102129_00.jpg",
+    "image_sha256": "014a22b475ee1f512e509704e0c8e4ef71e720187c275795a69895544dfc0063",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿黑色特警制服、戴警帽的人员，双手在胸前握持黑色手持设备（似对讲机）。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 579,
+      "total_tokens": 883,
+      "completion_tokens": 304,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 230
+      }
+    }
+  },
+  {
+    "image": "positive/唐道8号门_20261006102129_01.jpg",
+    "image_sha256": "59cb3b8c7b91a2988982b30d638f3949fcfd1a327dffe1896599684cfe64da49",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿黑色制服戴帽子和眼镜的安保人员站立，双手未持明显目标物品。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 563,
+      "total_tokens": 770,
+      "completion_tokens": 207,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 137
+      }
+    }
+  },
+  {
+    "image": "positive/唐道8号门_20261007184215_08.jpg",
+    "image_sha256": "9cb2b2bad57bdcef150a3e02dd4f75cbede2ad84e2a9df97336cec8636f485cd",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名戴口罩和帽子的女子推着一辆黑色婴儿车，车内坐着一名小孩，背景有其他行人。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 345,
+      "total_tokens": 554,
+      "completion_tokens": 209,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 136
+      }
+    }
+  },
+  {
+    "image": "positive/唐道8号门_20261024182500_01.jpg",
+    "image_sha256": "43a8eaf72772a27571a1e8ac5a1f3dbcc5a215c0e3fabb49cf9e6ea690d8c721",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿皮夹克男子与一名女子行走，女子手持带花纹的长柄物品（似伞）。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 447,
+      "total_tokens": 835,
+      "completion_tokens": 388,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 316
+      }
+    }
+  },
+  {
+    "image": "positive/唐道8号门_20261031150045_04.jpg",
+    "image_sha256": "4940008078c1768a57ed154477ba89bf6f91d9f0903ecec45bc34c870ef553ab",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿扎染卫衣的男子手提一个装有杂物的透明塑料袋，旁边有一名戴黄色头盔穿黄色上衣的人。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 579,
+      "total_tokens": 817,
+      "completion_tokens": 238,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 164
+      }
+    }
+  },
+  {
+    "image": "positive/唐道8号门_20261107165845_06.jpg",
+    "image_sha256": "ad0f0838402ad6b9d6daaae9fc40bb02c589e7c0582ca8d0023149fa4bfa2248",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿黄色外套的孩子手持一个红色小物件，外形模糊不清。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 333,
+      "total_tokens": 500,
+      "completion_tokens": 167,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 102
+      }
+    }
+  },
+  {
+    "image": "positive/唐道8号门_20261118191525_01.jpg",
+    "image_sha256": "fd13ffe1abc601b4f4b6797a186049bf300feb3bee6eff821ea042c66ba73379",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名男子背黑色斜挎包，双手各提一个塑料瓶，左瓶装黄色液体、右瓶装深色液体。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 535,
+      "total_tokens": 849,
+      "completion_tokens": 314,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 237
+      }
+    }
+  },
+  {
+    "image": "positive/唐道三岔口北_20261025164801_00.jpg",
+    "image_sha256": "2e604613f39a829446720eb8fd22b5f0dd4a03bf228d53914054bc9e429ac142",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名男子手扶一辆平板手推车，车上放有若干瓶状容器。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 435,
+      "total_tokens": 757,
+      "completion_tokens": 322,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 255
+      }
+    }
+  },
+  {
+    "image": "positive/唐道匡威店南_20261119103530_01.jpg",
+    "image_sha256": "248d40c25895f264e5e680fc184eadd24df427bd01dd566d94f4b6581d332662",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一人肩扛白色半透明袋状物，右手持一细长深色条状物。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 645,
+      "total_tokens": 946,
+      "completion_tokens": 301,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 232
+      }
+    }
+  },
+  {
+    "image": "positive/唐道匡威店南_20261119140648_01.jpg",
+    "image_sha256": "de5e8ea26b0a37ceb5212bdcffb20ea83a9ab8448307b17eb881620134862028",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "人物一手提透明塑料袋，另一手提一瓶带红盖的透明塑料水瓶。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 519,
+      "total_tokens": 756,
+      "completion_tokens": 237,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 170
+      }
+    }
+  },
+  {
+    "image": "positive/唐道匡威店西_20261002164142_00.jpg",
+    "image_sha256": "775f9b702a808e8c563dd1810bf38fb139dacac8e65536a4c3d9a3542a399463",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "未见目标物品。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 515,
+      "total_tokens": 748,
+      "completion_tokens": 233,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 179
+      }
+    }
+  },
+  {
+    "image": "positive/唐道匡威店西_20261003171335_00.jpg",
+    "image_sha256": "3bc5d3f8d335021037495aafad4f74c74178e29764b8128c5442dc7eed0cf825",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名男孩手持一根黑色长杆状物体，杆身带红色部件。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 335,
+      "total_tokens": 554,
+      "completion_tokens": 219,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 153
+      }
+    }
+  },
+  {
+    "image": "positive/唐道匡威店西_20261112101613_01.jpg",
+    "image_sha256": "27b9d3d6c0d1c6dabb1eac6f84e8841f0305762b6d7a53df7fee439566fa4912",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿围裙戴手套的男子手扶一辆蓝色平板手推车，车上放有带显示屏的电子台秤和黄色袋装物。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 455,
+      "total_tokens": 726,
+      "completion_tokens": 271,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 192
+      }
+    }
+  },
+  {
+    "image": "positive/唐道同盛路停车场入口_20261101133919 (1)_00.jpg",
+    "image_sha256": "97795f02491cdb78cfe167d81d7e3f67a7f55486dde0466598fee6870d17ea39",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿深蓝色羽绒服戴黑帽的男子背手站立，身后手捏一小块红色物，右侧一人提黑色包，左上小孩手持一黑色小物件。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 515,
+      "total_tokens": 944,
+      "completion_tokens": 429,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 344
+      }
+    }
+  },
+  {
+    "image": "positive/唐道阿迪达斯北_20261029165925_01.jpg",
+    "image_sha256": "e489728667c7361c927ef458918a83a36070eb52db53ecd8129af1bdc72046a9",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿深色衣服戴帽的男子手提一个装有深红色液体的透明塑料瓶，旁边堆放着纸箱。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 351,
+      "total_tokens": 695,
+      "completion_tokens": 344,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 272
+      }
+    }
+  },
+  {
+    "image": "positive/唐道阿迪达斯北_20261101165414_02.jpg",
+    "image_sha256": "1bb7c2facf841079b0b1ea6c04cbeee0aa9618f523fdc11e493830f2ccba81dd",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名戴黑帽穿浅色外套的人俯身整理一辆堆满袋子、篮子等杂物的推车。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 332,
+      "total_tokens": 606,
+      "completion_tokens": 274,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 202
+      }
+    }
+  },
+  {
+    "image": "positive/唐道阿迪达斯北_20261115150905_03.jpg",
+    "image_sha256": "aff2e55a2043de9d8c778b0632d3c4e34b10598e2b8282b9e506bd0800807850",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿黑色外套的男子站在桌前手持蓝红色纸张，背景可见绿色钢瓶及坐立人员。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 415,
+      "total_tokens": 810,
+      "completion_tokens": 395,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 322
+      }
+    }
+  },
+  {
+    "image": "positive/唐道阿迪达斯南_20261003171158_01.jpg",
+    "image_sha256": "3d3f0b28f69786a0969baf36cf9910c6213b0a44c935a67d97195625467c7151",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一人手持一根红黑相间的细长杆状物斜跨于身前。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 333,
+      "total_tokens": 779,
+      "completion_tokens": 446,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 380
+      }
+    }
+  },
+  {
+    "image": "positive/扛煤气罐_041_00.jpg",
+    "image_sha256": "0c7ed78d88dae1b5c053f2047e2176bee5914b8239f732c417277ccad57e1a06",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿蓝色工装、戴红帽的男子骑在黄色电动车上，双手握车把，腰间挂黑色小包。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 983,
+      "total_tokens": 1272,
+      "completion_tokens": 289,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 214
+      }
+    }
+  },
+  {
+    "image": "positive/海湖幼儿园后厨操作间1_20261117104151 (1)_00.jpg",
+    "image_sha256": "1555b617399c65f3bb147e407ac126ba8c1f5e14010542a7bda2668f923ed5ce",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿白色工作服、系棕色围裙、戴蓝色帽子和口罩及白色手套的人正伸手拉白色柜门，旁边不锈钢台面上放着装有肉块的不锈钢盆。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 731,
+      "total_tokens": 999,
+      "completion_tokens": 268,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 180
+      }
+    }
+  },
+  {
+    "image": "positive/海湖幼儿园后厨操作间1_20261117104151_00.jpg",
+    "image_sha256": "ccb3c9648d3453c4b640db6ed1a150dafbee1d89d712edd3f88778bf35c4c41d",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "工作人员手持一个不锈钢小碗，操作台上放有大盆生鸡肉块和一块黄色抹布。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 991,
+      "total_tokens": 1275,
+      "completion_tokens": 284,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 214
+      }
+    }
+  },
+  {
+    "image": "positive/海湖幼儿园后厨操作间1_20261117104749_00.jpg",
+    "image_sha256": "d19dc70167ac26f3da1b40956cc564c7c89ff0187df5ec8ce5ad1abd6e4a5667",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名戴口罩和蓝色帽子、系棕色围裙的人手持一个绿色小物件在操作台边工作。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 759,
+      "total_tokens": 1108,
+      "completion_tokens": 349,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 277
+      }
+    }
+  },
+  {
+    "image": "positive/海湖幼儿园后厨操作间1_20261117104749_02.jpg",
+    "image_sha256": "89d41d2be01133fa133104bd6398394198b2e2510d3c3d4a42cf1f205fb5316b",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "穿白色工作服和棕色围裙的人俯身在不锈钢操作台前，台面上放着装肉块的大金属盆和一把绿色手柄工具。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 555,
+      "total_tokens": 885,
+      "completion_tokens": 330,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 251
+      }
+    }
+  },
+  {
+    "image": "positive/海湖幼儿园后厨操作间1_20261117104815_00.jpg",
+    "image_sha256": "ae30a794f3fa0970541a094e3fb348dbfd5d8641e09a3fdb82d29a04be7d80d9",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一人手持绿色手柄的金属刮板状工具在台面操作，旁边台面上放有一个黄色小罐。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 711,
+      "total_tokens": 1000,
+      "completion_tokens": 289,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 217
+      }
+    }
+  },
+  {
+    "image": "positive/虎台一巷16号院大门口变焦枪机_20261119170612_04.jpg",
+    "image_sha256": "0cd564419868829d4b65dbf221fcdbbe92466d305ac4b2e58275c259428523cb",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名小孩怀抱一根细长横杆状物体，两端向外伸出，呈金属或杆状外观。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 333,
+      "total_tokens": 667,
+      "completion_tokens": 334,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 263
+      }
+    }
+  },
+  {
+    "image": "positive/虎台一巷16号院大门口变焦枪机_20261119170612_05.jpg",
+    "image_sha256": "9795fe36c2d9533ab5f53d5d2dd7274a6bcbbaeab423473013cf76341b9f6175",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "画面中一名穿粉色羽绒服的孩子站立，旁边一人手持一个黑色包状物，未见目标物品。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 325,
+      "total_tokens": 598,
+      "completion_tokens": 273,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 201
+      }
+    }
+  },
+  {
+    "image": "positive/虎台一巷中段东侧人行辅道人脸检测朝西南_20261117110612_01.jpg",
+    "image_sha256": "cb424378f35b436cac6064a1e02e6aa7454fe6d04bdb8972d5f29a835d2b09bd",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿黑色连帽卫衣的男子站在绿色三轮车旁，双手未见明显持物。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 402,
+      "total_tokens": 577,
+      "completion_tokens": 175,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 107
+      }
+    }
+  },
+  {
+    "image": "positive/虎台一巷中段东侧人行辅道人脸检测朝西南_202611171217_00.jpg",
+    "image_sha256": "d49f3587fd3151a962a50ac6dbc7ae56c962e0f2aeaad393f1435d1d4b176f1f",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿深色制服戴帽者右手提着一个带长柄的矩形框状物体。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 333,
+      "total_tokens": 627,
+      "completion_tokens": 294,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 225
+      }
+    }
+  },
+  {
+    "image": "positive/虎台中央厨房熟食加工间_20261118103516_00.jpg",
+    "image_sha256": "68242f80c8eb350fa836abe03d35efebd40df5807b986a0fd64c625f4e31bc43",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "两名穿白色工作服、戴帽和口罩的人员在台面处理一堆粉白色肉块，手中持肉块，未见刀具等目标物品。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 525,
+      "total_tokens": 922,
+      "completion_tokens": 397,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 317
+      }
+    }
+  },
+  {
+    "image": "positive/虎台二巷梧桐午托班后厨_20261118103537_00.jpg",
+    "image_sha256": "36d3795c52ce3a009f8dc86b9f63ba184b23ea8f487a06e5efb2c1d1f20d1341",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "一名穿红色工作服、白色围裙并戴蓝色发网和口罩的人员手持一个不锈钢金属盆，盆内可见液体或食材。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 567,
+      "total_tokens": 846,
+      "completion_tokens": 279,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 200
+      }
+    }
+  },
+  {
+    "image": "positive/青海省六一幼儿园厨房粗加工间_20261118103827_00.jpg",
+    "image_sha256": "0dec34c74dd109f13972eed3efe1929af55240085b86de65cae0695465090ad0",
+    "model": "Qwen3.8-27B",
+    "answer": {
+      "描述": "厨房内两名穿白色厨师服、戴厨师帽和口罩的人员，一人手持绿色蔬菜在绿色案板前处理，另一人背对镜头在身前操作。",
+      "刀具": "无",
+      "斧头": "无",
+      "桶壶": "无",
+      "液化气钢瓶": "无",
+      "枪形物": "无",
+      "弩": "无"
+    },
+    "review_reasons": [
+      "正样本目录与模型判断冲突"
+    ],
+    "usage": {
+      "prompt_tokens": 552,
+      "total_tokens": 1013,
+      "completion_tokens": 461,
+      "prompt_tokens_details": null,
+      "completion_tokens_details": {
+        "reasoning_tokens": 376
+      }
+    }
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0521_00.jpg",
+  "image_sha256": "6120562625af996174562b0dad686ee1782dd1d798bb77022ba25ab6d5a7ce6c",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人双手握持一把长条形金属刃具（似砍刀/长刀）举于身前。",
+    "刀具": "有",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 519,
+    "total_tokens": 773,
+    "completion_tokens": 254,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 182
+    }
+  }
+}

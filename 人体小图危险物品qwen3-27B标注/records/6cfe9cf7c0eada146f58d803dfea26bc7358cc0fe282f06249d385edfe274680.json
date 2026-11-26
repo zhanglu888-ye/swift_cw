@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0160_00.jpg",
+  "image_sha256": "eef2b2bd9c9c832e0232977251d84383d585f39e2a79251d920d55bc86eb2af2",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子手提一个浅蓝灰色、印有红色“天兴”字样并带顶部阀门护手的液化石油气钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 515,
+    "total_tokens": 782,
+    "completion_tokens": 267,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 191
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/发现更多精彩视频 - 抖音搜索 (3)_34_03.jpg",
+  "image_sha256": "f73b293e9eb5e388688a5b74cbb66d5afa2bb555efe14780998c995cf2c617da",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "穿白衣者手持一根细长金属杆，身前下方有红色盆状容器及堆放的长条木棍状物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 327,
+    "total_tokens": 714,
+    "completion_tokens": 387,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 311
+    }
+  }
+}

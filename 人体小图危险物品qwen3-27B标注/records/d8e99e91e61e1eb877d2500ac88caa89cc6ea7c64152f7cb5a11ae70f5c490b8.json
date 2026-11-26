@@ -1,0 +1,26 @@
+{
+  "image": "positive/兴海路19号院南角2枪机_20261121094947_00.jpg",
+  "image_sha256": "3f86d6eaca96827bdf9796dbb005e095b841d62d1ca79d0ae9123c22445f111d",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴黄色安全帽、穿绿色外套的人背对镜头站立，双手被外套遮挡不可见，旁边地面放有绿色液化气钢瓶和透明塑料油桶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 543,
+    "total_tokens": 1632,
+    "completion_tokens": 1089,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1004
+    }
+  }
+}

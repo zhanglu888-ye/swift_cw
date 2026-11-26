@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0002_01.jpg",
+  "image_sha256": "0d696afa8f2fe1e6e25792787bdd3f51a0d53d352b6bb14b893230f6218aafad",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色羽绒服的男子站在巷中，左手提着一个带提梁的黑色壶状容器，身旁地面放有一个白色液化气钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "不确定",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 327,
+    "total_tokens": 1298,
+    "completion_tokens": 971,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 892
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "image": "negative/frame_0313_01.jpg",
+  "image_sha256": "8616cf82bc505e174e0e48806fdfc6e0cdb81169514675638ded863d30044ce0",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "白色瓷砖墙边放着一个黄色塑料桶，顶部悬挂一个黄色灯罩。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 321,
+    "total_tokens": 570,
+    "completion_tokens": 249,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 182
+    }
+  }
+}

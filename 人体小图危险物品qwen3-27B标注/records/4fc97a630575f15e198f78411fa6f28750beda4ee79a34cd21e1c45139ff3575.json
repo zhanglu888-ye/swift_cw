@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道同盛路停车场入口_20261017153748_10.jpg",
+  "image_sha256": "ce9719a47412c1abc322f4dce69cefc73261323f5517a5f99739fe95ff36b9ea",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面前景为一名戴警帽穿深色制服的警察，背景有穿黑色羽绒服及浅色上衣的人员和吊钩、堆放杂物，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 320,
+    "total_tokens": 595,
+    "completion_tokens": 275,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 191
+    }
+  }
+}

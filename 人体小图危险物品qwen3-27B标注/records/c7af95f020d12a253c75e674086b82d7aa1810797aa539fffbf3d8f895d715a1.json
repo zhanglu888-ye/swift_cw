@@ -1,0 +1,26 @@
+{
+  "image": "positive/01eac33d6b152fc801037001a10aaaf201_520_18_00.jpg",
+  "image_sha256": "c42bb43fcc8396a231577dc220d8d53cabd77fd6f4f91aceac4732683759121d",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴手套的男子手持一台灰黑色电锯（链锯）正在切割一段倒地的树干，可见锯链与手柄。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 831,
+    "total_tokens": 1095,
+    "completion_tokens": 264,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 187
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道阿迪达斯北_20261107112320_00.jpg",
+  "image_sha256": "55f932d85dcb96b4ad997caeac6b1e25b3c4c0e7f4446f903ccfdb92f945a3c7",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "两人手持长柄工具，前方者握持一根带枪管与握把的长枪形物体，后方者横握一把带柄斧头状工具。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 711,
+    "completion_tokens": 386,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 302
+    }
+  }
+}

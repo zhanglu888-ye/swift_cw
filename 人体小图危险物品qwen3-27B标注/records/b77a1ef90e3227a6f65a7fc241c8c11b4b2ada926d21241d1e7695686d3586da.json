@@ -1,0 +1,24 @@
+{
+  "image": "negative/扛煤气罐_077_00.jpg",
+  "image_sha256": "eaff2d60cc243822367de3cf51072d7f1fa93743b32db81e50a5d26c6311d3d9",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴口罩和帽子的男子手持一块蓝白花纹的织物（门帘状布料）。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 332,
+    "total_tokens": 544,
+    "completion_tokens": 212,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 143
+    }
+  }
+}

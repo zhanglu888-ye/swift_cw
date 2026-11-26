@@ -1,0 +1,24 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索 (3)_15_00.jpg",
+  "image_sha256": "78c7032d4b8807cd38769a6e52cb25520e7a5d2bd055e34398ad40cb389b8b40",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子右手握着一把带木柄、金属头呈横向块状的斧头。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 593,
+    "total_tokens": 820,
+    "completion_tokens": 227,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 158
+    }
+  }
+}

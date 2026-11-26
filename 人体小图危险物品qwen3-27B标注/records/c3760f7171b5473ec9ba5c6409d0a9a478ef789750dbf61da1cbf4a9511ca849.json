@@ -1,0 +1,24 @@
+{
+  "image": "positive/01e8fa2d8922e90b010370019a119a652c_115_253_00.jpg",
+  "image_sha256": "415b3d79a03dc1249e661fb8bc940a609035a655928b4cedcf9495355bdfebfb",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子手持一把黑色带省力上弦装置的弩，可见弓臂、轮状部件及印有DECOCS字样的握把。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1789,
+    "total_tokens": 2031,
+    "completion_tokens": 242,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 163
+    }
+  }
+}

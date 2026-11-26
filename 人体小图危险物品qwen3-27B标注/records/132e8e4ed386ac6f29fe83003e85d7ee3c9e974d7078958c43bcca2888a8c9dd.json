@@ -1,0 +1,24 @@
+{
+  "image": "positive/u=2425828206,3918893997_fm=253_fmt=auto_app=138_f=JPEG_00.jpg",
+  "image_sha256": "1daea15b6b0f35873b607f4daea7834efe2dcf3c02465a16b565b34f32bc0569",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿橙色工作服的男子肩扛一个蓝灰色带阀门护罩的钢瓶，地面堆放多个红色和蓝色同类钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 453,
+    "total_tokens": 757,
+    "completion_tokens": 304,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 225
+    }
+  }
+}

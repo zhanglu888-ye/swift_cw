@@ -1,0 +1,24 @@
+{
+  "image": "negative/黑衣男5代弩_01.jpg",
+  "image_sha256": "c8242cd73b86ff7c031f1d2c4bc3be6e399267496f936f980c0fb481f7fbf020",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴头盔穿黄色上衣的人骑在摩托车上，双手握持车把，未见其他手持物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 327,
+    "total_tokens": 500,
+    "completion_tokens": 173,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 100
+    }
+  }
+}

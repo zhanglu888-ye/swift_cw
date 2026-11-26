@@ -1,0 +1,24 @@
+{
+  "image": "positive/扛煤气罐_021_01.jpg",
+  "image_sha256": "283365e4876032d07df13e0119e30e51fb2ead844ce7927a7430cdc9970f94e8",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "几人手持纸张单据交流，地面放置两个橙色带护手阀门的液化石油气钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1055,
+    "total_tokens": 1362,
+    "completion_tokens": 307,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 236
+    }
+  }
+}

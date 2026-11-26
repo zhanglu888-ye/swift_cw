@@ -1,0 +1,26 @@
+{
+  "image": "negative/唐道8号门_20261005164033_13.jpg",
+  "image_sha256": "ed9958e38c37a005eb8a2ddfdb16d5ce000a02b189304570c73960df62261541",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人肩挎白色袋子，手中握持一深色长条状物，外观模糊难以辨认。",
+    "刀具": "不确定",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 789,
+    "completion_tokens": 464,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 393
+    }
+  }
+}

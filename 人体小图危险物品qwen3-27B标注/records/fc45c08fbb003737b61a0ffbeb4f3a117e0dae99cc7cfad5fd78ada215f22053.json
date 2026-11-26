@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道三岔口南摄像机_20261004153004_01.jpg",
+  "image_sha256": "992b007be5e519851e0e23f9a64ae7fabb5088a076eef78655bad2646c9c0465",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色长外套、戴白色发带的女子双臂交叉站立，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 447,
+    "total_tokens": 663,
+    "completion_tokens": 216,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 146
+    }
+  }
+}

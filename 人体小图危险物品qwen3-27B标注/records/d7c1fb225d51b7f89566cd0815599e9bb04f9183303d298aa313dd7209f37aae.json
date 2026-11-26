@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0329_00.jpg",
+  "image_sha256": "c61650cba42c417cdbda580117c6b199be4c6f664550049d7ca6300a133b9eba",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子手持一把带锈迹的斧头，斧刃横向、柄竖直。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 528,
+    "total_tokens": 799,
+    "completion_tokens": 271,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 204
+    }
+  }
+}

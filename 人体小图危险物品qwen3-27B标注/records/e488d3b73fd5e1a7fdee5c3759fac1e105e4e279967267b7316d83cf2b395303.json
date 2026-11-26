@@ -1,0 +1,24 @@
+{
+  "image": "positive/扛煤气罐_045_00.jpg",
+  "image_sha256": "7af695ba38cd487a96a150fc94baacc0a3d99f0ef0a917e1a9277248a9aae28b",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿制服戴口罩的男子手提一个灰绿色带锈迹的液化石油气钢瓶，瓶身印有红黑文字，顶部有护罩和阀门。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1470,
+    "total_tokens": 1736,
+    "completion_tokens": 266,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 183
+    }
+  }
+}

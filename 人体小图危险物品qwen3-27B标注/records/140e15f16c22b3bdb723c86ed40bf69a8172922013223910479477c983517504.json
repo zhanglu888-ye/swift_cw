@@ -1,0 +1,24 @@
+{
+  "image": "positive/文逸小学门卫室-平安校园_20261121091626_00.jpg",
+  "image_sha256": "7ea19aac9657d36e43ce2374ccf1043bb44f9339c91a3fd706b04041e9c0bd21",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿迷彩上衣、黑裤者右手高举一黑色枪形物体，背负黑色背包。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 594,
+    "completion_tokens": 261,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 190
+    }
+  }
+}

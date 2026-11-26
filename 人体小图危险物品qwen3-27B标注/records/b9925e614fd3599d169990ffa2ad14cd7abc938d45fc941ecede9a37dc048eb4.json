@@ -1,0 +1,24 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索 (1)_438_00.jpg",
+  "image_sha256": "6f6be184e4e10f8032ea66abbc75e9446dd996e7a1ffdb65cc5932d05704179d",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子双手持握一把黑色复合弩，顶部装有带翻盖的瞄准镜，侧面配有带橙红尾翼的箭矢及圆形滑轮结构。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1875,
+    "total_tokens": 2167,
+    "completion_tokens": 292,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 209
+    }
+  }
+}

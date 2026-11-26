@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道同盛路停车场入口_20261025115550_01.jpg",
+  "image_sha256": "0852458d522882fe8cf9e2972aaec4ebc9d0609d8d1068a4ca33cd073e28c679",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名小孩手持一支长条状枪形物体，可见枪托与枪管轮廓。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 409,
+    "total_tokens": 639,
+    "completion_tokens": 230,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 161
+    }
+  }
+}

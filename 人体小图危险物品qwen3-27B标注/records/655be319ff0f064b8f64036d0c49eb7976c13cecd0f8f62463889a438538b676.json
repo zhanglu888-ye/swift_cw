@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0129_00.jpg",
+  "image_sha256": "5b730c471c9c5b3ad1dec8447887b32ac7405160a912d533f3885bfbcea464c6",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黄色马甲、戴黑色帽子的人肩扛一个灰色带红色花纹的液化气钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 515,
+    "total_tokens": 755,
+    "completion_tokens": 240,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 169
+    }
+  }
+}

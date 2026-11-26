@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道同盛路停车场入口_20261009135839_00.jpg",
+  "image_sha256": "434f34af7bc58922b65c4b5e263b2521f8fdef23f314c5caac9d1e1607472f0b",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿白色厨师服的人手提一个装有黄色液体的大容量塑料油桶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 507,
+    "completion_tokens": 174,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 108
+    }
+  }
+}

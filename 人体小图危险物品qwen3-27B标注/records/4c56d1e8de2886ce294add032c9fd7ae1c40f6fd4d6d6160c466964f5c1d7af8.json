@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道匡威店西_20261119103811_00.jpg",
+  "image_sha256": "e009e8322d808c1a5121e543921a640e21f58f84c2a73bbbef82ae18e5c851e9",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿绿色上衣的男子右手提着一个带提手的透明大容量塑料水桶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 357,
+    "total_tokens": 592,
+    "completion_tokens": 235,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 169
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0177_00.jpg",
+  "image_sha256": "8ebc5ce2f6c819d0ba8ff0185101ee4b08f8eb63289bdc44213a13823c24193f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人背对镜头行走，右手提着一个灰绿色圆柱形带顶部阀门的液化石油气钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 626,
+    "completion_tokens": 293,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 220
+    }
+  }
+}

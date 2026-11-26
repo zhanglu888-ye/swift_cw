@@ -1,0 +1,24 @@
+{
+  "image": "positive/01e8c366c2b94e3601037001993b77aff3_108_21_01.jpg",
+  "image_sha256": "965259de9a9db14ec44710b3fbae07b6a3fae856b5752fd2829a113d6f26c851",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子手持一把黑色弩，配有瞄准镜、握把和扳机，可见弓臂与弦。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1560,
+    "total_tokens": 1726,
+    "completion_tokens": 166,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 93
+    }
+  }
+}

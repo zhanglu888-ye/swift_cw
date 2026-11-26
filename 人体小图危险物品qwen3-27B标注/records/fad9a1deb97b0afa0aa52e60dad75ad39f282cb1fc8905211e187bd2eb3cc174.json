@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0251_00.jpg",
+  "image_sha256": "0b22b1276c9314dc796db4c6c983d07fdbabc18459b5beeef20eb214151f4334",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名女子弯腰扶着一辆带轮小推车，车上放着一个灰色圆柱形带阀门的液化气钢瓶，她手中还握着一条黄色绑带。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 459,
+    "total_tokens": 756,
+    "completion_tokens": 297,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 214
+    }
+  }
+}

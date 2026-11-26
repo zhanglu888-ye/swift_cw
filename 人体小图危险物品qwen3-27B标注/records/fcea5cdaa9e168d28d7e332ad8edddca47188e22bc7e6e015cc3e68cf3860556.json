@@ -1,0 +1,26 @@
+{
+  "image": "positive/唐道匡威店西_20261003171335_00.jpg",
+  "image_sha256": "3bc5d3f8d335021037495aafad4f74c74178e29764b8128c5442dc7eed0cf825",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男孩手持一根黑色长杆状物体，杆身带红色部件。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 335,
+    "total_tokens": 554,
+    "completion_tokens": 219,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 153
+    }
+  }
+}

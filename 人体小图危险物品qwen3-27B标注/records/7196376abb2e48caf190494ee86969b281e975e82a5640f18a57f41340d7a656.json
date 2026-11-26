@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道同盛路停车场入口_20261015183440_06.jpg",
+  "image_sha256": "6e84fe1f45e7233d3ce66b78e2ec2a7a9a9751a497f6313260ac49df47e710e7",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面为多名行人站立场景，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 588,
+    "completion_tokens": 255,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 194
+    }
+  }
+}

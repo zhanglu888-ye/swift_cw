@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261015164609_05.jpg",
+  "image_sha256": "a1b9b1f80820ea5ea90659f0e5633e13622a97721f19b5d4227dd5e74df5ece3",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "三名男子在户外行走，双手自然下垂或插兜，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 528,
+    "completion_tokens": 203,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 135
+    }
+  }
+}

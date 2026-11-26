@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261005164033_12.jpg",
+  "image_sha256": "812237786693c2bf5234707e0291b438a366706a77db3e4a84c66c5dd9248817",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "人物手持一个黑色小型物体（疑似手机），背景可见绿植、桌台及带轮小推车把手。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 423,
+    "total_tokens": 671,
+    "completion_tokens": 248,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 175
+    }
+  }
+}

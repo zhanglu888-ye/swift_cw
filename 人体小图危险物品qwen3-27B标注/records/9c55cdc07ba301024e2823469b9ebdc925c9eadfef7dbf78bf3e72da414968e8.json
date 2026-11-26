@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0480_00.jpg",
+  "image_sha256": "3b5d2ec6e7370262b365e5ef95b6796e0649dc853a77a05350baf81ebc66a8dc",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "手持一个蓝绿色带把手的水壶状容器，下方为蓝绿色桶状物并覆有橙色塑料袋。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 567,
+    "total_tokens": 880,
+    "completion_tokens": 313,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 239
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "image": "negative/唐道阿迪达斯北_20261101134509_01.jpg",
+  "image_sha256": "e4a7748b5f13ded44bf0c51697bb8f9ef9a730850d450dbe8ee81c169e97f1d5",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "穿红衣戴头巾者左手提一银白色金属反光细长物件，形状不清晰。",
+    "刀具": "不确定",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 320,
+    "total_tokens": 649,
+    "completion_tokens": 329,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 259
+    }
+  }
+}

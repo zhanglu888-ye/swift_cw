@@ -1,0 +1,24 @@
+{
+  "image": "positive/人民公园游船码头3号摄像机_20261121155348_02.jpg",
+  "image_sha256": "8a248048cddc395504d84aadfe98b725060c68a629dad10c16f79cc012798547",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "手持一个带蓝紫色部件的枪形物体，肩挎浅色包。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 395,
+    "total_tokens": 614,
+    "completion_tokens": 219,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 153
+    }
+  }
+}

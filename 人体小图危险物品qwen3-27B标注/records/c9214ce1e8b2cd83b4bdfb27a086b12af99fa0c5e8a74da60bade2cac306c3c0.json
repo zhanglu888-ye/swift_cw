@@ -1,0 +1,26 @@
+{
+  "image": "negative/1483034978257342464_05.jpg",
+  "image_sha256": "9f01993a2751236a1c4eee483c586a7cbcc91d59b78977e23a26b29caa65a077",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中有人骑摩托车，旁边可见一个橙红色圆柱形液化气钢瓶及一个白色带红心的喇叭状物体。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 327,
+    "total_tokens": 647,
+    "completion_tokens": 320,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 244
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/扛煤气罐_127_01.jpg",
+  "image_sha256": "3fa8fea711ecdaa4badb5ad4a442beea0111e8d1adc82fac5b9f7f999a097e84",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子肩上扛着一个灰色金属液化石油气钢瓶，顶部可见阀门与护手结构。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 388,
+    "total_tokens": 570,
+    "completion_tokens": 182,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 112
+    }
+  }
+}

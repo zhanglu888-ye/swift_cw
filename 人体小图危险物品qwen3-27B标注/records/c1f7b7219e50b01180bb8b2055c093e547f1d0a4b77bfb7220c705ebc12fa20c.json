@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261010193756_01.jpg",
+  "image_sha256": "bf7a5bb7ed01797006ca5b685f4d39a1ee5ae3f2a755dde0d6a6a31b3e9f1d92",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色特警制服的人员背对镜头行走，腰间配有装备带，背景有人举手机拍照，未见目标手持物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 381,
+    "total_tokens": 672,
+    "completion_tokens": 291,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 214
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/1483034978257342464_06.jpg",
+  "image_sha256": "d204ba02db4a2f729da77f58d7f89ce7e8f045ac56ae13ee7b1cc54c9dfa68cc",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面为多人聚集场景，前景女子戴口罩，背景有人戴红色头盔，未见明显手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 555,
+    "completion_tokens": 225,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 153
+    }
+  }
+}

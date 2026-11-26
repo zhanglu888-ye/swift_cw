@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0236_00.jpg",
+  "image_sha256": "8a8e752eded80cb681b343e745ebd4407efbcdba81f32b83ea388669e3890169",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名女子弯腰操作一个灰色金属液化石油气钢瓶，瓶身印有红色“液化”字样，顶部阀门连接黄色软管。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 531,
+    "total_tokens": 787,
+    "completion_tokens": 256,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 178
+    }
+  }
+}

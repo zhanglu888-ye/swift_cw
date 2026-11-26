@@ -1,0 +1,24 @@
+{
+  "image": "positive/东交通巷1_20261123154439_01.jpg",
+  "image_sha256": "66ad388c5102d91a3554ebe8bf332f0a5be825505a2de9231b15720ebd0c5236",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人肩扛一个绿色大容量塑料桶，背景为一辆白色汽车。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 381,
+    "total_tokens": 586,
+    "completion_tokens": 205,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 140
+    }
+  }
+}

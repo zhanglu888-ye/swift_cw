@@ -1,0 +1,24 @@
+{
+  "image": "negative/东方幼教幼儿园后厨加工间_20261119102519_01.jpg",
+  "image_sha256": "dbb59d2183074d0c4590f027009ef368077ebcb2561d69c86cbad5261073c535",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿白色工作服戴白帽的人双手端着一个装满绿色碎菜叶的不锈钢金属盆。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1119,
+    "total_tokens": 1317,
+    "completion_tokens": 198,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 127
+    }
+  }
+}

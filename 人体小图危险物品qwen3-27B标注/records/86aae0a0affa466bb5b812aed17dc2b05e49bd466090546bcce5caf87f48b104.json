@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店南_20261002125928_01.jpg",
+  "image_sha256": "137aecd27d3b9593a24334e19c687cfdc6bb398e22315622c240a1b6966325f6",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名光头男子穿黑色上衣和牛仔裤行走，一手抬起靠近头部，另一手垂于身侧握着一个看不清的深色小物体。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 741,
+    "completion_tokens": 416,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 337
+    }
+  }
+}

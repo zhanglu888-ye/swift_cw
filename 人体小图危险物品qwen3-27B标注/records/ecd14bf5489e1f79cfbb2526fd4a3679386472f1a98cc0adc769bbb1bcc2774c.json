@@ -1,0 +1,24 @@
+{
+  "image": "negative/南交通巷北口_20261121162439_03.jpg",
+  "image_sha256": "430ef852bb1e0dc7c4de254a5d595c2733728039da7eac50b810617e7df7a872",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑衣者左手持一扁平长方形物体，外观类似平板或文件夹，无刀刃或枪形特征。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 351,
+    "total_tokens": 582,
+    "completion_tokens": 231,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 157
+    }
+  }
+}

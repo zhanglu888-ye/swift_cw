@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0475_00.jpg",
+  "image_sha256": "c7f594d0d2a2a8731c817420544234a147b236c768a6b6e6bb1a842a6fd9a970",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人手扶一个橙色包裹、顶部带蓝绿色金属阀门的液化气钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 567,
+    "total_tokens": 782,
+    "completion_tokens": 215,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 147
+    }
+  }
+}

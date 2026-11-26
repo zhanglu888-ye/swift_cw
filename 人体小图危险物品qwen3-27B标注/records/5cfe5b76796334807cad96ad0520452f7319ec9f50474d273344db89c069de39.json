@@ -1,0 +1,24 @@
+{
+  "image": "positive/01e97e966d9d5d2e4f0370019c167ea9fc_114_175_00.jpg",
+  "image_sha256": "5322609ce36479cc00091a44977b5ee27746e411a7fb4a03b44ff994aad6e744",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴帽男子手持长柄斧在雪地林中劈砍原木，斧头朝下靠近地面。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 431,
+    "total_tokens": 701,
+    "completion_tokens": 270,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 198
+    }
+  }
+}

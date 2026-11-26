@@ -1,0 +1,24 @@
+{
+  "image": "negative/u=3219575410,1848916312_fm=253_fmt=auto_app=138_f=JPEG_03.jpg",
+  "image_sha256": "5ee2738c927ac5b54fa7eb275c9bfb3a25a35c972f97ff6f79cbd36d396b45d9",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中为多名身穿深色消防服、头戴黄红头盔的消防员，背景为砖墙建筑，地面有白色长条状物，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 543,
+    "completion_tokens": 218,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 133
+    }
+  }
+}

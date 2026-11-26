@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店南_20261024121146_04.jpg",
+  "image_sha256": "466d0ca7e05185644e57f0cbc72e6e382a1da3f96f17f4bd1b8c4ec3e05681bf",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿灰色外套的小孩手提红色袋子并持一黄色长条状物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 606,
+    "completion_tokens": 273,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 206
+    }
+  }
+}

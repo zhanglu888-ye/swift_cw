@@ -1,0 +1,24 @@
+{
+  "image": "positive/东方幼教幼儿园后厨加工间_20261119103341_00.jpg",
+  "image_sha256": "5921cbdf9d0452d419056761950d38b643a973b4aaf42f39b1f4594c8760380a",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "厨师手持宽刃菜刀在红色砧板上切肉，砧板上另放一把菜刀，台面有装葱花和肉末的不锈钢盆及一卷保鲜膜。",
+    "刀具": "有",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1459,
+    "total_tokens": 1703,
+    "completion_tokens": 244,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 158
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/虎台中央厨房熟食加工间_20261118103815_00.jpg",
+  "image_sha256": "6c0a9d3cd9994adc2d4494f0b50ea967e9f6e9e185102a5316a94ba3ab7afd53",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴白色厨师帽、口罩和黄色手套的厨师站在不锈钢灶台与操作台旁，灶上放有盛着食物的大锅，操作台上可见肉块和抹布，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 759,
+    "total_tokens": 1069,
+    "completion_tokens": 310,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 216
+    }
+  }
+}

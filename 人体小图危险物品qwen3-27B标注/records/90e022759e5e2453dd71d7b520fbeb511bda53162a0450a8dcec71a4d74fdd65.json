@@ -1,0 +1,26 @@
+{
+  "image": "negative/71-mp4_42_100x100_0_jpg.rf.54509256952ed24c19569e5fc0ed3a9a_00.jpg",
+  "image_sha256": "94d1ecfca81a8aeed9edfaac64dcdc0c30eeb4253049d4a3eb815ac0c1da38d6",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人站立，腰侧手部握持一深色模糊小物体，外形无法辨认。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "不确定",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 327,
+    "total_tokens": 681,
+    "completion_tokens": 354,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 286
+    }
+  }
+}

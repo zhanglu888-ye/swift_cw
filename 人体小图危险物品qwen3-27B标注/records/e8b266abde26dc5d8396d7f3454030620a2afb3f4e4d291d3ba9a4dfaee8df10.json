@@ -1,0 +1,24 @@
+{
+  "image": "negative/刘家寨小区农贸市场西北角_20261123142816_01.jpg",
+  "image_sha256": "84a148d0411945c1fd84aeb752b3d893af21d8c005fbba098abbce28afe5eedb",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿灰色上衣和深色长裤的男子侧身站立，双手自然下垂，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 535,
+    "completion_tokens": 205,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 134
+    }
+  }
+}

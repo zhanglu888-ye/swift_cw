@@ -1,0 +1,26 @@
+{
+  "image": "negative/唐道8号门_20261023212402_02.jpg",
+  "image_sha256": "1f1aff09758b4db66c4b7a3dc0bae6906ac29e0d669d4f1f94f42916c6cf9074",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色制服的安保人员背对镜头行走，右手握持一黑色长条状物体，外形疑似枪形物但细节不清。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "不确定",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 649,
+    "completion_tokens": 324,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 243
+    }
+  }
+}

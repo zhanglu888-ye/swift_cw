@@ -1,0 +1,24 @@
+{
+  "image": "positive/c54e5587fe139_00.jpg",
+  "image_sha256": "a807217afd5b40c634548aeffe51fe9575f018034508cb28d845d04f6563cc00",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子手持一把绿黑相间的链锯，另一手提着一个银色金属水壶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 734,
+    "completion_tokens": 401,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 334
+    }
+  }
+}

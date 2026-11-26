@@ -1,0 +1,26 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索 (3)_20_01.jpg",
+  "image_sha256": "56e06fbdbab76a1a3402c5f6097285d2278e454d10e72c910d71f4a4290ae4ba",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面主体为大量堆叠的红棕色与原木色木制椅腿及木条，左侧一人手臂搭在木桌上，手中未持物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 735,
+    "total_tokens": 962,
+    "completion_tokens": 227,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 146
+    }
+  }
+}

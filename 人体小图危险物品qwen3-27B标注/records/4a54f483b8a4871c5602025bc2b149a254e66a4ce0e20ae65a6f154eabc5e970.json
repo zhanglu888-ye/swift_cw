@@ -1,0 +1,24 @@
+{
+  "image": "negative/谁家煤气罐罐这么骑车啊？？_1_冬哥_来自小红书网页版_00.jpg",
+  "image_sha256": "03f298fc374d541f9a5e7ef7a4f7442f0059990febdf20063de9bb5299e8b65c",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名骑黄色共享单车的人，背着浅色斜挎包，双手握车把，未见其他手持物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 453,
+    "total_tokens": 653,
+    "completion_tokens": 200,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 128
+    }
+  }
+}

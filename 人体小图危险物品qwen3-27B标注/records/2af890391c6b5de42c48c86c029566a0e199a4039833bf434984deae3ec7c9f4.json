@@ -1,0 +1,24 @@
+{
+  "image": "negative/盐湖巷十字_20261123153710_02.jpg",
+  "image_sha256": "d3c076e1d5eb0e9a62592ee520e0576af86a14d5263f88b86da01ded961a55e1",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴帽子和口罩的人站在路边低头双手握持一个小型手持设备（似手机），未见其他目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 345,
+    "total_tokens": 520,
+    "completion_tokens": 175,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 100
+    }
+  }
+}

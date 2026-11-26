@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道阿迪达斯北_20261006164436_10.jpg",
+  "image_sha256": "3e1f3b17b01e792f05cc13e78ca02d4a1e6b324e703a3fdeccc9d49018578218",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿灰色背心黑裤的人弯腰伸手向装满瓶罐的推车，旁边有站立者及地面散放的瓶罐。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 327,
+    "total_tokens": 615,
+    "completion_tokens": 288,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 211
+    }
+  }
+}

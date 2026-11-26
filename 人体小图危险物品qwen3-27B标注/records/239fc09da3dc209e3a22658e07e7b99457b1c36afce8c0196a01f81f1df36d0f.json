@@ -1,0 +1,24 @@
+{
+  "image": "positive/01e8c366c2b94e3601037001993b77aff3_108_356_00.jpg",
+  "image_sha256": "f194f0d1eece9c9dd862cf050a64c95d71892d77bef79736001a517e82973a5e",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴墨镜男子手持一把黑色战术弩，可见握把、瞄准镜及下方弓臂与弓弦结构。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1155,
+    "total_tokens": 1329,
+    "completion_tokens": 174,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 99
+    }
+  }
+}

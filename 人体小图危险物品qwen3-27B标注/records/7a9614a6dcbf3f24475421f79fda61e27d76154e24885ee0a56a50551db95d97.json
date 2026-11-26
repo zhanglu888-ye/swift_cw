@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0144_00.jpg",
+  "image_sha256": "e45dcdb72a1fd2cd6e664533b41e00a35f9f7142f481692c152473f564100599",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人双手举着一个灰色带橙色盖的大容量塑料壶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 567,
+    "total_tokens": 827,
+    "completion_tokens": 260,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 197
+    }
+  }
+}

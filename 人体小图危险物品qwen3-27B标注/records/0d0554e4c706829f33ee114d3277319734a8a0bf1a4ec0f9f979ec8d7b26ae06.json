@@ -1,0 +1,24 @@
+{
+  "image": "positive/扛煤气罐_118_00.jpg",
+  "image_sha256": "28f4b0c1af600b6bbfb74041edec3aeae2f5e282f45745750ea926e2b7b7d7e7",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名警察手提一个红身绿底、顶部带阀门的液化石油气钢瓶，另一手举着黑色物体。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 767,
+    "total_tokens": 1056,
+    "completion_tokens": 289,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 213
+    }
+  }
+}

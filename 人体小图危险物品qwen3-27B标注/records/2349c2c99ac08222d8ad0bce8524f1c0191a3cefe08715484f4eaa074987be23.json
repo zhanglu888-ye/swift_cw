@@ -1,0 +1,24 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索 (4)_3_00.jpg",
+  "image_sha256": "9f0d94682dd06920921e8a277a9c36613a9c2b86899f05fbe80772ed85179b17",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黄色上衣者双手持握一支长管状枪形物体贴近面部作瞄准姿势。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 822,
+    "total_tokens": 1023,
+    "completion_tokens": 201,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 130
+    }
+  }
+}

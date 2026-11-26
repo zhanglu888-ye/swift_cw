@@ -1,0 +1,24 @@
+{
+  "image": "negative/虎台一巷中段东侧人行辅道人脸检测朝西南_202611171217_01.jpg",
+  "image_sha256": "914147ccd4dd8eab0d31341597357aebd8a59b63b027f442d7a7135d26e725fb",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿粉色外套、戴粉色帽子并系红领巾的小孩站在人行道上，身旁有一根灰色立杆，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 335,
+    "total_tokens": 545,
+    "completion_tokens": 210,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 132
+    }
+  }
+}

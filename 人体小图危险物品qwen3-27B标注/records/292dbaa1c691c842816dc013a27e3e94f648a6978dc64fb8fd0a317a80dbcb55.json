@@ -1,0 +1,26 @@
+{
+  "image": "positive/唐道8号门_20261107165845_06.jpg",
+  "image_sha256": "ad0f0838402ad6b9d6daaae9fc40bb02c589e7c0582ca8d0023149fa4bfa2248",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黄色外套的孩子手持一个红色小物件，外形模糊不清。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 500,
+    "completion_tokens": 167,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 102
+    }
+  }
+}

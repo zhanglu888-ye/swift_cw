@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道阿迪达斯南_20261025103953_02.jpg",
+  "image_sha256": "f3c8a27706457e6c8a0458fb61553616ffb710fd0b8fa2b8c8ab27ce1788f8f0",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "黄色平板手推车上放着数桶带蓝色提手的大容量透明塑料桶装水。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 363,
+    "total_tokens": 615,
+    "completion_tokens": 252,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 182
+    }
+  }
+}

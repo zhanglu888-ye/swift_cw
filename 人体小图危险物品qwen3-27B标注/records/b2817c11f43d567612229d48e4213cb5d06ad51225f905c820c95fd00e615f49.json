@@ -1,0 +1,24 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索 (5)_4_00.jpg",
+  "image_sha256": "9e668f628019f369dd29a88985291633f36d9213b1cebb4a8a61a9efaf9a5e73",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子蹲地手持木条，身旁地面有带弦的弓臂与黄色长杆等弩组件，左侧放有一个黄色带盖塑料壶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 447,
+    "total_tokens": 1097,
+    "completion_tokens": 650,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 567
+    }
+  }
+}

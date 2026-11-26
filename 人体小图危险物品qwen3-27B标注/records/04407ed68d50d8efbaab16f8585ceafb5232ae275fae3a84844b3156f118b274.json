@@ -1,0 +1,24 @@
+{
+  "image": "negative/新华巷口1_20261120095024_01.jpg",
+  "image_sha256": "d27aa8154140593f8ebf223a85054ca6fefeed77a82266aafbea50248d506a1f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "手持一个黄色鸡蛋托（蛋盒），内装蛋类物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 553,
+    "completion_tokens": 223,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 158
+    }
+  }
+}

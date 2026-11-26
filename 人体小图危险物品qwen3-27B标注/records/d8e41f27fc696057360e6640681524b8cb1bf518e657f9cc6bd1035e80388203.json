@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道匡威店西_20261026103230_02.jpg",
+  "image_sha256": "463a51e52e175c4b9b7583c66dda99c78e445a7cfa8abda2757779b448522f3b",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "手推车上堆叠着多个装有蓝色液体的大容量透明塑料水桶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 714,
+    "total_tokens": 952,
+    "completion_tokens": 238,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 173
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道637火车头东侧停车场入口北_20261019150006_00.jpg",
+  "image_sha256": "6c30060f63f830203817982c4172dc8b4977efa98ef9cef0aa0f672037ec2e15",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子推着一辆黄色平板手推车，车上载有两个蓝色大容量桶装水，旁边停着一辆蓝色三轮车。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 591,
+    "total_tokens": 941,
+    "completion_tokens": 350,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 274
+    }
+  }
+}

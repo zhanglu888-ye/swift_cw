@@ -1,0 +1,24 @@
+{
+  "image": "negative/育新幼儿园后厨洗消间_20261116095435_00.jpg",
+  "image_sha256": "6b70d895b112075e0cff1e791dae33de1f596068b237e041dbd077a4fbf4cd9f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴蓝色帽子、穿白色工作服的人背对镜头行走，双手空垂，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 543,
+    "total_tokens": 728,
+    "completion_tokens": 185,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 112
+    }
+  }
+}

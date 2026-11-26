@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0389_00.jpg",
+  "image_sha256": "f861fbfa14dac6ca128b659651d56f5a9a980496565500139514f5f22fdaf46f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名蹲姿人员手扶一个银白色带红绿印刷字样的液化石油气钢瓶，其后方另有一个绿色钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 567,
+    "total_tokens": 852,
+    "completion_tokens": 285,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 206
+    }
+  }
+}

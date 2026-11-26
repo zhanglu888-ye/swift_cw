@@ -1,0 +1,26 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索 (3)_34_00.jpg",
+  "image_sha256": "aa2840203f2bacb42f7d9459c4febdde2a4aef964805a4327dbe1a1943047079",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "市场摊位上堆放着黄色和白色塑料筐、竹篮及木椅背等木制品，周围有人群聚集。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 735,
+    "total_tokens": 970,
+    "completion_tokens": 235,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 159
+    }
+  }
+}

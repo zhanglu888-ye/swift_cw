@@ -1,0 +1,26 @@
+{
+  "image": "negative/u=2893048581,2855310798&fm=253&fmt=auto&app=138&f=JPEG_03.jpg",
+  "image_sha256": "06625a3c993151d87052ac2d783d5146d32e5b48859bc21c8e256a4ecae9d8bb",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿白色上衣、深色长裤的人手持一个斜跨身前的长条状物体，图像模糊，物品细节无法辨认。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "不确定",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 736,
+    "completion_tokens": 403,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 326
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/北气象巷路口祭祀点_20261116173533_09.jpg",
+  "image_sha256": "c363bf3d40f4f53886695265bfc1d2069d723067901916cc8fb915aadf90fe79",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "两名穿绿色背心的人站立，其中一人脚踩滑板并伸出手臂，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 494,
+    "completion_tokens": 169,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 98
+    }
+  }
+}

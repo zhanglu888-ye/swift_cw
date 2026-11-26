@@ -1,0 +1,24 @@
+{
+  "image": "negative/谁家煤气罐罐这么骑车啊？？_1_冬哥_来自小红书网页版_02.jpg",
+  "image_sha256": "dce34c21a6b82cadc90a255cd7cab633c7dca810e6f5e26e23fb53422f65595a",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中数人骑乘电动车，可见车把、后视镜、头盔及条纹上衣等，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 395,
+    "total_tokens": 614,
+    "completion_tokens": 219,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 144
+    }
+  }
+}

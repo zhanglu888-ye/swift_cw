@@ -1,0 +1,24 @@
+{
+  "image": "negative/88-mp4_21_100x100_0_jpg.rf.ab42e40c4f97db4c7d9e3ed5e47ce8fc_01.jpg",
+  "image_sha256": "d8ef3bd9dc53447984a94044a52c55165c990cba0be1eb74608fec8f0f20ace6",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑白条纹连衣裙的人站在白色车辆旁，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 528,
+    "completion_tokens": 198,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 132
+    }
+  }
+}

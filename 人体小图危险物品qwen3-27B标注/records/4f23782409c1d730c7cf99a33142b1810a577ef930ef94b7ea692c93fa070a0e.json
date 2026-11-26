@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261005164033_06.jpg",
+  "image_sha256": "87bc5c578440c21339ed8acf7ba03cb4c8fa3bfe2d182c1c210af20bf18eac48",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中有人手持一把收拢的白色折叠伞，另有人提棕色包，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 486,
+    "total_tokens": 763,
+    "completion_tokens": 277,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 206
+    }
+  }
+}

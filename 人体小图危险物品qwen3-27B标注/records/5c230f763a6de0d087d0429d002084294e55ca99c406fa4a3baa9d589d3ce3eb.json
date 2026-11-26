@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道匡威店西_20261019125316_02.jpg",
+  "image_sha256": "ba0a54a852f23eb1eb0ed58a4c527f28b461f61b43f76255a7f1ed9220bdb1ab",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "几名穿黑衣的人站立，画面下方可见一个带红色标签的大容量塑料水桶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 447,
+    "total_tokens": 702,
+    "completion_tokens": 255,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 187
+    }
+  }
+}

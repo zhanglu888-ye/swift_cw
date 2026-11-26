@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0099_00.jpg",
+  "image_sha256": "773b7fd9a976b370e25b9dcdddb22f3810190bf146bd5645a669d5d8930efcbe",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人双手握持一把长木柄工具，头部为银灰色金属楔形斧刃。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 541,
+    "total_tokens": 805,
+    "completion_tokens": 264,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 194
+    }
+  }
+}

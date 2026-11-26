@@ -1,0 +1,26 @@
+{
+  "image": "negative/虎台二巷梧桐午托班后厨_20261118105121_00.jpg",
+  "image_sha256": "fc283c5f9742f2496334d669df2b73d3c2178b6c3074675abf3a7475f557adf1",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人双手端着盛满食物的金属托盘，另一人手持带红盖的白色塑料壶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 508,
+    "total_tokens": 796,
+    "completion_tokens": 288,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 219
+    }
+  }
+}

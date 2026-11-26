@@ -1,0 +1,24 @@
+{
+  "image": "negative/刘家寨小区农贸市场西北角_20261118172036_02.jpg",
+  "image_sha256": "085a3b14058a68b8d2ad3187555397e967fbb0b5f9da43dc884577c73f885f78",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴黄色头盔、穿深色羽绒服的人坐在车座上，双手未见明显手持物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 430,
+    "total_tokens": 624,
+    "completion_tokens": 194,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 125
+    }
+  }
+}

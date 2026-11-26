@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261002134136_05.jpg",
+  "image_sha256": "8eb0222e164a038ef91e2a48159151e8486946255b10e2aeacfe899d93be7f8c",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一辆红色电动三轮车，可见黑色座椅、车把、后视镜、圆形前大灯及车身金属护杠。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 332,
+    "total_tokens": 507,
+    "completion_tokens": 175,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 102
+    }
+  }
+}

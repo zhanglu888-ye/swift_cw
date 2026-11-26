@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道三岔口北_20261004162342_03.jpg",
+  "image_sha256": "e9c750b7e52d898618f937e8787148f5ca8fddd4d4420bdb3474b9527daa9a73",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿蓝色上衣和黑色长裤的人站立，双手自然下垂，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 335,
+    "total_tokens": 517,
+    "completion_tokens": 182,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 113
+    }
+  }
+}

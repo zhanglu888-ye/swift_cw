@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店南_20261023144528_02.jpg",
+  "image_sha256": "1292c4956b122283369770abfb18d0e4ff9dfd26dfd3e5192ce570076e0fdc27",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名女子手提一个白色袋子，未见其他目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 487,
+    "completion_tokens": 162,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 100
+    }
+  }
+}

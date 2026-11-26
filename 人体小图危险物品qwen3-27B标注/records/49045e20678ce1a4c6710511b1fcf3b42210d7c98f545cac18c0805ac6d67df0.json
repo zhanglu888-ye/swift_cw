@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0385_00.jpg",
+  "image_sha256": "374580a009cc873f5dc4357cb08f474137b62fcc72f9d0d2b268a7709a92b799",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子蹲在地上手扶套着白色印字包装袋的液化石油气钢瓶，旁边另有一个绿色液化气钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 577,
+    "total_tokens": 857,
+    "completion_tokens": 280,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 203
+    }
+  }
+}

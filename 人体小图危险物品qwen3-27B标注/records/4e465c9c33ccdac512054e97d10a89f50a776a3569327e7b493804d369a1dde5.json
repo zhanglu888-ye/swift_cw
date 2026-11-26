@@ -1,0 +1,24 @@
+{
+  "image": "positive/东交通巷口农商银行门口人脸检测照西_20261119143751 (2)_00.jpg",
+  "image_sha256": "0e0e25b30cdd9a068a561324cc5a944cb8f6577816289e02fb7c9fb0e61b98a0",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色外套戴眼镜的男子双手持握一支黑色步枪形物体，可见枪托、护木与枪管结构。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 339,
+    "total_tokens": 533,
+    "completion_tokens": 194,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 117
+    }
+  }
+}

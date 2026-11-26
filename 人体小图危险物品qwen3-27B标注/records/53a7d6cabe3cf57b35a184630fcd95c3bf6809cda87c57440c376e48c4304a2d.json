@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261017153744_02.jpg",
+  "image_sha256": "7efc64c0afb3674807c26d88ed17d64d824ab94f71c6d534f0bc34e6cc6705cf",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴警帽、穿深色制服并背黑色战术背心（印有“西宁特警”）的人员站立，腰侧佩戴装备套。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 574,
+    "total_tokens": 869,
+    "completion_tokens": 295,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 216
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "image": "negative/唐道西关大街停车场入口东_20261031150636_01.jpg",
+  "image_sha256": "666d7df9ee194751656d649ab327e2299073d1c2c4fb5c9f33414d5e73f136f6",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿豹纹外套、黑裤白鞋的女子行走，画面左侧可见一个带蓝色顶部的灰白色大容量桶状容器。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 1129,
+    "total_tokens": 1435,
+    "completion_tokens": 306,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 228
+    }
+  }
+}

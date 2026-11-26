@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道三岔口南摄像机_20261004153004_03.jpg",
+  "image_sha256": "65e4925595ef8b98c8079d654f309f9220a08b57dc179e1efcc64fce69ebf2ec",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色上衣的男子手持一个黄色小瓶状物体及一个白色小物件，背景为白色汽车。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 327,
+    "total_tokens": 558,
+    "completion_tokens": 231,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 158
+    }
+  }
+}

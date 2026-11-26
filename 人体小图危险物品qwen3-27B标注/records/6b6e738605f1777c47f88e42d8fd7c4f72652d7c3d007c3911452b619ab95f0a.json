@@ -1,0 +1,24 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索_19_00.jpg",
+  "image_sha256": "c73bd5dea42f3f16c3ee183c5be38d30b793ad6ff8b8a74872156a9636d713c9",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子手持一把带橙色顶盖瞄准镜的黑色弩，可见枪托状握把、弩臂及前端箭槽结构。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1377,
+    "total_tokens": 1714,
+    "completion_tokens": 337,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 260
+    }
+  }
+}

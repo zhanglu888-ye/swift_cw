@@ -1,0 +1,24 @@
+{
+  "image": "negative/新华巷口1_20261120095004_01.jpg",
+  "image_sha256": "df5a64a7df9fa5127306791c8d3eb0e1e0b871f65467dc0fa63edf7b86032644",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "行人手提一个白色塑料购物袋，袋内装有物品，外观为普通购物袋。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 568,
+    "completion_tokens": 235,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 166
+    }
+  }
+}

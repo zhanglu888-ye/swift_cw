@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道三岔口北_20261004162342_01.jpg",
+  "image_sha256": "8cf45a05fbe7ca6127ef8b3a441e437dd445a2c5de7d7b8a24f3cdf30a8198e7",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子手持一部深色手机，背景右侧可见一个黄色大容量塑料桶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 447,
+    "total_tokens": 665,
+    "completion_tokens": 218,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 153
+    }
+  }
+}

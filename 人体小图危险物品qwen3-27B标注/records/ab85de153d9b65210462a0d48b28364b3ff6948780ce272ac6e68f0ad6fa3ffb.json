@@ -1,0 +1,26 @@
+{
+  "image": "negative/海湖幼儿园后厨操作间1_20261116094727_00.jpg",
+  "image_sha256": "289dffcda630f20cece9272f125193860692f31a0917adcdd4881717561be6fb",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "厨房操作台上两名穿白色工作服、系棕色围裙、戴蓝色帽子的人员在处理生肉，台上有砧板、生肉及盛满肉块的不锈钢大盆，前方人员手握一黑色长条状物体。",
+    "刀具": "不确定",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 935,
+    "total_tokens": 1443,
+    "completion_tokens": 508,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 409
+    }
+  }
+}

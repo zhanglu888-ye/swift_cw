@@ -1,0 +1,24 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索 (5)_53_00.jpg",
+  "image_sha256": "4822e065cf1030b8a2c1443244522e488ab4fd3ac80f92dcb4287583f17c6b79",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中有人手持一件木制弩，可见竖直的木弩臂、横向的弓臂与拉紧的弩弦。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 567,
+    "total_tokens": 853,
+    "completion_tokens": 286,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 210
+    }
+  }
+}

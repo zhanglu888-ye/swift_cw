@@ -1,0 +1,26 @@
+{
+  "image": "negative/唐道西关大街停车场入口东_20261002151429_01.jpg",
+  "image_sha256": "dacf7dd552e68eb52f42c228d57a3d91e1be0476abedc309539bddbe096a2066",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深色制服、背印有“西宁特警 SWAT”字样战术背心的人员，腰间装备带上插有一把黑色枪形物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 2261,
+    "total_tokens": 2579,
+    "completion_tokens": 318,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 240
+    }
+  }
+}

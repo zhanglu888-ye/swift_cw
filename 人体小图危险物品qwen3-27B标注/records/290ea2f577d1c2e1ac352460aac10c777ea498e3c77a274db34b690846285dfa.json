@@ -1,0 +1,24 @@
+{
+  "image": "negative/01e9abaaab511784010370019cc696bc68_115 (1)_110_03.jpg",
+  "image_sha256": "6a5ea7cba267af0c9ece601fa6062b886024f0cd39930a2e6f5bf1d151ef36c9",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中一名戴眼镜穿黑白外套牛仔裤的男子站立，旁边一人手持一根细长杆状物，未见目标类别物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 586,
+    "completion_tokens": 256,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 180
+    }
+  }
+}

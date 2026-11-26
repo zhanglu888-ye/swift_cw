@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0512_00.jpg",
+  "image_sha256": "9c1b0c1777fd45c649b4ceb4bfd5cc415fada138bfa5c42e89f96819d98d83b1",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿绿色上衣的男子手持一把带木柄的金属斧头，正对着面前的圆木桩作劈柴状。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 567,
+    "total_tokens": 835,
+    "completion_tokens": 268,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 193
+    }
+  }
+}

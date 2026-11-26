@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道西关大街停车场入口东_20261031150636_04.jpg",
+  "image_sha256": "bd99d7df38d9a190f9acdd187d553cb3bc70c90f5f7987cb87aaa7bde3afacd3",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中仅见一人下半身，穿深色长裤与白色鞋子在浅色地面上行走，未见手持物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 336,
+    "total_tokens": 494,
+    "completion_tokens": 158,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 85
+    }
+  }
+}

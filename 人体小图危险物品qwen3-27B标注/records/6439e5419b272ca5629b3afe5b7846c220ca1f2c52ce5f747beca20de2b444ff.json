@@ -1,0 +1,24 @@
+{
+  "image": "negative/东方幼教幼儿园后厨加工间_20261119143440_01.jpg",
+  "image_sha256": "d6fb194f35ae08ccc4f81d68e7a47e34a1171e66476d08d826abec24aff10025",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "手持一块白色板状物，表面平整无明显特征。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 669,
+    "total_tokens": 860,
+    "completion_tokens": 191,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 129
+    }
+  }
+}

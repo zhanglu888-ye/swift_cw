@@ -1,0 +1,26 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索 (1)_8_00.jpg",
+  "image_sha256": "60be8b2aeb3e3afcc73d9c16b69949b0226026cf7e0841ecf66048f56de3aae4",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴黑帽穿黑衣的男子右手握持一根竖直长杆状物体，下端带横向把手结构，外观类似长柄工具或支架。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 417,
+    "total_tokens": 716,
+    "completion_tokens": 299,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 218
+    }
+  }
+}

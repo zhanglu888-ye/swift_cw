@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道三岔口南摄像机_20261004153004_02.jpg",
+  "image_sha256": "7258e4aa8fe0c2bf3a5708cf6512f744d8a18f37aac05d0860fafc28878284cb",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿白色上衣的男子手提一个装有黄色液体的大容量透明塑料桶，桶顶带红色提手。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 530,
+    "completion_tokens": 205,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 133
+    }
+  }
+}

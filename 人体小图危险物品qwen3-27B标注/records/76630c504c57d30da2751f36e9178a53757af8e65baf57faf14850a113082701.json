@@ -1,0 +1,24 @@
+{
+  "image": "negative/北气象巷路口祭祀点_20261123115912_02.jpg",
+  "image_sha256": "33753d78f374965fe4fa935a839d2395a733b07751be9d74320f7a463985832d",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中一人怀抱蓝白色衣物或包袋，另一人手持一个白底黑点的足球，地面前方有一粉色垫状物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 590,
+    "completion_tokens": 265,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 185
+    }
+  }
+}

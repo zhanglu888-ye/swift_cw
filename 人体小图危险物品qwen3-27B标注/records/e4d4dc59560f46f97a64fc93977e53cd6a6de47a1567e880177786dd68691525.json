@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道同盛路停车场入口_20261017153748_06.jpg",
+  "image_sha256": "d999d1734d34139922b8477ec135fc754debb214100814a40e3bf09bd5f994ec",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名女子手持一杯插着吸管的透明饮料杯，其余人员未见明显手持物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 423,
+    "total_tokens": 690,
+    "completion_tokens": 267,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 198
+    }
+  }
+}

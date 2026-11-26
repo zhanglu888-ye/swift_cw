@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道637火车头东侧停车场入口北_20261025214331_00.jpg",
+  "image_sha256": "31e703acecc83509aedd87e1aad32b886eb399444ef75e4301e7b52a9f419c3a",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "车内放置一个金属圆柱形液化气钢瓶，瓶身缠有白色塑料袋并连接一根黄色软管。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 485,
+    "total_tokens": 776,
+    "completion_tokens": 291,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 219
+    }
+  }
+}

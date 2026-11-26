@@ -1,0 +1,26 @@
+{
+  "image": "negative/唐道匡威店南_20261003201433_01.jpg",
+  "image_sha256": "4d3d12236149a0864be8013b53f2e065a25847a55cb7f5dcf621a9c55a22ec93",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名身着深色制服的警察，腰侧佩戴枪套，双手在身前持握一模糊深色物体。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "不确定",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 439,
+    "total_tokens": 1093,
+    "completion_tokens": 654,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 581
+    }
+  }
+}

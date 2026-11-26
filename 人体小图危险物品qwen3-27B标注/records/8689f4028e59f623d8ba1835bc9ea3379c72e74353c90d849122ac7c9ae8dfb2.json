@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道同盛路停车场入口_20261025115550_02.jpg",
+  "image_sha256": "eca83b693b39355ea3048db71cc719e038044488ab3cc9cd7150b1cb7b76f250",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "两人手提白色塑料购物袋，其中一人肩背棕色包。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 512,
+    "completion_tokens": 179,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 115
+    }
+  }
+}

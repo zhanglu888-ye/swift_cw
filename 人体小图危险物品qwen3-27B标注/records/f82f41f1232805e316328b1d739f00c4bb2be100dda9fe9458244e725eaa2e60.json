@@ -1,0 +1,24 @@
+{
+  "image": "negative/88-mp4_584_100x100_0_jpg.rf.4161bd6526067e6488bfa45a4c061eed_00.jpg",
+  "image_sha256": "09fefe9c55312b790fe8a44f4d462fae9f17ffeae1939c5e13657bb82fffd253",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中两人站立于白色车辆旁，一人穿白衣蓝裤抬手扶靠另一人，未见明显手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 327,
+    "total_tokens": 541,
+    "completion_tokens": 214,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 138
+    }
+  }
+}

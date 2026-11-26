@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道637火车头东侧停车场入口北_20261109144057_00.jpg",
+  "image_sha256": "cc3c5ad0e63199d76e90e35fbc07fd858fa2c6518d00363555f444eabe46fa80",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名黑衣戴帽男子站立手持浅色长方形物体，旁边地面放有一个装黄色液体的大容量塑料桶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 618,
+    "completion_tokens": 288,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 216
+    }
+  }
+}

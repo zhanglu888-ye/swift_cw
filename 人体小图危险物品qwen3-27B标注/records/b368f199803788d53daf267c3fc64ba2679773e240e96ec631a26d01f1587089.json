@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店西_20261111133853_01.jpg",
+  "image_sha256": "de2bc8d4398efb77261903d45fd62241212718fa24cfa10a7a033be51bc72fb8",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一个竖立的深色长条状设备或箱体，表面有标签和文字区域，顶部有突出结构，底部带支架。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 564,
+    "completion_tokens": 239,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 162
+    }
+  }
+}

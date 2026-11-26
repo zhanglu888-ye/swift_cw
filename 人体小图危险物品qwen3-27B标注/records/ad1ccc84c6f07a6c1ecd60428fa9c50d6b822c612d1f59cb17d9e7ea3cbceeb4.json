@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道匡威店南_20261027121415_00.jpg",
+  "image_sha256": "32678931eff8ff136121f60b5dd0db35d38497ef8a973f828a5d5fb594d3b9e4",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人手提一个装有黄色液体的透明大容量塑料桶，桶口带白色提手。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 374,
+    "total_tokens": 587,
+    "completion_tokens": 213,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 145
+    }
+  }
+}

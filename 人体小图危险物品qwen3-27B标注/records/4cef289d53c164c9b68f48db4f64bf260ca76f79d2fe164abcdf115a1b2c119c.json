@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道阿迪达斯北_20261108134544 (1)_00.jpg",
+  "image_sha256": "1ea888668741a1e664b44b2bc3c24bacb7c020746db60608bf448210d6a07323",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "人物一手提白色纸质购物袋，另一手提黑色手提包。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 453,
+    "total_tokens": 611,
+    "completion_tokens": 158,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 94
+    }
+  }
+}

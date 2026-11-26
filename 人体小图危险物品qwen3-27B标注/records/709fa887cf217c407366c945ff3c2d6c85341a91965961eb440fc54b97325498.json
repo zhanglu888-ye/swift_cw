@@ -1,0 +1,24 @@
+{
+  "image": "positive/01e95c7f642203b9010370019b943736bd_108_17_00.jpg",
+  "image_sha256": "ce065557e5d24a86615928e621d64370435edf3851d8a479b12cc70570013b4a",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑衣戴帽男子手持一把木柄金属斧头的斧头，背景堆放木柴并摆放多个白色塑料桶。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 3030,
+    "total_tokens": 3298,
+    "completion_tokens": 268,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 191
+    }
+  }
+}

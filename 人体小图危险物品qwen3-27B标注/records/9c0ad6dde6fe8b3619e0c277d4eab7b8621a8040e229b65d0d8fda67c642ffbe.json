@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店南_20261002200840_11.jpg",
+  "image_sha256": "0703eddf063f1bb66d511070812d2d5f209f0e5ac1f5aa6ba22279a7f4681e0e",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中人物身旁可见一个深色包袋状物品及红色物件，未见其他目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 670,
+    "completion_tokens": 345,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 275
+    }
+  }
+}

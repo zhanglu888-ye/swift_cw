@@ -1,0 +1,26 @@
+{
+  "image": "negative/唐道同盛路停车场入口_20261017153748_05.jpg",
+  "image_sha256": "3b54c2a8eb85d476cbc7c53a1d7e8bb321b2a054c136d3e5c9d3289124d5e57d",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴帽、穿黑白拼色外套与黑裤白鞋者站立，其右后方背景可见一个蓝色桶状容器。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 327,
+    "total_tokens": 991,
+    "completion_tokens": 664,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 586
+    }
+  }
+}

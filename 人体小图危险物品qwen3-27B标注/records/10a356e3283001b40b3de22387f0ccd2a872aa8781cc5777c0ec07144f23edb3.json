@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道阿迪达斯北_20261114165547_04.jpg",
+  "image_sha256": "afb80795f0f568366e2f01884cdc1b19f3f71176f794d4cfd95202886d7a4c8e",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑衣黑裤的男子站立，双手下垂未见明显手持物品，背景有红粉色游乐车状物体。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 533,
+    "completion_tokens": 200,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 126
+    }
+  }
+}

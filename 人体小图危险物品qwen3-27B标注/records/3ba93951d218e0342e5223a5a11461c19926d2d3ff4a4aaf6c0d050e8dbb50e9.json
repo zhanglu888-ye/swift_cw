@@ -1,0 +1,24 @@
+{
+  "image": "positive/01e8fa2d8922e90b010370019a119a652c_115_131_00.jpg",
+  "image_sha256": "27c5c3ce3bf94130d2de4d4e068b543a62b649e1a6f64ae735e726bf981af3b3",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人手持一把带瞄准镜和横向弓臂弦线的弩，正对远处草地上的靶标。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 2055,
+    "total_tokens": 2281,
+    "completion_tokens": 226,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 154
+    }
+  }
+}

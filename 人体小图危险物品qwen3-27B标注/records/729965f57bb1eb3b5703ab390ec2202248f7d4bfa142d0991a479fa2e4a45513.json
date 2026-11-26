@@ -1,0 +1,26 @@
+{
+  "image": "negative/扛煤气罐_109_05.jpg",
+  "image_sha256": "0c6eeb7b88c4af8f2c02aa3f5da9c9453cf9544364de14eff9f7504fa976b4c7",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "两名黑衣男子站立，其中一人双手在身前持一深色长条状物体，细节模糊。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "不确定",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 575,
+    "completion_tokens": 242,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 171
+    }
+  }
+}

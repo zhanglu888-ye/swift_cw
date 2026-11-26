@@ -1,0 +1,24 @@
+{
+  "image": "negative/frame_0012_00.jpg",
+  "image_sha256": "b48e701d350c8a72871a6a2d723efa8296b4b2c3e5a4c1c34a83e315bff26af6",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿迷彩上衣和白色长裤的男子在户外做动作，背景停放着一辆白色电动车。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 351,
+    "total_tokens": 597,
+    "completion_tokens": 246,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 175
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/谁家煤气罐罐这么骑车啊？？_1_冬哥_来自小红书网页版_01.jpg",
+  "image_sha256": "9a506731b357c33105b4dacb5fbdfcd8eb00e43c4b6ff179fe405641fe1963bd",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "自行车后部绑着一个灰白色钢瓶，瓶身印有红色“液化石油气”字样。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 767,
+    "total_tokens": 990,
+    "completion_tokens": 223,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 152
+    }
+  }
+}

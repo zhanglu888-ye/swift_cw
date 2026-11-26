@@ -1,0 +1,24 @@
+{
+  "image": "positive/01e7db563d5db82f0103700195b0ca93bf_258_53_00.jpg",
+  "image_sha256": "ec937d3ffd136f3df3c22f55d7a1e5241b4ed471be5a935093152849171c9379",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子手持一件木制弩形器具，带横向木臂、弯曲弓臂及绿色弦线，并附有可滑动的木块。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 975,
+    "total_tokens": 1222,
+    "completion_tokens": 247,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 168
+    }
+  }
+}

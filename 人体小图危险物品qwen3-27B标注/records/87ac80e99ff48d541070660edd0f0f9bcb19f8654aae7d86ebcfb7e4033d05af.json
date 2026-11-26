@@ -1,0 +1,26 @@
+{
+  "image": "positive/u=2893048581,2855310798&fm=253&fmt=auto&app=138&f=JPEG_02.jpg",
+  "image_sha256": "80a3dc0f4a78cdfa1328d7fe8d8a56931904ac024a54ac3d5be01e2e1c04c98c",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子双手横握一根长木杆（木棒），周围有围观人群。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 321,
+    "total_tokens": 594,
+    "completion_tokens": 273,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 205
+    }
+  }
+}

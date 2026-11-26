@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0311_00.jpg",
+  "image_sha256": "47b786d5e54a271e4774ac6ee98e20ba9c29835d485a361e08644fb3f99a8d9a",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名女子手扶一个灰色液化石油气钢瓶，旁边地面放着一个黄色塑料桶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 507,
+    "total_tokens": 759,
+    "completion_tokens": 252,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 182
+    }
+  }
+}

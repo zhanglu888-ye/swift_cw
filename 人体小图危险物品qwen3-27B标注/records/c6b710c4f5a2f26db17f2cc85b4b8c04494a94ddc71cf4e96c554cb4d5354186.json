@@ -1,0 +1,24 @@
+{
+  "image": "positive/兴海路19号院南角2枪机_20261121094947_01.jpg",
+  "image_sha256": "480d67e3fa13e8fa8ad1676119e40b9ba9b819b126991347f52392855a84f14f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人手持装有黄色液体的透明塑料油桶，旁边地面放有一个绿色液化气钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 374,
+    "total_tokens": 647,
+    "completion_tokens": 273,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 204
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/北气象巷路口祭祀点_20261122165405_01.jpg",
+  "image_sha256": "c4097e6f252b68892923c6c20cf9979a884ead7277085de5a825e60fcb27ec56",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴口罩的男孩双手持握一支带瞄准装置的长形枪形物体。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 395,
+    "total_tokens": 571,
+    "completion_tokens": 176,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 109
+    }
+  }
+}

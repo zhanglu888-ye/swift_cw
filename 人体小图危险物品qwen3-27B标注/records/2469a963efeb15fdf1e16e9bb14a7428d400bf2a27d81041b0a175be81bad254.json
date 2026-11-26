@@ -1,0 +1,24 @@
+{
+  "image": "positive/01e90fff8d347b79010370019a667f63b6_76_12_00.jpg",
+  "image_sha256": "814e4e408500afda9723d78ebffb3acc9c82b39e7f39730a9f3f80c1383c0041",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名红衣男子手持一把木制弩，前端带弯曲弓臂与弦，正用拉柄张弦。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 2180,
+    "total_tokens": 2420,
+    "completion_tokens": 240,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 167
+    }
+  }
+}

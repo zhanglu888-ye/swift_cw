@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0239_00.jpg",
+  "image_sha256": "859d86451ed92a99e64bd12d91a7ae835bc54704b6e0b0b8a0f0dd52b62a85cf",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名女子手扶一个灰色圆柱形液化石油气钢瓶，瓶身印有红色字样并贴有标签，顶部带阀门护罩。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 507,
+    "total_tokens": 783,
+    "completion_tokens": 276,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 196
+    }
+  }
+}

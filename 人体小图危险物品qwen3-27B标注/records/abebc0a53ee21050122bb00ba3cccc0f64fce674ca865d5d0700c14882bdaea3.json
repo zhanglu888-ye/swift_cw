@@ -1,0 +1,24 @@
+{
+  "image": "negative/新华巷口1_20261120095023_02.jpg",
+  "image_sha256": "26804105d0f8db635c800fa53e3c0b52cf14db9d22b2009dcd54c4fc64d16753",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色羽绒服的人手提一个深色包袋，背景门口站着一名穿红衣的人。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 575,
+    "completion_tokens": 250,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 180
+    }
+  }
+}

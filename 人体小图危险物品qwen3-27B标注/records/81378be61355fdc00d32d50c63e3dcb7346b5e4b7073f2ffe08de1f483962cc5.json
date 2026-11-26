@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道同盛路停车场入口_20261006102124_01.jpg",
+  "image_sha256": "283ccae4d9dbbd2dbe3721ada7a458934099bb037b043173cae6519a854a5516",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色制服的特警背部斜挎一支带弹匣和枪托的黑色步枪形物体，腰间另配有装备。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 552,
+    "total_tokens": 875,
+    "completion_tokens": 323,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 247
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/01e921b6646407df010370019aabb635dd_115_79_02.jpg",
+  "image_sha256": "6ad69445293b0712aab43f176594a4b0f758ae503f65f6e39ad077e8747e0efb",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深蓝色工作服者腰侧手持一深色不明物体，背景可见卷帘门及斜靠的长杆。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 425,
+    "total_tokens": 958,
+    "completion_tokens": 533,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 458
+    }
+  }
+}

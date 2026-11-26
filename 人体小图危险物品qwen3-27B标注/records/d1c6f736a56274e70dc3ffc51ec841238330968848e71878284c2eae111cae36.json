@@ -1,0 +1,24 @@
+{
+  "image": "negative/93-mp4_389_100x100_0_jpg.rf.79822b2a7ec95ef37e63c2356cac3625_00.jpg",
+  "image_sha256": "ac8863f14271d6f173467dd672ab8aca0f2f34f136bfe41c38b63a2f0ff06382",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面为一名穿深色上衣浅色裤子的人形模糊轮廓，未见可辨认的手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 335,
+    "total_tokens": 531,
+    "completion_tokens": 196,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 125
+    }
+  }
+}

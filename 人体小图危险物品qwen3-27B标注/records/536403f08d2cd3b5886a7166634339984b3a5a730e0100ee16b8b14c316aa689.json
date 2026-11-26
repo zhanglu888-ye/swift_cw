@@ -1,0 +1,24 @@
+{
+  "image": "positive/海湖幼儿园后厨操作间1_20261116094548_00.jpg",
+  "image_sha256": "659881d9e9009d319b2d18d968323de08273076f0e689e9ee5b97e042278765d",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿白色工作服的人在操作台上处理面团，台面放有一把菜刀、金属盆和金属罐。",
+    "刀具": "有",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 711,
+    "total_tokens": 1208,
+    "completion_tokens": 497,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 425
+    }
+  }
+}

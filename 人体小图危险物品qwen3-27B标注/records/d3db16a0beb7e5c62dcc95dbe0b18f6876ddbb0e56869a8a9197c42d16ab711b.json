@@ -1,0 +1,24 @@
+{
+  "image": "positive/01e8fa2d8922e90b010370019a119a652c_115_482_00.jpg",
+  "image_sha256": "5fe40dc1ec334492510d95e2bac1f70e231fa15a10c6f649dbf6d7f80fb9a1c8",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子双手持一把带瞄准镜的迷彩涂装长枪（步枪形物体）。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1524,
+    "total_tokens": 1676,
+    "completion_tokens": 152,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 84
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/u=219352636,1824755165_fm=253_fmt=auto_app=120_f=JPEG_04.jpg",
+  "image_sha256": "69970c242685a8307333345db101e2d219cb5d4c2f26c0c10ba963aa7c8e2c8d",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面主要为人物腿部及黑色鞋子，背景可见广告牌、招牌与金属杆状物，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 563,
+    "completion_tokens": 233,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 158
+    }
+  }
+}

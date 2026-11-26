@@ -1,0 +1,24 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索 (3)_61_00.jpg",
+  "image_sha256": "e6c0f5042318aa2ecf873031fc128c015da2a20ad13e4b2d208c96a7470bff15",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "几位男子坐着，前景为多把倒置的红棕色与浅木色木椅，左侧男子胸前斜挎带子末端可见一银灰色金属长条物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "不确定",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 705,
+    "total_tokens": 1155,
+    "completion_tokens": 450,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 364
+    }
+  }
+}

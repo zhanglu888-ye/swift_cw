@@ -1,0 +1,24 @@
+{
+  "image": "positive/01e8fa2d8922e90b010370019a119a652c_115_164_00.jpg",
+  "image_sha256": "18f4c55709f80dea62e6069188306bfb3ec124539fc6a39001dc2fcde05097a5",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子肩扛带光学瞄准镜的弩，背景草地上放有白色卧式钢瓶及桶状容器。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1527,
+    "total_tokens": 2177,
+    "completion_tokens": 650,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 576
+    }
+  }
+}

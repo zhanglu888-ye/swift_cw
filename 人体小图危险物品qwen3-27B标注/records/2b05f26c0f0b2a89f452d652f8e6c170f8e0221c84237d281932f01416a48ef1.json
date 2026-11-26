@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0166_01.jpg",
+  "image_sha256": "30cebf2cbfed6319453c8892fab6b0253e3cdbeb30d73acef168ee757a86c375",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子正搬动一个灰白色圆柱形液化石油气钢瓶，瓶身印有红色字样。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 459,
+    "total_tokens": 718,
+    "completion_tokens": 259,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 187
+    }
+  }
+}

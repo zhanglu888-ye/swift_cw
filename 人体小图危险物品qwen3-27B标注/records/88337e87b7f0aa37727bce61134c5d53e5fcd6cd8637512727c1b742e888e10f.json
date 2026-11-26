@@ -1,0 +1,24 @@
+{
+  "image": "positive/01e8e5135de8a5ac0103700199bed9b073_114_574_00.jpg",
+  "image_sha256": "9089324c30ef107f0348a46ad8bd578eba7aed1023fddae0604c006d29469623",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子手持一根红色长柄工具，地面散落劈开的木段与木屑。",
+    "刀具": "无",
+    "斧头": "不确定",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 975,
+    "total_tokens": 1642,
+    "completion_tokens": 667,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 599
+    }
+  }
+}

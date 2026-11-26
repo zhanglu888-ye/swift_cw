@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店西_20261003143213_05.jpg",
+  "image_sha256": "81ffab78dc77ec9a54851ffdd4d1a17daddc2e8ecc77b3c680a7cb14874905b4",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "三名行人走在路上，左侧者手提浅色包袋，右侧者手持一深色小物件，未见目标类别物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 584,
+    "completion_tokens": 259,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 184
+    }
+  }
+}

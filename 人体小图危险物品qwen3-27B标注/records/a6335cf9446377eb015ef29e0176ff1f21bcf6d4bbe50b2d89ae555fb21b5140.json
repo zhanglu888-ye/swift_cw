@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道637火车头东侧停车场入口北_20261117140334_01.jpg",
+  "image_sha256": "b76db5c8b7b968fcea7c834ffa29eaf019d37b251ba76714342a296600b25329",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴头盔、穿黑色外套的人骑在一辆黑色摩托车上，双手握持车把。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 435,
+    "total_tokens": 655,
+    "completion_tokens": 220,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 149
+    }
+  }
+}

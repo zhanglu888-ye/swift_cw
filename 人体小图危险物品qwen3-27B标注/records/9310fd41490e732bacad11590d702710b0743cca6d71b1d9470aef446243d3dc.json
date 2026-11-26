@@ -1,0 +1,24 @@
+{
+  "image": "positive/d494deff-d663-4f34-ac5a-235380b63b0a_00.jpg",
+  "image_sha256": "1dd076bf02d63ce9f548240167a583da99500e76365d68205889692e55f86b6d",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "车上放置两个灰色液化石油气钢瓶，瓶身印有红色文字和编号，工人戴手套正操作阀门。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 654,
+    "total_tokens": 918,
+    "completion_tokens": 264,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 189
+    }
+  }
+}

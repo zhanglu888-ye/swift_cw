@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道苹果手机店北_20261025113139_00.jpg",
+  "image_sha256": "887db84c9985bafecf85ee55ea249fddc20d380727f4b24e0d9328902e4daf3a",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "穿红色卫衣者左手提一个黄色大容量塑料桶，右手提一个白色塑料袋。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 345,
+    "total_tokens": 605,
+    "completion_tokens": 260,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 192
+    }
+  }
+}

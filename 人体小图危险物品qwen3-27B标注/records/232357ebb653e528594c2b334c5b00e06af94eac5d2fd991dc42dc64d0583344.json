@@ -1,0 +1,24 @@
+{
+  "image": "positive/u=2886994959,312586915&fm=253&fmt=auto&app=138&f=JPEG_02.jpg",
+  "image_sha256": "de947ed28c30062a40b425fe0a1c982f8b96b7eb3aab2c4d3b7ba5f15e82fb4d",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名蹲地男子双手持握带弦的木制弩形装置，下方有木框与绳索结构。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 332,
+    "total_tokens": 583,
+    "completion_tokens": 251,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 178
+    }
+  }
+}

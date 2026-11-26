@@ -1,0 +1,24 @@
+{
+  "image": "positive/01e8fa2d8922e90b010370019a119a652c_115_324_00.jpg",
+  "image_sha256": "bd8d8557ccc35be8739a0a58d11a7cd70fd4bab791c50ddd5dea29a772f07752",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿迷彩服戴帽的男子手持一把黑色带迷彩纹路的复合弩，可见弓臂、偏心滑轮、弦及瞄准结构。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1335,
+    "total_tokens": 1595,
+    "completion_tokens": 260,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 179
+    }
+  }
+}

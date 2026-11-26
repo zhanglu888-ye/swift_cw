@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道同盛路停车场入口_20261010193755_00.jpg",
+  "image_sha256": "2b5b78557ca3365a61b8a3f68e629615d7f0c7d558f6711ae8e45c61e3b95f2e",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿浅色格子外套的男子右手持一个带盖的饮料杯。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 357,
+    "total_tokens": 580,
+    "completion_tokens": 223,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 158
+    }
+  }
+}

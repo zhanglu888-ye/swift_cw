@@ -1,0 +1,24 @@
+{
+  "image": "negative/9901e56cbf4768_02.jpg",
+  "image_sha256": "d194f3088c61ef7093b98c357e49aef4c418c3bd851e0ae0a557b018fe14618e",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿条纹上衣的人站立，手持一白色小物件，背景有摩托车。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 540,
+    "completion_tokens": 215,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 148
+    }
+  }
+}

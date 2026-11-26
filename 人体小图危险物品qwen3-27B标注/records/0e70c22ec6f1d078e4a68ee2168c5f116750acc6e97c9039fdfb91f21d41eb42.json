@@ -1,0 +1,24 @@
+{
+  "image": "negative/虎台二巷梧桐午托班后厨_20261118103600_00.jpg",
+  "image_sha256": "524623d836d1f1fdfc9fa6db053378aed302bff8dee333c05292563b92f69964",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿红衣白围裙戴白帽者手持一根长柄厨具在不锈钢容器上方操作，左手握白色布状物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 416,
+    "total_tokens": 729,
+    "completion_tokens": 313,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 235
+    }
+  }
+}

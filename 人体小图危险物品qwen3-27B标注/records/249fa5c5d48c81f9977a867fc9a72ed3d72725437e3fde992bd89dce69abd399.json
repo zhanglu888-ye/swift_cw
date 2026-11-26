@@ -1,0 +1,24 @@
+{
+  "image": "positive/兴海路11号院西南角枪机2_20261122132659_00.jpg",
+  "image_sha256": "164bee62e4d3b9de22756b18520f179512208eb6af6dce8c8548caeb5acd442b",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男孩手持一件黑色枪形物体，可见枪管与握把结构。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 407,
+    "total_tokens": 614,
+    "completion_tokens": 207,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 140
+    }
+  }
+}

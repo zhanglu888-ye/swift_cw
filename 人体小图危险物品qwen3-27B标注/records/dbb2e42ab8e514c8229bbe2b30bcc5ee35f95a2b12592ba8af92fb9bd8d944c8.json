@@ -1,0 +1,24 @@
+{
+  "image": "negative/u=219352636,1824755165_fm=253_fmt=auto_app=120_f=JPEG_06.jpg",
+  "image_sha256": "5afe4da9cffc0df3ffe3203a4d94ac212679a7a58aa8fd714ae52ce9c6e1485e",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面模糊，可见数人站立于白色栏杆旁，未见明显手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 600,
+    "completion_tokens": 275,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 207
+    }
+  }
+}

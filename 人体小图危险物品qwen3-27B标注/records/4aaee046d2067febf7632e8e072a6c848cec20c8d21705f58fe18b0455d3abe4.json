@@ -1,0 +1,24 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索 (1)_475_00.jpg",
+  "image_sha256": "cf1418a129092ccf6494c560a59afcafccc373eb0984a1b16728c21f07b030c7",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子手持一把装有瞄准镜的黑色弩，弩旁插有带红色羽毛的箭矢，另一只手拿着小型遥控器。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 959,
+    "total_tokens": 1246,
+    "completion_tokens": 287,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 210
+    }
+  }
+}

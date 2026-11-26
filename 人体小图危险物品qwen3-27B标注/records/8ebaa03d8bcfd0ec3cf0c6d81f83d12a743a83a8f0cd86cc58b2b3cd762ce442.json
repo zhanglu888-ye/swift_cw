@@ -1,0 +1,26 @@
+{
+  "image": "positive/扛煤气罐_041_00.jpg",
+  "image_sha256": "0c7ed78d88dae1b5c053f2047e2176bee5914b8239f732c417277ccad57e1a06",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿蓝色工装、戴红帽的男子骑在黄色电动车上，双手握车把，腰间挂黑色小包。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 983,
+    "total_tokens": 1272,
+    "completion_tokens": 289,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 214
+    }
+  }
+}

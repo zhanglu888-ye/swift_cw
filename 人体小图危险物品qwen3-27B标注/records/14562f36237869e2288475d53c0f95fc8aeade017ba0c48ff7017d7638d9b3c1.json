@@ -1,0 +1,26 @@
+{
+  "image": "positive/虎台二巷梧桐午托班后厨_20261118103537_00.jpg",
+  "image_sha256": "36d3795c52ce3a009f8dc86b9f63ba184b23ea8f487a06e5efb2c1d1f20d1341",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿红色工作服、白色围裙并戴蓝色发网和口罩的人员手持一个不锈钢金属盆，盆内可见液体或食材。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 567,
+    "total_tokens": 846,
+    "completion_tokens": 279,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 200
+    }
+  }
+}

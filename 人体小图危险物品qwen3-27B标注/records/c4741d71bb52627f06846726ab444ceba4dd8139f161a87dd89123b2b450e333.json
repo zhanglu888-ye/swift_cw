@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道阿迪达斯北_20261006164436_00.jpg",
+  "image_sha256": "c2e75700bf5f95b7d011f0ccb7aa0a5cc8a2fbc9854dfdeeeda8fecfc7d859bb",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿西宁特警制服的人员与一名挎包行人同行，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 579,
+    "total_tokens": 828,
+    "completion_tokens": 249,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 182
+    }
+  }
+}

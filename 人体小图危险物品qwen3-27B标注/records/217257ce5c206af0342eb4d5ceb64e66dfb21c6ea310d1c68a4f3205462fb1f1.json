@@ -1,0 +1,24 @@
+{
+  "image": "negative/刘家寨小区农贸市场西北角_20261118172034_03.jpg",
+  "image_sha256": "e15a2967874dbee98223ba2943650665fb0bcc421db84b22ed2f7e42fa0388f3",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑衣女子手持白色小物件和深色长条状物体（似手机），背景有货架、红色塑料筐及电动车。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 345,
+    "total_tokens": 617,
+    "completion_tokens": 272,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 194
+    }
+  }
+}

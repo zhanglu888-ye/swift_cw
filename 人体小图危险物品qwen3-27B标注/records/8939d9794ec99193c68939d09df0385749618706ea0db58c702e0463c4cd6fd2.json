@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0095_00.jpg",
+  "image_sha256": "9a9f230f3f585df1a654526f3b1f7c487fada79a62edb8bf72dc7b289108cdaf",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名赤膊男子双手握持一根长木柄工具，末端带有金属头，形似斧头。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 505,
+    "total_tokens": 823,
+    "completion_tokens": 318,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 245
+    }
+  }
+}

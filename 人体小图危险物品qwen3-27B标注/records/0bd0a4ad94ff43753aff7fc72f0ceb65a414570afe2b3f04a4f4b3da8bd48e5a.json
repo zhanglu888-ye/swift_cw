@@ -1,0 +1,26 @@
+{
+  "image": "negative/唐道8号门_20261010193756_13.jpg",
+  "image_sha256": "cde53a997b281b431a1a7df1d45ff39aa7a9ce0bdd05dcdbee9d541f39c28c03",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色皮夹克戴帽男子右手提着一个银灰色金属圆柱形钢瓶，顶部可见阀门结构。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 584,
+    "completion_tokens": 251,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 177
+    }
+  }
+}

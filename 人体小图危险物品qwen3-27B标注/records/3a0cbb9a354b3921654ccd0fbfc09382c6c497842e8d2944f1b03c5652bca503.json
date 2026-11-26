@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店南_20261005160421_02.jpg",
+  "image_sha256": "c5d40d8042e9e4ce070681cf23f13af2506d150fcc99bc902213a34dd239cc79",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴白色帽子、穿黑色皮夹克的人骑在电动车上，双手握着车把，背景可见绿色车厢及堆放的瓶罐。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 332,
+    "total_tokens": 548,
+    "completion_tokens": 216,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 136
+    }
+  }
+}

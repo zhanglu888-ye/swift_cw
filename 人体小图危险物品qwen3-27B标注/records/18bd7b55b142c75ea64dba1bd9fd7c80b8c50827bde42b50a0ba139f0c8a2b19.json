@@ -1,0 +1,24 @@
+{
+  "image": "positive/扛煤气罐_139_00.jpg",
+  "image_sha256": "7f836d733286d32106b51ca54f3438af84011fcc7f31b4f41292fac86d752b26",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人背上背着一个蓝绿色大容量桶状容器，手扶楼梯金属扶手。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 495,
+    "total_tokens": 718,
+    "completion_tokens": 223,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 156
+    }
+  }
+}

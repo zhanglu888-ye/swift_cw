@@ -1,0 +1,24 @@
+{
+  "image": "negative/东交通巷1_20261123154141_03.jpg",
+  "image_sha256": "aa4a2c9273bc9a9c60edf21b3ade57f37fbd745e0ec533e777f3ea2d5d14871f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴粉色帽子、穿红色外套的人背对镜头站立，未见手持物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 332,
+    "total_tokens": 488,
+    "completion_tokens": 156,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 88
+    }
+  }
+}

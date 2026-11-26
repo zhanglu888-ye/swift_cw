@@ -1,0 +1,24 @@
+{
+  "image": "negative/东方幼教幼儿园后厨加工间_20261119144032_00.jpg",
+  "image_sha256": "34a87c8f66890e85f90f8a34a79282f4c2538483765a94c300382d60340996e5",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "穿白色工作服戴手套的人员站在不锈钢操作台旁，台面上有写字的纸张、红褐色抹布、装满切段黄瓜的不锈钢盆及一卷黄色保鲜膜。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 773,
+    "total_tokens": 1027,
+    "completion_tokens": 254,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 168
+    }
+  }
+}

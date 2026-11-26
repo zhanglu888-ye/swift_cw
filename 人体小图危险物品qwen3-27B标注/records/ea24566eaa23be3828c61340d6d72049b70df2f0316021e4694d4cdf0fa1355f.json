@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道三岔口南摄像机_20261114100509_01.jpg",
+  "image_sha256": "eaf80fa5fac8e49f2707a2d2386642b31c17ed33c652148ce95e0b800af8225e",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿迷彩服戴白色安全帽的人肩扛一个绿色带护罩的液化石油气钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 884,
+    "total_tokens": 1082,
+    "completion_tokens": 198,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 125
+    }
+  }
+}

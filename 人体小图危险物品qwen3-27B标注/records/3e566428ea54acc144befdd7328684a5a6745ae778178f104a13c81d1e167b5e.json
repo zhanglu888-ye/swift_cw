@@ -1,0 +1,24 @@
+{
+  "image": "positive/01e7d8b0e42d00780103700195a675d8b9_258_364_00.jpg",
+  "image_sha256": "9fc2d73c1c84975fda7fbfb6308597b14d935b4a7d0f6fa51b303a2bb470912c",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子双手持握一长条弩形装置，地面放有数支带尾羽的箭矢。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 751,
+    "total_tokens": 1039,
+    "completion_tokens": 288,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 215
+    }
+  }
+}

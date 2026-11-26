@@ -1,0 +1,24 @@
+{
+  "image": "negative/9901e56cbf4768_01.jpg",
+  "image_sha256": "5d471807575aeb363d73a8bfdc670d2f5587dbf6dd488e4651d865019fbb37df",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿蓝色上衣深色裤子的人正俯身靠近一辆红色汽车，手中未见明显目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 327,
+    "total_tokens": 542,
+    "completion_tokens": 215,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 144
+    }
+  }
+}

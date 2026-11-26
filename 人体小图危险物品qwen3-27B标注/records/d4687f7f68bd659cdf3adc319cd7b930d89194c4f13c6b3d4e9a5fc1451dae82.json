@@ -1,0 +1,24 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索 (1)_800_00.jpg",
+  "image_sha256": "ccb93052ee95ccef8a159d99dd2c9fa4d1b0c21414b243b36de797c37e541bbc",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子手持一把带浅色木柄的金属斧头，斧头表面呈斑驳灰白纹理。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 476,
+    "total_tokens": 725,
+    "completion_tokens": 249,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 179
+    }
+  }
+}

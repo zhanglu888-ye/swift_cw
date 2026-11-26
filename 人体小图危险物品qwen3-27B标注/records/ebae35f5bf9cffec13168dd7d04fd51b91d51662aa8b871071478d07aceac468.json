@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0133_00.jpg",
+  "image_sha256": "7775bfc53182d8c5995781122f9db0080f1bcfeaa170a5f65584a093bf59cfa4",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子双手握持一把长木柄金属斧头，斧头金属头呈灰白色带刃口，正抵在树干上。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 541,
+    "total_tokens": 798,
+    "completion_tokens": 257,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 178
+    }
+  }
+}

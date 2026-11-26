@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0224_00.jpg",
+  "image_sha256": "47391e8a9acf463adf1f041efee2223ccce9758f99f6b5ef9d71c59f0f8d249b",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "手持一把带红棕色长柄、灰黑色金属头的营地斧。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 593,
+    "total_tokens": 837,
+    "completion_tokens": 244,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 179
+    }
+  }
+}

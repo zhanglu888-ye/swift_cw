@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道8号门_20261011105120_00.jpg",
+  "image_sha256": "1f680cf74db0bcfa682fca2d4af42b13216b0b4e0652ccbc4d2afae9ef5189a8",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿浅色外套的女孩双手持握一支黑色长管枪形物体，前端有细长枪管。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 431,
+    "total_tokens": 640,
+    "completion_tokens": 209,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 137
+    }
+  }
+}

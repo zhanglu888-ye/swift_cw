@@ -1,0 +1,24 @@
+{
+  "image": "positive/东方幼教幼儿园后厨加工间_20261119103520_00.jpg",
+  "image_sha256": "45dc3dfdadf0dda2c5ec39736d85bde274a39d81bff3d4f65d4a4499cc98e151",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "手持宽刃金属菜刀在红色砧板上切剁肉块，刀身呈银灰色长方形。",
+    "刀具": "有",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1650,
+    "total_tokens": 1902,
+    "completion_tokens": 252,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 180
+    }
+  }
+}

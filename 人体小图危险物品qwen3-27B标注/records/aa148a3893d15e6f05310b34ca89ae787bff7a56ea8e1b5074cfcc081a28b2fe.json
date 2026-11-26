@@ -1,0 +1,26 @@
+{
+  "image": "negative/唐道8号门_20261010193756_12.jpg",
+  "image_sha256": "8c187d59e2a85dab3a3cb5533d2bec566acd4143fbfa5a1d1f6922c87a135b06",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑衣戴帽男子手提一个白色细长瓶状物，背景有多名站立人员。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "不确定",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 320,
+    "total_tokens": 695,
+    "completion_tokens": 375,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 305
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "image": "positive/北气象巷路口祭祀点_20261123115902_01.jpg",
+  "image_sha256": "4d62663822e614632e3a4725f843c2cab6a07b2b007477335781ab0e8b07c029",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿红色外套戴帽的小孩手持一根长棍状物体，下端为黑色，上端带蓝绿色部件。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 633,
+    "completion_tokens": 308,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 233
+    }
+  }
+}

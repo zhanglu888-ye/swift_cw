@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0441_00.jpg",
+  "image_sha256": "a9536db712d8b32b158468d8a9747510eb652b3720bf6617321f31cce1687647",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "女子双手横握一把红棕色长木柄斧头，斧刃为灰色金属并带红色连接部。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 530,
+    "total_tokens": 810,
+    "completion_tokens": 280,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 206
+    }
+  }
+}

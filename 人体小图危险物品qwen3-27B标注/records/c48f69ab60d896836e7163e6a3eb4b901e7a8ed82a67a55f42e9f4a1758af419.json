@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道苹果手机店北_20261010180525_02.jpg",
+  "image_sha256": "afd4686991f0a4e048f661047f3b52e5d66576db801687f7a4fd4bda08701be8",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人手扶一只装有黄色液体的大容量塑料油桶，桶口带红色盖，桶身贴黄色标签，置于蓝色平板小车上。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 335,
+    "total_tokens": 570,
+    "completion_tokens": 235,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 155
+    }
+  }
+}

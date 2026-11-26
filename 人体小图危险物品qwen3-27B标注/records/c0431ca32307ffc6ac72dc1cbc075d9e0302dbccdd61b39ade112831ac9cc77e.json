@@ -1,0 +1,24 @@
+{
+  "image": "positive/01eac33d6b152fc801037001a10aaaf201_520_4_00.jpg",
+  "image_sha256": "fe7f1a640f3634ab4727ff095f71a93a720f017508e1313a4612db5a282afc96",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子双手握持一把长木柄金属斧头，正在砍伐一段倒地的树干。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 957,
+    "total_tokens": 1219,
+    "completion_tokens": 262,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 191
+    }
+  }
+}

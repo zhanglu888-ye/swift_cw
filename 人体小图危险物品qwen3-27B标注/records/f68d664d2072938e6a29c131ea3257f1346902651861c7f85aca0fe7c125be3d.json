@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道匡威店西_20261002170838 (1)_00.jpg",
+  "image_sha256": "a89dc7e740d3646d5eef5e2694001a67d9e247c4efd877dbd24928885b9a775e",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色外套的男子双手持握一支黑色步枪形物体，可见枪托、护木及弹匣等结构。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 381,
+    "total_tokens": 566,
+    "completion_tokens": 185,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 109
+    }
+  }
+}

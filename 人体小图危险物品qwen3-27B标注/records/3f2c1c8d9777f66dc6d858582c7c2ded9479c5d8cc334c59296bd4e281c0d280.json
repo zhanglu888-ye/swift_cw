@@ -1,0 +1,26 @@
+{
+  "image": "positive/4-mp4_236_100x100_0_jpg.rf.94dda96e5bda99668cb7d8957b01a04f_00.jpg",
+  "image_sha256": "39198309e85f343c32e05f7ad47e661260210a7bf60b46c340f85873ae7f6076",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中一名穿黑色连帽衫戴口罩者伸手靠近一名穿绿色上衣者，后方有穿蓝色运动服者，未见明显手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 417,
+    "total_tokens": 664,
+    "completion_tokens": 247,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 165
+    }
+  }
+}

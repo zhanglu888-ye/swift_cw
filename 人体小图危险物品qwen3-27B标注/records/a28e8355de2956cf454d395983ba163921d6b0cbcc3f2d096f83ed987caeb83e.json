@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261007184226_01.jpg",
+  "image_sha256": "7f3befa5b4ae421167bbbd4e2383d8f864494b723cfa3b30d2b9c4a0c90564f4",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿蓝色外套戴黑帽的男子背对镜头，一手拉着红色拉杆箱，另一手握着一根红色长杆状物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 591,
+    "total_tokens": 931,
+    "completion_tokens": 340,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 262
+    }
+  }
+}

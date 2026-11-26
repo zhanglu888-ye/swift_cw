@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道637火车头东侧停车场入口北_20261022100347_00.jpg",
+  "image_sha256": "9391db254ca1778058f448183ddec85c87d16cefb810b1e7d8a5c42228e69606",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴口罩和帽子的男子手握一个拉杆箱的黑色拉杆，背景为停放的汽车。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 505,
+    "total_tokens": 748,
+    "completion_tokens": 243,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 174
+    }
+  }
+}

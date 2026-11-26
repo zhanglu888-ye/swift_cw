@@ -1,0 +1,24 @@
+{
+  "image": "positive/海湖幼儿园后厨操作间1_20261117104521_00.jpg",
+  "image_sha256": "dfe18f9b47a78ecc701b66a75bcb0355b48ba27ebf2650ffc78f60576203d127",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿白衣系围裙戴蓝发网的人手持深色长条刀具在木案板上切剁白色丝状物。",
+    "刀具": "有",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 775,
+    "total_tokens": 1063,
+    "completion_tokens": 288,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 211
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "image": "negative/唐道8号门_20261007182843_05.jpg",
+  "image_sha256": "efcf6c9794bc5a82790a840d9c4edf364cdd29cdd6dc95b7ada40fe53882fe1f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名长发女子背对镜头行走，左手握持一件带浅色手柄和银白刃片的刀状物。",
+    "刀具": "有",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 320,
+    "total_tokens": 538,
+    "completion_tokens": 218,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 144
+    }
+  }
+}

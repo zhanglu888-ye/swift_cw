@@ -1,0 +1,24 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索 (1)_625_00.jpg",
+  "image_sha256": "f60fb39a6c60c1d07592658cdaefc6a8500ccabadda4819102f1b2c45ab3a10f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑衣男子蹲姿双手持一把带瞄准镜、黑白迷彩涂装的步枪形物体。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 680,
+    "total_tokens": 856,
+    "completion_tokens": 176,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 104
+    }
+  }
+}

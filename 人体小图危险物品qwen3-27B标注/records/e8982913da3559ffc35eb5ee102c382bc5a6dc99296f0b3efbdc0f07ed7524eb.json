@@ -1,0 +1,24 @@
+{
+  "image": "negative/u=3219575410,1848916312_fm=253_fmt=auto_app=138_f=JPEG_01.jpg",
+  "image_sha256": "f06be886d9344de040a29388c29fadd833de0babaf70a9b77f771b3f4472629a",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "消防员手持红色消防水枪及带金属接头的水带接口，配有黑色握把。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 383,
+    "total_tokens": 729,
+    "completion_tokens": 346,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 277
+    }
+  }
+}

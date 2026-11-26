@@ -1,0 +1,24 @@
+{
+  "image": "negative/北气象巷路口祭祀点_20261123115944_07.jpg",
+  "image_sha256": "e5d72345bb2075d81f4c4506a8ac1e0a5edd0a0da74f55f62096eb810622a469",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿绿色马甲的儿童站在粉色滑板车上手握把手杆，旁边有一名穿浅蓝外套的人蹲坐，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 335,
+    "total_tokens": 625,
+    "completion_tokens": 290,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 213
+    }
+  }
+}

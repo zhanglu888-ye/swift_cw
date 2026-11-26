@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0452_00.jpg",
+  "image_sha256": "2a70a26a87468545bcf94bc05a16ee491910a6f75b2284bfdc30f225be5d3e1a",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "女子手持一把红棕色长木柄、顶端带弯曲金属斧刃的长柄斧头，背景为堆叠的木柴。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 555,
+    "total_tokens": 840,
+    "completion_tokens": 285,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 206
+    }
+  }
+}

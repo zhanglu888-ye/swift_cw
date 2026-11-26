@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道匡威店南_20261003112454_00.jpg",
+  "image_sha256": "b6389a2b0fe8b95cadf5c4e60e18a53337a6396fd6996edf7c220c8de92da7bc",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子右手持一深色长条状枪形物体，可见握把与向下延伸的枪身轮廓。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 485,
+    "total_tokens": 704,
+    "completion_tokens": 219,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 146
+    }
+  }
+}

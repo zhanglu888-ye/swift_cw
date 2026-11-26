@@ -1,0 +1,26 @@
+{
+  "image": "positive/frame_0432_00.jpg",
+  "image_sha256": "fa0f904056a9200c1144571f8d57ef620bd726d456ba989a5b3215c48f9cdbc2",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "人物手持一个红色小物体，形状不清晰，背景为柴堆与铁架。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 567,
+    "total_tokens": 833,
+    "completion_tokens": 266,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 197
+    }
+  }
+}

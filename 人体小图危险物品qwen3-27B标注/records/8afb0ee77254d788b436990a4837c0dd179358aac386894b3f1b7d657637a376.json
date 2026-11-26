@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道匡威店南_20261019125306_00.jpg",
+  "image_sha256": "04caec18c732b97508eb09ad504e4aff71c558104ea7c82cb694e186849ac134",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子推蓝色平板手推车，车上放有一个带提手的大容量塑料桶，其手握一把长柄扫帚状工具。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 591,
+    "total_tokens": 868,
+    "completion_tokens": 277,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 198
+    }
+  }
+}

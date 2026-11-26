@@ -1,0 +1,24 @@
+{
+  "image": "positive/海湖幼儿园后厨操作间1_20261117100743_00.jpg",
+  "image_sha256": "064fa157a1ed7315f0ba501d2f77f797c87068929c36a13f28bc79f9d3ef31bc",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "厨房操作台上厨师手持菜刀切菜，砧板上另放一把菜刀，周围有装蔬菜和肉类的金属盆。",
+    "刀具": "有",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1129,
+    "total_tokens": 1378,
+    "completion_tokens": 249,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 173
+    }
+  }
+}

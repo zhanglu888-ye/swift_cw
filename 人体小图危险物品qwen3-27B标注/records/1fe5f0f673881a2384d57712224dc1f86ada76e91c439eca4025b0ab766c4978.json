@@ -1,0 +1,24 @@
+{
+  "image": "positive/扛煤气罐_111_01.jpg",
+  "image_sha256": "81148443286e6d8e0d38ad72cdf1ab0ad45d5d7d2d9837596d184c2520ac40a2",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面右侧立着一个黄色液化石油气钢瓶，顶部带阀门，瓶身印有蓝色标识及电话号码。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 355,
+    "total_tokens": 630,
+    "completion_tokens": 275,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 202
+    }
+  }
+}

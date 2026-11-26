@@ -1,0 +1,24 @@
+{
+  "image": "positive/扛煤气罐_082_00.jpg",
+  "image_sha256": "81ad91b16083abcf71c599ff1be706bc914bfa65dddb6dc9dc4738d2399aeef5",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "穿蓝色防护服者肩扛一个橙黄色塑料油桶，桶身印有蓝色文字。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 495,
+    "total_tokens": 689,
+    "completion_tokens": 194,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 125
+    }
+  }
+}

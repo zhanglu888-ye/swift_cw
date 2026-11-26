@@ -1,0 +1,24 @@
+{
+  "image": "negative/东交通巷1_20261123154146_05.jpg",
+  "image_sha256": "8cf4e7c7bb7a419ca83426f62d5cc49ff78fd7f07c16439ee99f8b1958a47832",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一个黑色带轮带盖的塑料垃圾桶，桶身印有白色标识图案。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 327,
+    "total_tokens": 516,
+    "completion_tokens": 189,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 122
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "image": "negative/92-mp4_260_100x100_0_jpg.rf.4ba80702928522f9b5e501d7b5559eec_00.jpg",
+  "image_sha256": "b85cd2208eb1efc107c7d5f288b3d5c4d09fd25f5c674b6715d9527d80d4648a",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿灰蓝拼接卫衣的男子双手张开站立，画面右下角可见一个白色塑料桶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 415,
+    "total_tokens": 761,
+    "completion_tokens": 346,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 277
+    }
+  }
+}

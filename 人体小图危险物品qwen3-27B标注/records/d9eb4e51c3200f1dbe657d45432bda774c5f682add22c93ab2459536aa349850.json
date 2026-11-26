@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店南_20261003112454 (1)_02.jpg",
+  "image_sha256": "7c17591ad1b032f336953fbe6a76cfc8f560a288d45e7e7195abed3ab68b6b8c",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色夹克、白色T恤和灰色长裤的男子站立在户外，双手未见持有目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 335,
+    "total_tokens": 554,
+    "completion_tokens": 219,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 147
+    }
+  }
+}

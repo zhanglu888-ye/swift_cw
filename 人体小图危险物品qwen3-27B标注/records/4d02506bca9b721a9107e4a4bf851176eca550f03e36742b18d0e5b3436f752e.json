@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道637火车头东侧停车场入口北_20261116083328_02.jpg",
+  "image_sha256": "ac13022506d3bb5488b4215dc53f01fc9908d8de9a29ddef5533773f26d08010",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深色制服、戴警帽和口罩的人员站立，双手垂于身侧，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 365,
+    "total_tokens": 580,
+    "completion_tokens": 215,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 141
+    }
+  }
+}

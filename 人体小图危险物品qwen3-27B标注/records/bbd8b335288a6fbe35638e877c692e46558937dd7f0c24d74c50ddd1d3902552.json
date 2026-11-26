@@ -1,0 +1,24 @@
+{
+  "image": "positive/4-mp4_42_100x100_0_jpg.rf.e22da7a6b20a80f093b7af8b82f77e1c_00.jpg",
+  "image_sha256": "ec1b760fa6b85259e4cf459a1efbe7788c57a10a9182beb910ec7308e23dabbf",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色连帽衣的人手持一把细长银色刀具（匕首状），旁边放着一个粉色拉杆行李箱。",
+    "刀具": "有",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 426,
+    "total_tokens": 714,
+    "completion_tokens": 288,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 215
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道阿迪达斯南_20261016171724_02.jpg",
+  "image_sha256": "af2893fd32054490d2e34beccf23992139d427dfe72b78724938b8bcc854870e",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "柜台后一名戴眼镜穿黑衣的人俯身，台面上有绿色二维码支付牌、白色设备及蓝白色盒子和卡通贴纸。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 405,
+    "total_tokens": 603,
+    "completion_tokens": 198,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 120
+    }
+  }
+}

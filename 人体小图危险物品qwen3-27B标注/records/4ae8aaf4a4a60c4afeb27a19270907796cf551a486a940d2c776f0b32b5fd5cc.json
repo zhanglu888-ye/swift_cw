@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店西_20261107155611_03.jpg",
+  "image_sha256": "dbfc981aa19b6b1fb92f6753472121b93e3b36e8ef346c3b1455e439f5fee069",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中有人手持一个红色物体并拖着一根长杆，背景可见车辆与折叠桌。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 335,
+    "total_tokens": 634,
+    "completion_tokens": 299,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 228
+    }
+  }
+}

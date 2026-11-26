@@ -1,0 +1,24 @@
+{
+  "image": "negative/虎台二巷梧桐午托班后厨_20261118105014_00.jpg",
+  "image_sha256": "91b582eecdc7369b5af4fdab532e89948a8abc14763d964a22ac30386e1838b0",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "厨师手持一个装有红色食材的金属小碗，操作台上放有金属大盆和漏盆。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 585,
+    "total_tokens": 850,
+    "completion_tokens": 265,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 194
+    }
+  }
+}

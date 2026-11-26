@@ -1,0 +1,24 @@
+{
+  "image": "positive/1483034978257342464_02.jpg",
+  "image_sha256": "386542c25f9e9f5e920c0e9a36addee2b4a28b3d070f139d59a7669eb69b2b45",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "前景可见一个红色圆柱形液化气钢瓶，瓶身印有白色“GAS”字样及标志。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 655,
+    "completion_tokens": 325,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 253
+    }
+  }
+}

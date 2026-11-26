@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道同盛路停车场入口_20261025115550_00.jpg",
+  "image_sha256": "8d19cbe41704d51ca00c2e4c65450e40ad291ccb976d5df8c7f7be9bcbca3fd5",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "人物右手持一迷彩花纹的物体，疑似包袋，其余类别物品未见。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 455,
+    "total_tokens": 741,
+    "completion_tokens": 286,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 217
+    }
+  }
+}

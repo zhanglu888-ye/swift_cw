@@ -1,0 +1,24 @@
+{
+  "image": "positive/虎台一巷16号院大门口变焦枪机_20261119170759_01.jpg",
+  "image_sha256": "22087c834e46b241ac890179d3a3cb59debbd2c32f6289c5acfed0fe03e95e1d",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人双手持握一支带长枪管和瞄准具的步枪形物体。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 367,
+    "total_tokens": 561,
+    "completion_tokens": 194,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 129
+    }
+  }
+}

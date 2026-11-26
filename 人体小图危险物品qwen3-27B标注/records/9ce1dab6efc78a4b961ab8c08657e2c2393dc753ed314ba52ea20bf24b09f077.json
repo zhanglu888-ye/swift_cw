@@ -1,0 +1,24 @@
+{
+  "image": "negative/u=219352636,1824755165_fm=253_fmt=auto_app=120_f=JPEG_02.jpg",
+  "image_sha256": "c738c38210b94b15f495daa5e9c665b85630defc2f3bc20b72c7e3ed732e0d80",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中一名穿白色上衣的人站在红蓝招牌前，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 323,
+    "total_tokens": 503,
+    "completion_tokens": 180,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 112
+    }
+  }
+}

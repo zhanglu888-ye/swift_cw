@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道8号门_20261018182230_00.jpg",
+  "image_sha256": "47bc94669f2625e72c71d12fd35d6846879b38a0f69428055317a0e79c8ca0bc",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名黑衣男子背对镜头行走，右手提着一个棕褐色带提手的大容量塑料桶，左手提着一个白色塑料袋。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 525,
+    "total_tokens": 790,
+    "completion_tokens": 265,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 188
+    }
+  }
+}

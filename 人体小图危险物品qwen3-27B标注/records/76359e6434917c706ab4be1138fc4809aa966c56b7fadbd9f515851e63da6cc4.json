@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道西关大街停车场入口东_20261002151429_02.jpg",
+  "image_sha256": "9efe81e29bfc0d3c842fde907667090186db5a61b898a1fac22bf69a93e2b0f6",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中一名穿棕色外套牛仔裤的男子与一名背黑色特警战术背心的人员并排站立，未见明显手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1729,
+    "total_tokens": 2015,
+    "completion_tokens": 286,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 210
+    }
+  }
+}

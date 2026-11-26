@@ -1,0 +1,24 @@
+{
+  "image": "negative/刘家寨小区农贸市场西北角_20261118172047_00.jpg",
+  "image_sha256": "52ed3b68ebed345cf630597a7e2ee372a67b02d1c6764925600bebef0df3da72",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "前景人物右手抬起持一深色小物体（似手机），背景人物手持手机，未见其他大型器具。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 651,
+    "total_tokens": 905,
+    "completion_tokens": 254,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 181
+    }
+  }
+}

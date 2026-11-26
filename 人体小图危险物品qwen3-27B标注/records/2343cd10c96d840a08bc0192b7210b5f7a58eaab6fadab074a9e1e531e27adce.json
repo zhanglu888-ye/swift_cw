@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0321_00.jpg",
+  "image_sha256": "cc45696225f5908c016226e5b7ce03499f3e5918934fc472ff7d1a0b8964247e",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿迷彩上衣和绿色防水背带裤的男子站在水边，手持一把木柄金属斧头。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 570,
+    "total_tokens": 831,
+    "completion_tokens": 261,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 187
+    }
+  }
+}

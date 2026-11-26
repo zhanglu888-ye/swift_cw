@@ -1,0 +1,24 @@
+{
+  "image": "negative/u=1568882829,340997024_fm=253_fmt=auto_app=138_f=JPEG_00.jpg",
+  "image_sha256": "3ec29449414f998f76602c0c55e4fc0f83518cf148338e25e1ce202b0a87c80c",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "两名戴头盔、穿反光救援服的人员站在巷口，腰间系有装备带，未见明显手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 375,
+    "total_tokens": 651,
+    "completion_tokens": 276,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 201
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道同盛路停车场入口_20261010193755_03.jpg",
+  "image_sha256": "6e4ad9d39d2b4a9e3193b8c0f688ccc1a4c540a4dec6e58827da136c282f3c33",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿米色外套和牛仔裤的女子站立，右手握着一个深色小物件，栏杆上挂有白色袋状物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 566,
+    "completion_tokens": 233,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 157
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261024182500_08.jpg",
+  "image_sha256": "17516a0fd0c7cc9fbecc247cc05a432e52106e89dc369496479c880516fe1acc",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴口罩、穿白色外套的人斜挎一个黑色单肩包，未见其他目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 483,
+    "completion_tokens": 158,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 88
+    }
+  }
+}

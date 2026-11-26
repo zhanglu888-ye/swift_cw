@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店南_20261101145009_05.jpg",
+  "image_sha256": "cfc8a5127faebd100e8cd5aeaa49d003107fd3c05c57ea17f5dca9a502167942",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色外套和黑色长裤的男子侧身站立，双手握着一根横向的杆状把手，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 561,
+    "completion_tokens": 231,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 155
+    }
+  }
+}

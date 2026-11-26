@@ -1,0 +1,24 @@
+{
+  "image": "positive/72-mp4_98_100x100_0_jpg.rf.02edfff35db7d4a0265fc8d5838b71ff_00.jpg",
+  "image_sha256": "791d0f18c2d811e1262d32443b254fcdbbb391803e15de70d8082709ace54522",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴头盔、穿黑衣黑裤者背向行走，一手持一小瓶状物，另一手持一竖直长条状疑似刀具物体。",
+    "刀具": "不确定",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 323,
+    "total_tokens": 836,
+    "completion_tokens": 513,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 432
+    }
+  }
+}

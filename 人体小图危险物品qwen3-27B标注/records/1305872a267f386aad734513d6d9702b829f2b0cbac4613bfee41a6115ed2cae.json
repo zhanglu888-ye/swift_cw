@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店西_20261023143419_02.jpg",
+  "image_sha256": "0a08e6f6885a3b302766e90e263a1b4e0c5106cc8bced750ee79e9abe15a1727",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中为一个深色立式牌状或箱体物体，表面有若干浅色矩形标识区域，背景隐约有人影，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 552,
+    "completion_tokens": 227,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 148
+    }
+  }
+}

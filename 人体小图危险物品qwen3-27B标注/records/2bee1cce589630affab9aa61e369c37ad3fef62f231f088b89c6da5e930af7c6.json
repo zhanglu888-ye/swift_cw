@@ -1,0 +1,26 @@
+{
+  "image": "positive/唐道637火车头东侧停车场入口北_20261109105658_00.jpg",
+  "image_sha256": "e78a116602cc90e406b145bc4f2916f5aeefbc7b2c4f3b5199cda04750015868",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴口罩、穿绿色上衣和黑色长裤的男子手扶一辆带轮手推车，车上载有蓝色塑料包裹物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 680,
+    "total_tokens": 890,
+    "completion_tokens": 210,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 134
+    }
+  }
+}

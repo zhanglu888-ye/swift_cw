@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0001_00.jpg",
+  "image_sha256": "d75b4be9f53c4f34d80c8b08a70a9f7a07ce5d472d343eda53423da0c6da0c14",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人手提一个白色圆柱形液化气钢瓶，瓶身印有黑色标志与文字。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 327,
+    "total_tokens": 572,
+    "completion_tokens": 245,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 177
+    }
+  }
+}

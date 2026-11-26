@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道匡威店南_20261031133248_06.jpg",
+  "image_sha256": "7503e2edd54a8e537305be115cfc7a22659688858f2956093d672f91bf36481b",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人手扶平板手推车，车上放有一个带白色盖子的透明大容量塑料桶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 585,
+    "completion_tokens": 260,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 191
+    }
+  }
+}

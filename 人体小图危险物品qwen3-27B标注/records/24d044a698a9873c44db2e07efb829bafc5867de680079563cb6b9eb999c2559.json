@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261031150045_06.jpg",
+  "image_sha256": "e716d503f77d003a254417a066b29a1cf4a7c3526cdfd5f1911468214439715a",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "两名女性手持带盖的白色纸杯（类似咖啡杯）。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 327,
+    "total_tokens": 491,
+    "completion_tokens": 164,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 101
+    }
+  }
+}

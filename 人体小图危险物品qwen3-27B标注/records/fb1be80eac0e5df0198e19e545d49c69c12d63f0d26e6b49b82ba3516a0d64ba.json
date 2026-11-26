@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道同盛路停车场入口_20261101133919 (1)_07.jpg",
+  "image_sha256": "a64216851427b8303f3ffb85055cb746e1defdd7cd227369b35b95962a5928b3",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿白色外套的女子手持一个白色杯状物，背景可见桶装水与电动车。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 551,
+    "completion_tokens": 221,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 151
+    }
+  }
+}

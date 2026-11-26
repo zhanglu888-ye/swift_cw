@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店西_20261116114646_02.jpg",
+  "image_sha256": "41b3cf939c6faaa36e534b4dc0a1535cb56a07124e283acc94592dd6ce7c0d60",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一个竖立的黑色长条形展示牌，表面印有白色文字和箭头标记。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 528,
+    "completion_tokens": 203,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 136
+    }
+  }
+}

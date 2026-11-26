@@ -1,0 +1,26 @@
+{
+  "image": "negative/frame_0318_01.jpg",
+  "image_sha256": "4fdeea40f5993e2fdc50a2e98dc89e90cde17f22309b89402693d81421514a71",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "地面放着一个带标签的黄色大容量塑料桶，旁边靠着一把红色扫帚，左上角悬挂一个黄色物体。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 324,
+    "total_tokens": 656,
+    "completion_tokens": 332,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 256
+    }
+  }
+}

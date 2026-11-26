@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0440_00.jpg",
+  "image_sha256": "28538fbdae2458556010db5e409ea9a471bc22a1267bffe981decf6bf0c4adbc",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名女子双手握持一把红色长柄斧头，顶端为金属斧头，背景为户外场地。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 530,
+    "total_tokens": 741,
+    "completion_tokens": 211,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 138
+    }
+  }
+}

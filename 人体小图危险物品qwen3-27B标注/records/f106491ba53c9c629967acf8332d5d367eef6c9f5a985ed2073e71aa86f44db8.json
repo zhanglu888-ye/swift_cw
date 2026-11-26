@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0455_00.jpg",
+  "image_sha256": "fa575b31d3b05003f1ab90fb2c67b1779263f4455e0ca42d41ff9c4141fb2f7c",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名女子手提一个蓝绿色液化石油气钢瓶，地面右侧另放有一个同款钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 593,
+    "total_tokens": 866,
+    "completion_tokens": 273,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 202
+    }
+  }
+}

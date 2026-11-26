@@ -1,0 +1,24 @@
+{
+  "image": "positive/海湖幼儿园后厨操作间1_20261117104812_00.jpg",
+  "image_sha256": "ff57a2ae34fc2056ea0d5c9b8b1cca18a84e9f4dd23f8f53c7a8da5dc5c9666f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿白色工作服的人手持一把绿色手柄的宽刃菜刀在不锈钢台面上操作。",
+    "刀具": "有",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 711,
+    "total_tokens": 948,
+    "completion_tokens": 237,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 168
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/盐湖巷十字_20261123153710_01.jpg",
+  "image_sha256": "4fbd6680729e9e30e0eb64a435d3e8806ea28663ac7c985d90ab32958531249a",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴白手套的男子双手持一个绿色圆柱形带阀门的液化石油气钢瓶，背景左侧还堆有同类绿色钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 345,
+    "total_tokens": 586,
+    "completion_tokens": 241,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 161
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店南_20261003112454 (1)_01.jpg",
+  "image_sha256": "25c7f7102880530d2199ff021883e8bea8139a80f559690682ec67e460d0194b",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名长发女子手提一个浅绿色带白色提手的袋子，前景男子与右侧女子手中各持一小件不清晰物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 719,
+    "total_tokens": 1180,
+    "completion_tokens": 461,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 384
+    }
+  }
+}

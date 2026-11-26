@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261027112303_02.jpg",
+  "image_sha256": "5a812a268eee9ae794e50cd2f5a694040d9f80ce36564f3d08fb6a90c3f338f9",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "红衣男子手持一部白色手机，前景为戴黄色头盔、穿黄色外套并背外卖箱的人员。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 388,
+    "total_tokens": 623,
+    "completion_tokens": 235,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 163
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/新华巷口1_20261120095004_04.jpg",
+  "image_sha256": "39fa997cc349ebd02d6660a89d408b45483ef30c5fd87ee5d04443ab6541c180",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一辆黄色带红色火焰图案的小型车辆，车身印有“dajiana”字样，车窗内可见红色座椅，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 463,
+    "total_tokens": 663,
+    "completion_tokens": 200,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 121
+    }
+  }
+}

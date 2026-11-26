@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店南_20261003112454_01.jpg",
+  "image_sha256": "3a31b62a0e08e43c409a78cf75dbcfbcc1eab557daabe039b304fb702d96cf55",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色外套的男子与一名长发女子在铺砖路面上行走，男子手中握着一个看不清的小物件，未见其他明显物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 567,
+    "total_tokens": 819,
+    "completion_tokens": 252,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 173
+    }
+  }
+}

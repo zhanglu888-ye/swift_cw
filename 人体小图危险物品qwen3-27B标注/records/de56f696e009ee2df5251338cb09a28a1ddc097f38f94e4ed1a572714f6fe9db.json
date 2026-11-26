@@ -1,0 +1,26 @@
+{
+  "image": "positive/唐道8号门_20261024182500_01.jpg",
+  "image_sha256": "43a8eaf72772a27571a1e8ac5a1f3dbcc5a215c0e3fabb49cf9e6ea690d8c721",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿皮夹克男子与一名女子行走，女子手持带花纹的长柄物品（似伞）。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 447,
+    "total_tokens": 835,
+    "completion_tokens": 388,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 316
+    }
+  }
+}

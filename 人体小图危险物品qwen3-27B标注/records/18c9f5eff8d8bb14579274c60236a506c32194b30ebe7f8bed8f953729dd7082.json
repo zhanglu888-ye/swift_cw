@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道三岔口北_20261004162342_00.jpg",
+  "image_sha256": "a78b3e165fdb1eb9fa849be3cd1dbc7e11dffa49082f8444096e16ca55951553",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子推着手推车，车上放着一个装满黄色液体的大容量塑料桶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 345,
+    "total_tokens": 594,
+    "completion_tokens": 249,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 183
+    }
+  }
+}

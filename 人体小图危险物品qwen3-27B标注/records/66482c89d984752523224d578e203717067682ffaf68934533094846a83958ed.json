@@ -1,0 +1,24 @@
+{
+  "image": "negative/北气象巷路口祭祀点_20261123115902_09.jpg",
+  "image_sha256": "4c5876986642f4f7ce48144769e3d2c4cc3b592a07b14857e3e74bd9cc1458e9",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿蓝绿色上衣、深色长裤的人背对镜头行走，右手持一粉红色长条状物，左手握一白色小物件。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 335,
+    "total_tokens": 746,
+    "completion_tokens": 411,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 331
+    }
+  }
+}

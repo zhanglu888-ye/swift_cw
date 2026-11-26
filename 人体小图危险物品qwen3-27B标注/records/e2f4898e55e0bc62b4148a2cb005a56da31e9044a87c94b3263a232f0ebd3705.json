@@ -1,0 +1,24 @@
+{
+  "image": "positive/青海省六一幼儿园厨房粗加工间_20261118103704_00.jpg",
+  "image_sha256": "82fec070da1357a62e5864823813ec816f5335832e8ead4135a46e375d6f9136",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿白色工作服、戴帽子和口罩的工作人员站在绿色操作台前处理切好的彩色食材，手部所持物品模糊不清。",
+    "刀具": "不确定",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 395,
+    "total_tokens": 885,
+    "completion_tokens": 490,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 414
+    }
+  }
+}

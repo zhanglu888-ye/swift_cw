@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261004094639_02.jpg",
+  "image_sha256": "56847700d3e6c542e7a04b93544018c7333cf74503ddbb98330f12c1905953c7",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名女子手提一个带金属扣饰的黑色手提包，未见其他目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 320,
+    "total_tokens": 479,
+    "completion_tokens": 159,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 92
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/海晏路10号院门口照东_20261123154007_01.jpg",
+  "image_sha256": "026ab24c48df75fbc6838065768d14abc196460c76b9a303b3b239539d4dccf9",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名黑衣人弯腰站在一个绿色圆柱形液化气钢瓶旁，右手持一白色小物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 637,
+    "completion_tokens": 304,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 234
+    }
+  }
+}

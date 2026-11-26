@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0150_00.jpg",
+  "image_sha256": "1ca87772178c2dc20c6c79ba1c2d1339f499c9d4be2fed0b836d07c9a8c7d265",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人手持长柄宽刃金属头工具正在砍削树干，金属刃面呈银灰色。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 593,
+    "total_tokens": 985,
+    "completion_tokens": 392,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 321
+    }
+  }
+}

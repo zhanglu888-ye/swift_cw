@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道8号门_20261004094639_01.jpg",
+  "image_sha256": "3eafecc5baaff7474dce37fee42438c8aa0f0018e731345675d540e1c0e92f7e",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子右手提着一个装有棕黄色液体的大容量透明塑料提桶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 579,
+    "total_tokens": 814,
+    "completion_tokens": 235,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 170
+    }
+  }
+}

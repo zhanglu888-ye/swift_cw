@@ -1,0 +1,24 @@
+{
+  "image": "positive/images_00.jpg",
+  "image_sha256": "1269267474b9cdcf33d9ab59a7d7f8a70c5580e367be4f598a506e9a7a357115",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿蓝色衣服的男子弯腰操作一个绿色液化气钢瓶，钢瓶顶部阀门处连接着一根橙色软管。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 387,
+    "total_tokens": 657,
+    "completion_tokens": 270,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 196
+    }
+  }
+}

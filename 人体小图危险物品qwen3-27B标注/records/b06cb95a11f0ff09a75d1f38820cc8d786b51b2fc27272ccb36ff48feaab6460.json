@@ -1,0 +1,26 @@
+{
+  "image": "positive/唐道8号门_20261031150045_04.jpg",
+  "image_sha256": "4940008078c1768a57ed154477ba89bf6f91d9f0903ecec45bc34c870ef553ab",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿扎染卫衣的男子手提一个装有杂物的透明塑料袋，旁边有一名戴黄色头盔穿黄色上衣的人。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 579,
+    "total_tokens": 817,
+    "completion_tokens": 238,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 164
+    }
+  }
+}

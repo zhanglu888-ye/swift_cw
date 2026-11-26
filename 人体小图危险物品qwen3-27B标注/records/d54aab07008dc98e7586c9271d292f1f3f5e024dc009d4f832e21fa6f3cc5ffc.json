@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道匡威店西_20261026103230_01.jpg",
+  "image_sha256": "a4cb2a214b2c172f410811381e31ec11f8c452d1b762640ec9f7d8f9b49f50d5",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子手握黑色把手，旁边带轮架上堆放着多个蓝色大容量桶装水。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 498,
+    "total_tokens": 792,
+    "completion_tokens": 294,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 225
+    }
+  }
+}

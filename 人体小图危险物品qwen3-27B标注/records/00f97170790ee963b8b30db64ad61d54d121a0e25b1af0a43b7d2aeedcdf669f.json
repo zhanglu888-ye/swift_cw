@@ -1,0 +1,26 @@
+{
+  "image": "negative/扛煤气罐_118_02.jpg",
+  "image_sha256": "3691992d439e63521e37e4709930967a79ad9b7480c6566aca13dbbca20283ae",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿制服人员手持一个黑色带金属箍的罐状容器靠近头部。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "不确定",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 415,
+    "total_tokens": 848,
+    "completion_tokens": 433,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 366
+    }
+  }
+}

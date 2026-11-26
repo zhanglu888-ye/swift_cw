@@ -1,0 +1,24 @@
+{
+  "image": "negative/刘家寨小区农贸市场西北角_20261118172034_01.jpg",
+  "image_sha256": "324dc813bc6c8ecb71cd4adfa80bf5bfa3f26440f8ad3d0f4510e8cc18811715",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴头盔者骑乘电动车，旁边站立者手持一深色长条状物，背景堆放袋装杂物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 375,
+    "total_tokens": 817,
+    "completion_tokens": 442,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 367
+    }
+  }
+}

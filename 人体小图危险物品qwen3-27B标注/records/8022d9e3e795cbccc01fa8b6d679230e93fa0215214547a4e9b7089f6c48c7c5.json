@@ -1,0 +1,24 @@
+{
+  "image": "negative/南交通巷北口_20261121162350_06.jpg",
+  "image_sha256": "fc62b069dbdb692e1a5a25c423b1a7f6cafd77bd786405ce14bce3c449112597",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "两人戴头盔骑乘一辆黑色NIU电动车，右侧边缘可见一只手提着白色塑料袋，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 444,
+    "total_tokens": 677,
+    "completion_tokens": 233,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 159
+    }
+  }
+}

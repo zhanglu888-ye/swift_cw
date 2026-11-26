@@ -1,0 +1,26 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索 (2)_54_00.jpg",
+  "image_sha256": "b858a408229036d1937ba6f8f90cc46191baca6ab501641851dd196b4a2fe7fd",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人手持一张木质长弓，弓弦上搭有一支箭，正作瞄准姿势。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 633,
+    "total_tokens": 909,
+    "completion_tokens": 276,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 206
+    }
+  }
+}

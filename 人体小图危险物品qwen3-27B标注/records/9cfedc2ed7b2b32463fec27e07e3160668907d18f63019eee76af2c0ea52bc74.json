@@ -1,0 +1,24 @@
+{
+  "image": "positive/人民公园大门口出口1号摄像机_20261122161612_00.jpg",
+  "image_sha256": "49a927f689b07f0f03de75f95abf17a28ca136e25c947e71f6f00e16ff48f091",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色外套的男子手持一支黑色步枪形物体，可见枪托、枪管及弹匣结构。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 357,
+    "total_tokens": 549,
+    "completion_tokens": 192,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 119
+    }
+  }
+}

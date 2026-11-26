@@ -1,0 +1,24 @@
+{
+  "image": "positive/01ea5dd38359c0f6010370019f7e83fc53_301_81_00.jpg",
+  "image_sha256": "424e99f05b612d1a88eaf12023d3d4a43cccde1206583f0481e67281d29b53c3",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "手持一把木制弩，横向弓臂与纵向弩身相交，弦已上弦拉紧呈三角形。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1821,
+    "total_tokens": 2099,
+    "completion_tokens": 278,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 205
+    }
+  }
+}

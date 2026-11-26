@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道阿迪达斯北_20261019145842_03.jpg",
+  "image_sha256": "9e85afa1accace8e23415b3dd24e17d5d1c25dc80f47e0f48d49e47df6adc1cc",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名黑衣男子站在梯子旁，梯子上靠着一块带粉、黄、紫色块的长条板状物，未见手持危险物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 559,
+    "completion_tokens": 229,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 149
+    }
+  }
+}

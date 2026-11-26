@@ -1,0 +1,24 @@
+{
+  "image": "negative/人民公园游乐园门口1号摄像机_20261121162334_09.jpg",
+  "image_sha256": "38c21a5b9bfbc9d3d8ea23043fb3a3ef35683928a243482eb653c714ab2c7b39",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑衣的人侧身站立，一手抬起握着一根细长的浅色小物件，未见目标类别物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 335,
+    "total_tokens": 585,
+    "completion_tokens": 250,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 176
+    }
+  }
+}

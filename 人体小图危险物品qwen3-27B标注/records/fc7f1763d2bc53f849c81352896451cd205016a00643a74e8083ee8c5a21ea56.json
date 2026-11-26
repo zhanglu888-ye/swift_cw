@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道阿迪达斯北_20261115150908_00.jpg",
+  "image_sha256": "6a3cb1993e95948b3007cb1a3bbc2da73a757d96ca57361167534e5f7b942188",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿迷彩服戴白帽者手持长柄斧头状工具，旁边立有一个绿色液化气钢瓶。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 465,
+    "total_tokens": 879,
+    "completion_tokens": 414,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 339
+    }
+  }
+}

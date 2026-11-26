@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0444_00.jpg",
+  "image_sha256": "d49c5c55ba4aaa748a1f1ce1e478d1b60b2427a87cfd5966b0e772dea13d6f17",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人双手握持一把红棕色长柄斧头，金属斧刃带红色装饰，正向下劈砍木桩。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 505,
+    "total_tokens": 772,
+    "completion_tokens": 267,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 191
+    }
+  }
+}

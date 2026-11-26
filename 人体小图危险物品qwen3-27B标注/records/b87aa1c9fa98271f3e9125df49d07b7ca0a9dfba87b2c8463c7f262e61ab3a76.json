@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店西_20261002170838 (1)_01.jpg",
+  "image_sha256": "7a741a5eed3fb985f8dfeb63292c5774f3d86cd0c8353eef6fbc555f446d6702",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深色上衣的男子，身前挎着一个灰绿色挎包，未见其他手持物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 411,
+    "total_tokens": 585,
+    "completion_tokens": 174,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 105
+    }
+  }
+}

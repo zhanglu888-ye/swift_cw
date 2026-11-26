@@ -1,0 +1,24 @@
+{
+  "image": "negative/u=491441126,2320344067&fm=253&fmt=auto&app=138&f=JPEG_07.jpg",
+  "image_sha256": "8172fa0b14ebdcdcd95cd6f1976be9a40aad4bbcbe8c473ca98990629f93c68d",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子身披红白黑几何纹样披肩低头而坐，背景有人群，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 543,
+    "completion_tokens": 218,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 145
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/中华巷5号院大门口定焦枪机_20261113130119_01.jpg",
+  "image_sha256": "502ffd45f6c1649b098f8a496c04a228d63a56eee7c99c1ac26c97cddf4bd643",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深色外套的男子手持一个白色小物件（疑似手机），站在黑色轿车旁。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 388,
+    "total_tokens": 602,
+    "completion_tokens": 214,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 145
+    }
+  }
+}

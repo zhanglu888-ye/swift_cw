@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道阿迪达斯北_20261101134509_08.jpg",
+  "image_sha256": "35799ef3ccf3c52252b18e4902e6dd61a06752ffe8ad83c0844b3d0c55e182a5",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "人物弯腰在桌前摆弄橙色盒子等杂物，旁边地面有红色袋子，左侧有装着彩色物品的容器。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 628,
+    "completion_tokens": 295,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 220
+    }
+  }
+}

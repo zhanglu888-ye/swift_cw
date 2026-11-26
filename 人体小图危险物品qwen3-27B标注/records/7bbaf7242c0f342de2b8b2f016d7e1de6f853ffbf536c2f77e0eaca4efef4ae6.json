@@ -1,0 +1,26 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索 (3)_8_00.jpg",
+  "image_sha256": "a2ae550338713b720802651c22e0ec595e475a7f04954c3aa379ef4c4bd17224",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人背对镜头手持一张带弦的棕色弓，肩背斜挎毛皮袋。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 741,
+    "total_tokens": 1023,
+    "completion_tokens": 282,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 212
+    }
+  }
+}

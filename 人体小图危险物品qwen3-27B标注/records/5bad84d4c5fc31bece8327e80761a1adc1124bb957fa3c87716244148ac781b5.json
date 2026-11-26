@@ -1,0 +1,24 @@
+{
+  "image": "positive/才儿坊幼儿园厨房操作间_20261118103654_01.jpg",
+  "image_sha256": "0a7060535a3631ae9a0dd9fd630bfbc297768dc58ffc3a62c220dcc403c08f3e",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "操作台上绿色砧板旁，一人手持一把刀具正在处理食材。",
+    "刀具": "有",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 381,
+    "total_tokens": 691,
+    "completion_tokens": 310,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 244
+    }
+  }
+}

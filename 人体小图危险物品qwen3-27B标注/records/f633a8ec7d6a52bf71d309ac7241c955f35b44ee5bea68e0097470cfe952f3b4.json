@@ -1,0 +1,24 @@
+{
+  "image": "positive/乐兴婴童学苑后厨操作间_20261116095927_00.jpg",
+  "image_sha256": "677f7ca9b67aa4118e24e1c4cf8e9e4d60aff570d904e6746d1d2204df8db282",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿白色厨师服、条纹围裙并戴黄色橡胶手套的人手持一把金属菜刀在黄色砧板上切绿色蔬菜。",
+    "刀具": "有",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1581,
+    "total_tokens": 1833,
+    "completion_tokens": 252,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 174
+    }
+  }
+}

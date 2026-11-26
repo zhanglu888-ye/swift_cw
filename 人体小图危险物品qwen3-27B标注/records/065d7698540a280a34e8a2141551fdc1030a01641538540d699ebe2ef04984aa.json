@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店南_20261101145009_00.jpg",
+  "image_sha256": "4917c0931a98699e9e7857302021bc130d98ec3e94c9174d43fb8548eb060bb2",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中几人手持白色手提袋、编织纹手提包及疑似手机等日常物品，未见目标类别物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 615,
+    "total_tokens": 838,
+    "completion_tokens": 223,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 149
+    }
+  }
+}

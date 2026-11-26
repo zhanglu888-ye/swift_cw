@@ -1,0 +1,24 @@
+{
+  "image": "positive/89019e6c9d19d8_00.jpg",
+  "image_sha256": "f293abda521fd29a47031826c6069e422d89f0295c24f875ee9ef288d3898ecd",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴帽男子手持一把带弓臂和箭槽的金属弩。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 359,
+    "total_tokens": 521,
+    "completion_tokens": 162,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 97
+    }
+  }
+}

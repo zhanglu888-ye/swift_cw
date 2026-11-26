@@ -1,0 +1,26 @@
+{
+  "image": "negative/唐道637火车头东侧停车场入口北_20261022100347_02.jpg",
+  "image_sha256": "d703994fdd93682d0567e768adc3f19e27b3e21543a6b9ef322ca8af80d6ec49",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "穿蓝色工作服的人站在一个蓝色大容量桶状容器旁，手边有一个灰色设备状物体。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 385,
+    "total_tokens": 648,
+    "completion_tokens": 263,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 192
+    }
+  }
+}

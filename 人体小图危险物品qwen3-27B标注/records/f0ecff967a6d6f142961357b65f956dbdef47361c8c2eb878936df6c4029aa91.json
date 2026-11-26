@@ -1,0 +1,24 @@
+{
+  "image": "negative/虎台二巷梧桐午托班后厨_20261118104057_01.jpg",
+  "image_sha256": "0f60fea73f17d51c556d736a04ad26718e2e16c91b5dbf5b43d774edc0f99020",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "厨师手持白色抹布，灶台上放有盛黄色液体的炒锅与不锈钢锅。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 591,
+    "total_tokens": 947,
+    "completion_tokens": 356,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 288
+    }
+  }
+}

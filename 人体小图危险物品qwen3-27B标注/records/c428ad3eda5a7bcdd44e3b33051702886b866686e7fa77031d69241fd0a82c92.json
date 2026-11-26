@@ -1,0 +1,24 @@
+{
+  "image": "negative/u=491441126,2320344067&fm=253&fmt=auto&app=138&f=JPEG_04.jpg",
+  "image_sha256": "8eee229b569e14409fd3669457779838b8fe5b949437e3b0c063f8de916d1c2c",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑白条纹运动服的人蹲坐，身旁斜放一根棕色细长木杆，手中持一小件看不清的物件。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 332,
+    "total_tokens": 634,
+    "completion_tokens": 302,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 225
+    }
+  }
+}

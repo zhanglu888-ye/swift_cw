@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店南_20261019125306_01.jpg",
+  "image_sha256": "0aacc235db3e7d76474288ab62a265355290fdb9f21f33d40c3d8c596297d894",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色外套、戴口罩的人侧身行走，手部握持一模糊小物件，未见目标物品特征。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 685,
+    "completion_tokens": 355,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 281
+    }
+  }
+}

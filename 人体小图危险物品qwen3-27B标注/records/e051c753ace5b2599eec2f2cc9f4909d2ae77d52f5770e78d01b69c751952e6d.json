@@ -1,0 +1,24 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索_178_00.jpg",
+  "image_sha256": "b8069f999264b78f4e0906132de11aa28b5e430d60167f1e35fee3e4cba1af9e",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴灰色针织帽的男子肩上扛着一把黑色弩，可见弩臂、弦和瞄准具等结构。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1717,
+    "total_tokens": 1920,
+    "completion_tokens": 203,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 129
+    }
+  }
+}

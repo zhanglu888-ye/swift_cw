@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店西_20261003143213_00.jpg",
+  "image_sha256": "9aa3b9dfaa1ce613c824ec44d94618315c09509fccb6920a720845e87418d984",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿白色长袖上衣、黑色长裤和白鞋的男子背对镜头行走，前方有一名穿棕色圆点上衣和牛仔裤的女子，两人手中未见明显物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 381,
+    "total_tokens": 577,
+    "completion_tokens": 196,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 113
+    }
+  }
+}

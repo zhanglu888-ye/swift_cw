@@ -1,0 +1,24 @@
+{
+  "image": "negative/兴海路19号院门口外枪机_20261122140714_00.jpg",
+  "image_sha256": "59df1c2e17fe5ea7d3fece4b128079b5455d7252d48d5b986ae583f036ec7a97",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深色外套和长裤的人背对镜头行走，手中未见明显物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 563,
+    "completion_tokens": 238,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 171
+    }
+  }
+}

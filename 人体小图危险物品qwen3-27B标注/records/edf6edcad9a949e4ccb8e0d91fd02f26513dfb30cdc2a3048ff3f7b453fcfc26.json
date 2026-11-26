@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道阿迪达斯北_20261115150908_02.jpg",
+  "image_sha256": "9d078dcaa437ab0dc9ddf47dc45bbd6c06eb01cebf4a8bdcd8e07911b9357c6b",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "行人手持一深色不明物体，外观模糊无法辨认具体类别。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 320,
+    "total_tokens": 596,
+    "completion_tokens": 276,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 212
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/海湖幼儿园后厨操作间1_20261117104157_02.jpg",
+  "image_sha256": "09e27a03bbedfdc90a20a97c02cf7875578b795d1cc9e8c7c0f9eff9ea192ce3",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿白色围裙、戴蓝色发网的人背对镜头，右手持一黑色柄状工具（似刷子），周围有塑料凳和白色设备。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 555,
+    "total_tokens": 747,
+    "completion_tokens": 192,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 108
+    }
+  }
+}

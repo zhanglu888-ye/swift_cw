@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261004204727_04.jpg",
+  "image_sha256": "3e9bcf3d3148633fd826a1cf4be6adf5092ba4c3ff5788ae92011c14eef1134f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中两人站立于自动售货机前，一人穿迷彩长裤与深色上衣，另一人穿浅色上衣并带有紫色发光腰带，未见明显手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 335,
+    "total_tokens": 796,
+    "completion_tokens": 461,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 375
+    }
+  }
+}

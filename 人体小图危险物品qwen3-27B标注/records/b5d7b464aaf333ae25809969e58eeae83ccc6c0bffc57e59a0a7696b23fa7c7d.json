@@ -1,0 +1,26 @@
+{
+  "image": "negative/虎台一巷16号院西变焦枪机_20261119170545_01.jpg",
+  "image_sha256": "995c557239045e08839ccdd5e4f8896c58ba552a593fdd562ae998f040674ad9",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "多人背对站立于草地边，一人手握绿色弯曲杆状物，前景女孩手持一灰白色模糊物体。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "不确定",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 475,
+    "total_tokens": 1142,
+    "completion_tokens": 667,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 592
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店西_20261115124508_03.jpg",
+  "image_sha256": "410b3b262bc71661a4c3bb04949fb230390ec0bd6025ba037a48e885ea1fe0a8",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中人物手持或携带的仅为包袋类物品，未见刀具、斧头、桶壶、液化气钢瓶、枪形物或弩。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 411,
+    "total_tokens": 653,
+    "completion_tokens": 242,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 160
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261007171608_01.jpg",
+  "image_sha256": "29845853ed372c3e0feae05fc30fa65536c3db2aaa9fb2f5a13cd8e439868645",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一位穿紫红色外套的老年女性斜挎一个黑色皮包，双手交叠于身前，未持任何工具或武器。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 486,
+    "total_tokens": 679,
+    "completion_tokens": 193,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 115
+    }
+  }
+}

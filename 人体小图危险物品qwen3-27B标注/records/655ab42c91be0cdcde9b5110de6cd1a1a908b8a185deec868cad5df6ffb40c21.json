@@ -1,0 +1,24 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索 (3)_61_01.jpg",
+  "image_sha256": "e5a888a6380e5b755e5fbeb6ae21a7fcde8a028b48723a35ba99612358424957",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿格子衬衫的男子胸前斜挎挂着一把黑色枪形物，旁边蓝衣男子手持一个棕色皮包。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 503,
+    "total_tokens": 942,
+    "completion_tokens": 439,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 363
+    }
+  }
+}

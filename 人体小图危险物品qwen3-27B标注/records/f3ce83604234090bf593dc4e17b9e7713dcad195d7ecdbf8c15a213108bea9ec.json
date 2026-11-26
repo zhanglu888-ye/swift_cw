@@ -1,0 +1,24 @@
+{
+  "image": "positive/扛煤气罐_118_01.jpg",
+  "image_sha256": "59c209935aff8c370aa6dbddf67abfe0f4cafa24ea72f6cda6dadf69debf4149",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "两名穿警服人员戴白手套共同扶着一个红身绿顶的液化石油气钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 516,
+    "total_tokens": 794,
+    "completion_tokens": 278,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 206
+    }
+  }
+}

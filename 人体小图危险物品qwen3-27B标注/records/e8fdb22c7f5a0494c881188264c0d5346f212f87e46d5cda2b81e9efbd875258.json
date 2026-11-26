@@ -1,0 +1,24 @@
+{
+  "image": "positive/01e9186d98347cba010370019a876d136f_258_40_00.jpg",
+  "image_sha256": "03cabead2aaa6608d97c25f337de2ed66fca050fe7af41102910d76727a20b07",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子蹲坐，双手持握一张带弦的木制弓形武器，可见弯曲弓臂与拉弦。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "不确定"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 464,
+    "total_tokens": 993,
+    "completion_tokens": 529,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 454
+    }
+  }
+}

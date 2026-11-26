@@ -1,0 +1,24 @@
+{
+  "image": "negative/40-mp4_193_100x100_0_jpg.rf.03996adad0075a8b8ec0460a8948dc04_00.jpg",
+  "image_sha256": "590e066dac77dbfb7518cee73b0e79af7e3e52fb9ebc7efcc75ad7b6e4cbd9d8",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名女子手持一浅色细长条状物体贴近耳边，外观类似手机。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 319,
+    "total_tokens": 558,
+    "completion_tokens": 239,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 173
+    }
+  }
+}

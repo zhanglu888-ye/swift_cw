@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261114120915_01.jpg",
+  "image_sha256": "19fe64e497b8d958ae0d830ca3bab579237667909aef8bfbb23570271162898e",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴口罩男子穿黑色长款羽绒服站立，旁边一人手提黑色包，背景可见红色糖葫芦串。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 363,
+    "total_tokens": 664,
+    "completion_tokens": 301,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 228
+    }
+  }
+}

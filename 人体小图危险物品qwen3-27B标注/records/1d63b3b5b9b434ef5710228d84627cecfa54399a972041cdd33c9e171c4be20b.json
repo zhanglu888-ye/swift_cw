@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店南_20261004120413_01.jpg",
+  "image_sha256": "ca8bc53f917641915974f430daf5ecb8c11395cfa729a2cc5f1e6608c590691e",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿浅蓝灰色运动服的女性手持深色手机，旁边小孩手持黄色小物件，未见目标类别物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 381,
+    "total_tokens": 645,
+    "completion_tokens": 264,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 190
+    }
+  }
+}

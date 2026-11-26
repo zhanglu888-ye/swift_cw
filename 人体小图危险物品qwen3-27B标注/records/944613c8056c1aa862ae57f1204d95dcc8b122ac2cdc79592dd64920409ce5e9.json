@@ -1,0 +1,24 @@
+{
+  "image": "positive/01ea7296b55d0611010370019fcf9e017b_301_32_00.jpg",
+  "image_sha256": "a5f832c7337f5d3c9ab5f6af198d828edb39f2150edca94ee8edf117be2a5d48",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子双手持一把木制弩，可见木质弩身、横向弓臂及弦。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1509,
+    "total_tokens": 1729,
+    "completion_tokens": 220,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 152
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/盐湖巷十字_20261123153702_02.jpg",
+  "image_sha256": "78864ebd0fba5efd3cdc25c48de82564805846a83bb3c46a452462fb0422d4cf",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色衣裤的人背对镜头行走，右手持一浅色小物，画面模糊无法辨认具体物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 613,
+    "completion_tokens": 283,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 208
+    }
+  }
+}

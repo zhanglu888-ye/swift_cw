@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261005141856_07.jpg",
+  "image_sha256": "d4ae8a0e1bd33c5c1d2a45d1149357d9d22bb4b5a42d3b786f7b8b2c23c32f76",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中为几名行人，前景是一名戴黑色帽子、穿黑色外套的男子侧脸，后方有一名穿浅蓝上衣、棕色裙子的女子背影及一名穿紫色上衣的小孩，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 395,
+    "total_tokens": 623,
+    "completion_tokens": 228,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 135
+    }
+  }
+}

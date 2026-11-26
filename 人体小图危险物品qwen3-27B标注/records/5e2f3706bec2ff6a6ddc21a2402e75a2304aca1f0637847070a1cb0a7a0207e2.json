@@ -1,0 +1,24 @@
+{
+  "image": "positive/育新幼儿园后厨洗消间_20261116095435_01.jpg",
+  "image_sha256": "452eabadf565c46a5172868f7524a37ee355a1687902e679a6a214d606d5e916",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿围裙戴帽口罩的人员在绿色砧板前手持一把宽刃菜刀切割红色块状物。",
+    "刀具": "有",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 593,
+    "total_tokens": 836,
+    "completion_tokens": 243,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 168
+    }
+  }
+}

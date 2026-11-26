@@ -1,0 +1,24 @@
+{
+  "image": "positive/水利厅晨光精品托管后厨_20261116092449_00.jpg",
+  "image_sha256": "7767676f1cff62a6b735c5e07c74246a8543c468b8fc97a7794c071d10cfcb1a",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "操作台上木砧板上放着一把宽刃菜刀，旁边有不锈钢盆和面团等物品。",
+    "刀具": "有",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 417,
+    "total_tokens": 723,
+    "completion_tokens": 306,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 234
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/海晏路10号院门口照东_20261123153952_01.jpg",
+  "image_sha256": "a02e1a8df3be107e0c1a27ae0e1cd4490fb304e9ec555d895eab7d35d7577bc5",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深色衣服的人弯腰扶着一个绿色圆柱形带阀门的液化石油气钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 327,
+    "total_tokens": 564,
+    "completion_tokens": 237,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 167
+    }
+  }
+}

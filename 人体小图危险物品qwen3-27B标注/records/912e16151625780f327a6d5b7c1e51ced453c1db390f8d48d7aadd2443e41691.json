@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0206_00.jpg",
+  "image_sha256": "82ec837c92d2c1bf8d32ffc079a7dbb0794055d4deab508bb34ad806716f1e5c",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子正弯腰搬动一个灰白色、顶部带蓝色护手阀门的圆柱形液化石油气钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 475,
+    "total_tokens": 720,
+    "completion_tokens": 245,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 170
+    }
+  }
+}

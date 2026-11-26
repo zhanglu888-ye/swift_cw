@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0174_01.jpg",
+  "image_sha256": "776fafd8296993255825209f47dc11e9496afdda3d00ae23210ef90905bcc949",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子右手提着一个灰绿色、带红色字样和顶部阀门的圆柱形钢瓶行走。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 327,
+    "total_tokens": 565,
+    "completion_tokens": 238,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 167
+    }
+  }
+}

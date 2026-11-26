@@ -1,0 +1,24 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索 (3)_70_00.jpg",
+  "image_sha256": "dd25fd83856b5e1fed97dda0fdc1a3ac983e587152f7bf5df70de08f6e574d52",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿红色羽绒服的男子手持一把长木柄斧头，斧头为金属材质。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 619,
+    "total_tokens": 788,
+    "completion_tokens": 169,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 100
+    }
+  }
+}

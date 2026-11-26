@@ -1,0 +1,24 @@
+{
+  "image": "negative/东交通巷1_20261123154141_02.jpg",
+  "image_sha256": "37d665a90e81ce27fe0d36e3157ba542d445f30a8b3d995a6971ee08ac15d5c5",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑衣戴口罩的男子右手提着一个白色带绿色提手的袋子。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 388,
+    "total_tokens": 614,
+    "completion_tokens": 226,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 161
+    }
+  }
+}

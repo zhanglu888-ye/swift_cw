@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0388_00.jpg",
+  "image_sha256": "ecd1a24a542bc1dc3dfdb690dc4e989814daffa658a05c9bf215c9d23caacaed",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子蹲在地上，身旁放着两个液化石油气钢瓶，前景钢瓶套有印着红色“液化”字样的白色袋子，后方为绿色钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 554,
+    "total_tokens": 863,
+    "completion_tokens": 309,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 223
+    }
+  }
+}

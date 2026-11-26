@@ -1,0 +1,24 @@
+{
+  "image": "positive/01e8fa2d8922e90b010370019a119a652c_115_36_00.jpg",
+  "image_sha256": "150d881b12b1481a2c46f2b04b872f57b8f61a1dc7c4da405093cd54145941e5",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子双手持握一把带光学瞄准镜和弯曲弓臂的弩。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1875,
+    "total_tokens": 2182,
+    "completion_tokens": 307,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 241
+    }
+  }
+}

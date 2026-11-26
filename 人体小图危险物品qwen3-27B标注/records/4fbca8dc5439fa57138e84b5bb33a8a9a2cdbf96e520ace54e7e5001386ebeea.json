@@ -1,0 +1,24 @@
+{
+  "image": "negative/南交通巷北口_20261121162321_02.jpg",
+  "image_sha256": "6b14aa71c8c963a4eafc4048b33e9c6855262256e3525dba3af8e31c3200b32f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深红色外套、灰色长裤和运动鞋的人站在滑板上，背对镜头，未见手持物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 495,
+    "completion_tokens": 165,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 92
+    }
+  }
+}

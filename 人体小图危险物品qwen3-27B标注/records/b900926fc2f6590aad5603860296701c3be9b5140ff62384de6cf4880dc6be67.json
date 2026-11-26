@@ -1,0 +1,24 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索 (3)_34_01.jpg",
+  "image_sha256": "ceb6841c3ce1bc054bc3bbb4106b68a6fb5aff1b6be916e616a8c12ca854bb3f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面前景堆叠着多把木制椅子，黄色塑料筐内放有一个红色带盖水壶状容器及一些编织物，背景有坐着和站立的人群。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "不确定",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 575,
+    "total_tokens": 1273,
+    "completion_tokens": 698,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 614
+    }
+  }
+}

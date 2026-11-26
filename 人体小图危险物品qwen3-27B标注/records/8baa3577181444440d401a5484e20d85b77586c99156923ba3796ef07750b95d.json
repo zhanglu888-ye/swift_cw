@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道阿迪达斯北_20261105104858_03.jpg",
+  "image_sha256": "92db0c458a4083a5ab8503bfc876d65636adb300589eff67f08265e406a6351c",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "门口处堆放着灰色箱体、白色格子筐和木箱，上方搭有灰白色织物状物体，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 321,
+    "total_tokens": 627,
+    "completion_tokens": 306,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 229
+    }
+  }
+}

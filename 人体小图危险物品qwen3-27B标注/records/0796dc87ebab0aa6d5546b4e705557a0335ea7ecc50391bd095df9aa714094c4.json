@@ -1,0 +1,24 @@
+{
+  "image": "positive/虎台二巷梧桐午托班后厨_20261118105128_01.jpg",
+  "image_sha256": "e5a724fd2ce883343ca4c71daca1b8a50ad499d17422a81d9ee560e499d6e45f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "戴蓝色头套、穿红衣的人俯身在操作台前，台面上有金属托盘、一盆红色切丁食材及一把带棕色柄的刀状物。",
+    "刀具": "有",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 399,
+    "total_tokens": 930,
+    "completion_tokens": 531,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 447
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "image": "negative/新华巷口1_20261120095004_03.jpg",
+  "image_sha256": "105fb17cd03d0b997cae62f20143fde593d56c45053745fb5c56b5e8c333588d",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人手持一个绿色带提手的塑料桶/水壶状容器，旁边停着一辆白色电动车。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 332,
+    "total_tokens": 596,
+    "completion_tokens": 264,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 193
+    }
+  }
+}

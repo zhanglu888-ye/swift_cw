@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0159_01.jpg",
+  "image_sha256": "1b08c6e3e661733c15ce23e01f9c83bdb4aba28f41e9008eff5328aebb57e902",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿白T恤红短裤的男子手扶一个灰色金属液化气钢瓶，瓶身印有红色中文字样，顶部带阀门。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 437,
+    "total_tokens": 703,
+    "completion_tokens": 266,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 187
+    }
+  }
+}

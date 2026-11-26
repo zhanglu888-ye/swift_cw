@@ -1,0 +1,26 @@
+{
+  "image": "negative/唐道8号门_20261007184225_06.jpg",
+  "image_sha256": "92412b9147b4538e84fb95d2fc8df006136be8f802bfd74e7366edba273191d9",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色皮夹克、黑裤的人背对镜头行走，左手提着一个浅色桶状或袋状容器。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "不确定",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 755,
+    "completion_tokens": 430,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 355
+    }
+  }
+}

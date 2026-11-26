@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0479_00.jpg",
+  "image_sha256": "ad9d6741310a100e569db3da2c2ba115bd5ecb89b9ee3869813d17cf1b6aee60",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "人物一手提着用橙色袋子包裹、底部呈蓝绿色圆柱形并带顶部提手的液化气钢瓶，另一手拿着一个黑色圆形物体。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 485,
+    "total_tokens": 786,
+    "completion_tokens": 301,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 220
+    }
+  }
+}

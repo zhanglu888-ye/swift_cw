@@ -1,0 +1,26 @@
+{
+  "image": "positive/唐道8号门_20261118191525_01.jpg",
+  "image_sha256": "fd13ffe1abc601b4f4b6797a186049bf300feb3bee6eff821ea042c66ba73379",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子背黑色斜挎包，双手各提一个塑料瓶，左瓶装黄色液体、右瓶装深色液体。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 535,
+    "total_tokens": 849,
+    "completion_tokens": 314,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 237
+    }
+  }
+}

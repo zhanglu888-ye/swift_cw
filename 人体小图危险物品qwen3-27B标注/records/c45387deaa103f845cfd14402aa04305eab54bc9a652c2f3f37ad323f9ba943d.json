@@ -1,0 +1,24 @@
+{
+  "image": "negative/刘家寨小区农贸市场北门基站款摄像机_20261120093001_01.jpg",
+  "image_sha256": "4411cb00fdd4978f933aae72a56da87f6eb07a691dff08c61fa0a24feefbd7f9",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子站在白色皮卡车旁，双手扶在车斗边缘，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 492,
+    "completion_tokens": 162,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 92
+    }
+  }
+}

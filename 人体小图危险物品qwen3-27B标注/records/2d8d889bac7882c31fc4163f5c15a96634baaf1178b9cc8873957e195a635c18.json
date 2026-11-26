@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0225_00.jpg",
+  "image_sha256": "b226e205feaf98e41d68e2b1e7ffa6b3b1ae0147c95a199427052cd5eaa6fa8e",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴迷彩帽和橙色手套的男子手持一把长木柄营地斧，斧头为金属材质、木柄呈红棕色。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 541,
+    "total_tokens": 834,
+    "completion_tokens": 293,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 214
+    }
+  }
+}

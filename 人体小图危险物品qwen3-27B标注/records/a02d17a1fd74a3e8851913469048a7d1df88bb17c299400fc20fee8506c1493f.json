@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店南_20261021154137_00.jpg",
+  "image_sha256": "1a4e00259099319b88ba353e692b59314634c4a7aec6cd7bdbd6daa834f5443f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴黄色头盔、穿黑衣的人骑在电动车上，车后座有黑色储物箱，车尾挂着彩色毛绒玩具。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 332,
+    "total_tokens": 576,
+    "completion_tokens": 244,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 167
+    }
+  }
+}

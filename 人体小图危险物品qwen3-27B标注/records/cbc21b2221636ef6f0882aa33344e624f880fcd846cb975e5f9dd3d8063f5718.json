@@ -1,0 +1,26 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索 (4)_47_00.jpg",
+  "image_sha256": "cbaf212e1c313ef84cd52d37c570707e3f57154d725b9569e42764dcf46343cb",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "手持一捆黑色长条状杆件或折叠架，其间夹有一根绿色细杆。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 1055,
+    "total_tokens": 1358,
+    "completion_tokens": 303,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 232
+    }
+  }
+}

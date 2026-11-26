@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道匡威店南_20261030154608_00.jpg",
+  "image_sha256": "730477a186928b0dc3078bfbb7f5c0e0fe6b667c179a1529e4498e32f6558680",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子手扶手推车，车上堆叠多桶用透明塑料膜包裹、带蓝色瓶盖的大容量桶装水。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 437,
+    "total_tokens": 716,
+    "completion_tokens": 279,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 203
+    }
+  }
+}

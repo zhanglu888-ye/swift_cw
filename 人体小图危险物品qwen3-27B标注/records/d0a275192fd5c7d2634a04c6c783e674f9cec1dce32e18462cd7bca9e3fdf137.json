@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0176_01.jpg",
+  "image_sha256": "8aed845c7ddecc91534694859b8acf0a91bc6594082c5eca352fe61c059619b8",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿白衣红裤的男子右手提着一个灰绿色带阀门的圆柱形液化气钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 577,
+    "completion_tokens": 252,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 182
+    }
+  }
+}

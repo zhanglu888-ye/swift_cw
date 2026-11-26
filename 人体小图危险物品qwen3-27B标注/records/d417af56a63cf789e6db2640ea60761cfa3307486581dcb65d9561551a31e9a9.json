@@ -1,0 +1,24 @@
+{
+  "image": "positive/东方幼教幼儿园后厨加工间_20261116100638_00.jpg",
+  "image_sha256": "197dafb0260addf07cda4e6cf70d502978fb3185d1492bc54f22e35f32a829a8",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿白色厨师服的人手持一把切菜刀在白色砧板上切菜，旁边另有一把绿色青菜。",
+    "刀具": "有",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1020,
+    "total_tokens": 1321,
+    "completion_tokens": 301,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 226
+    }
+  }
+}

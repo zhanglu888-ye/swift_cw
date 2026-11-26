@@ -1,0 +1,24 @@
+{
+  "image": "negative/人民公园游乐园门口1号摄像机_20261121162354_03.jpg",
+  "image_sha256": "94bbea57d13ae507ba122c2854656bf184b33dddfd107387b15c07e2ebdf4d31",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿蓝色外套的人背着迷彩图案的包，手中拿着一个粉红色小物件，背景为玻璃门和桌椅。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 590,
+    "completion_tokens": 265,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 189
+    }
+  }
+}

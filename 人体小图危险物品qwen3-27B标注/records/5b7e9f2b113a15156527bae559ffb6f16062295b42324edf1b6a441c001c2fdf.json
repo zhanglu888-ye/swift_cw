@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道匡威店南_20261017132432_04.jpg",
+  "image_sha256": "725c689c6b169002fa954994cf3fadd356fc809c647863e14fd307a05c4f3f7f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "两人搬运棕色纸箱，下方放有一个装黄色液体的大容量塑料桶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 363,
+    "total_tokens": 551,
+    "completion_tokens": 188,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 123
+    }
+  }
+}

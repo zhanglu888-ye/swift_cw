@@ -1,0 +1,26 @@
+{
+  "image": "positive/唐道阿迪达斯南_20261003171158_01.jpg",
+  "image_sha256": "3d3f0b28f69786a0969baf36cf9910c6213b0a44c935a67d97195625467c7151",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人手持一根红黑相间的细长杆状物斜跨于身前。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 779,
+    "completion_tokens": 446,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 380
+    }
+  }
+}

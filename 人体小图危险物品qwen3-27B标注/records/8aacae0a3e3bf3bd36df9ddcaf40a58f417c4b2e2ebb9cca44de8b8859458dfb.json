@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道阿迪达斯北_20261016111924_00.jpg",
+  "image_sha256": "21e58111ec4a5339683c7e5e06c662ff48341cc62d0af482d796639307e2aca0",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "手推车上放着一个装有黄色液体的大容量塑料桶，带提手和盖子。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 320,
+    "total_tokens": 590,
+    "completion_tokens": 270,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 202
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/9-mp4_364_100x100_0_jpg.rf.113c3d358a832d685e173497e5e2163c_00.jpg",
+  "image_sha256": "7041235409a817c32933f88ddcdb9271cff2857bc8645fb3a007a8019186894a",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿蓝色上衣的男子双手持握一支长枪形物体，可见细长枪管与握持结构。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 548,
+    "completion_tokens": 218,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 146
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/u=2893048581,2855310798&fm=253&fmt=auto&app=138&f=JPEG_00.jpg",
+  "image_sha256": "50fa13213b340d659388f94bca1e071f79f155c798f199837a86b6d001b3a2bf",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子背着灰色双肩背包站立，手中持有浅色模糊物品，未见目标类别物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 571,
+    "completion_tokens": 238,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 169
+    }
+  }
+}

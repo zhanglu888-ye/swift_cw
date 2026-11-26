@@ -1,0 +1,24 @@
+{
+  "image": "positive/01ea7296b55d0611010370019fcf9e017b_301_1_00.jpg",
+  "image_sha256": "a9861becf016618043bab48e3ef44f778080fb0fcdc873ba5fa523d92de4b9ec",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴头盔穿战术背心的人手持一把带弧形弓臂和弦线的弩。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 901,
+    "total_tokens": 1213,
+    "completion_tokens": 312,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 244
+    }
+  }
+}

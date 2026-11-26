@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道阿迪达斯南_20261016171724_00.jpg",
+  "image_sha256": "0b048d235e6353a920d961fa0ab580a1619a2b138bccf5d8aa868c73c0a0a1da",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名黑衣男子一手持手机，另一手握着一把带弓臂和弦的黑色弩，旁边小孩手持弩的弓臂部件。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 435,
+    "total_tokens": 699,
+    "completion_tokens": 264,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 186
+    }
+  }
+}

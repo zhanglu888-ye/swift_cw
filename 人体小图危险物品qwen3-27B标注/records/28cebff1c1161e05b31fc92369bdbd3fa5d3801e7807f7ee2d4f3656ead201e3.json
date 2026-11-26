@@ -1,0 +1,24 @@
+{
+  "image": "positive/01e8fa2d8922e90b010370019a119a652c_115_115_00.jpg",
+  "image_sha256": "3651b460ecd41d4d5d1f12563af6b05e2e4cbdd2ebaba3e7600342603f1b3d9a",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴帽男子手持一把迷彩涂装的复合弩，弩身印有FANG HD字样并装有瞄准镜，架于三脚架上。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1407,
+    "total_tokens": 1596,
+    "completion_tokens": 189,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 108
+    }
+  }
+}

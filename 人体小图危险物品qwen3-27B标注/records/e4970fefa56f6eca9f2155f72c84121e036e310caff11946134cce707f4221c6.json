@@ -1,0 +1,26 @@
+{
+  "image": "negative/唐道阿迪达斯南_20261018191543_01.jpg",
+  "image_sha256": "e738d6001e61d9429f8ddefdaf3883190a8187f158ece3c96127ee8b3e2b791d",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色特警制服、戴帽的人员背对镜头行走，腰侧及左手处可见深色装备，具体形态模糊。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "不确定",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 351,
+    "total_tokens": 753,
+    "completion_tokens": 402,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 325
+    }
+  }
+}

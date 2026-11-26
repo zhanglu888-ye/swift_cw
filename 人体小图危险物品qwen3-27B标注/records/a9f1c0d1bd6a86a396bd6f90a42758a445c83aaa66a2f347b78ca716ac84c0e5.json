@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0363_00.jpg",
+  "image_sha256": "b456cca5f036e9635fc6770d7b0bfdbc18c6a13aa5aa762e815458e9794edfe0",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子双手抱着一个银灰色金属液化气钢瓶，瓶顶可见蓝色阀门结构。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 541,
+    "total_tokens": 803,
+    "completion_tokens": 262,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 194
+    }
+  }
+}

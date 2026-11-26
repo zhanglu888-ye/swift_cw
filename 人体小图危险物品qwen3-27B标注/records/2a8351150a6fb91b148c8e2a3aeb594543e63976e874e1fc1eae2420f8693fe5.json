@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261002134136_00.jpg",
+  "image_sha256": "9ab08985b5194a74aa80cdbe5eafc1f37c3247327458a6060a19eb8647d002be",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深色格子衬衫和黑裤子的男子背对镜头站立，背景为糖葫芦摊位广告牌，其手部附近有一深色小物体但细节模糊。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 339,
+    "total_tokens": 589,
+    "completion_tokens": 250,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 168
+    }
+  }
+}

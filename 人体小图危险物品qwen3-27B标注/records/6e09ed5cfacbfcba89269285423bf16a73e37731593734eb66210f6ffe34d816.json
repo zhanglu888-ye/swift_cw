@@ -1,0 +1,24 @@
+{
+  "image": "negative/虎台二巷梧桐午托班后厨_20261119104152_00.jpg",
+  "image_sha256": "803d2fd4dc0ec7195cbdf3b8e4128ddb37073eeab42b766948f46e6574d471d0",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴蓝色帽子和口罩、穿红衣白围裙的人手持一个白色板状或盒状物体。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 411,
+    "total_tokens": 804,
+    "completion_tokens": 393,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 320
+    }
+  }
+}

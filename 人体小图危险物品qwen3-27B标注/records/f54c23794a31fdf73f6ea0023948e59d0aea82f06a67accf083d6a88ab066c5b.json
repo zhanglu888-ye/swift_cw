@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0253_00.jpg",
+  "image_sha256": "e4d8afcba13e14d97523b2ba0340afa5f464237d5248948ad4830e44f198ffa9",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名女子手持一捆细长竹棍，旁边手推车上放着一个灰色液化气钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 464,
+    "total_tokens": 727,
+    "completion_tokens": 263,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 193
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/虎台二巷梧桐午托班后厨_20261119093549_00.jpg",
+  "image_sha256": "782fae831a07d4791bb310dfeb6b1944e3024cbb4316aab279cd17dcb31576f3",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中有人手持一个金属盆，盆内装有肉块，操作台上放有砧板及肉块。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 399,
+    "total_tokens": 756,
+    "completion_tokens": 357,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 282
+    }
+  }
+}

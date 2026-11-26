@@ -1,0 +1,26 @@
+{
+  "image": "negative/唐道阿迪达斯北_20261114165547_00.jpg",
+  "image_sha256": "9cb3497639df06d65d9b47a80ca21bf46cb9a3ab78a82c85c8bf3c1f18acce3c",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "右侧人物手持一把由绿、红、蓝等彩色部件组成的玩具枪形物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 475,
+    "total_tokens": 758,
+    "completion_tokens": 283,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 214
+    }
+  }
+}

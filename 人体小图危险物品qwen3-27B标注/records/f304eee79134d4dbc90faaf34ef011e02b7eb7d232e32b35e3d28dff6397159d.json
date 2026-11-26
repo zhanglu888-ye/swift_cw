@@ -1,0 +1,24 @@
+{
+  "image": "negative/东交通巷1_20261123154141_01.jpg",
+  "image_sha256": "50b5c7d744d354d2a6361663ba89ac78df308f59ad0b7a863f5e6b8cd2c840de",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中为几名行人，包括穿黑色羽绒服的女子和穿深色制服戴帽的男子，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 395,
+    "total_tokens": 656,
+    "completion_tokens": 261,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 187
+    }
+  }
+}

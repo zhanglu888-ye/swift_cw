@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道阿迪达斯北_20261009151750_01.jpg",
+  "image_sha256": "403707529c7485e8c6e021d5628565079c09ce061a1a2cbad21b04b867794710",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "人物手持一把长柄扫帚和一个簸箕，均为清洁工具。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 517,
+    "completion_tokens": 192,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 127
+    }
+  }
+}

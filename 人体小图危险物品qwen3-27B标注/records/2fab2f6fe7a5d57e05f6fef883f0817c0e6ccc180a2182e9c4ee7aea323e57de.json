@@ -1,0 +1,24 @@
+{
+  "image": "positive/育新幼儿园后厨洗消间_20261116095133_00.jpg",
+  "image_sha256": "458ce56bb9e8539662753bf86f619601f891ca09a019c8e4ca9132459d47a0ff",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿厨师服戴蓝帽口罩的人在绿色砧板上用一把厨刀切西红柿。",
+    "刀具": "有",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 745,
+    "total_tokens": 943,
+    "completion_tokens": 198,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 128
+    }
+  }
+}

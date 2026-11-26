@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店南_20261002151222_02.jpg",
+  "image_sha256": "9f44d8a6b64c32987a3c34e2b831019bd5fa466f93fa683ee0ddb1221ada2010",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中一名穿格子外套的老年女性站立在车旁，双手未见持有明显物品，周围无刀具、斧头、桶壶、钢瓶、枪形物或弩。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 462,
+    "total_tokens": 690,
+    "completion_tokens": 228,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 139
+    }
+  }
+}

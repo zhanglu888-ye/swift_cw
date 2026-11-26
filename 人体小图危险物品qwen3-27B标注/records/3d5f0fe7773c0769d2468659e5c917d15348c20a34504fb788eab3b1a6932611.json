@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道8号门_20261026212349_02.jpg",
+  "image_sha256": "44c5179af46487df687e6c2d489f84f045a18cdab9c54e5240c8af5fdf9db076",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色制服戴警帽的人员手持一件黑色枪形物体，可见握把与枪管状结构。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 619,
+    "total_tokens": 872,
+    "completion_tokens": 253,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 179
+    }
+  }
+}

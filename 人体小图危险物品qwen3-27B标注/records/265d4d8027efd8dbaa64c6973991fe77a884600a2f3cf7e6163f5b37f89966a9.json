@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店南_20261005160421_01.jpg",
+  "image_sha256": "4527d0ae73021b43ec7ef9f40199d210ff1e1187e8cc72f9b42ee25c2757c74f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中两名穿黑色制服的特警与一名黑衣男子，男子手持白色手机状物体，特警腰间配有黑色装备包。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 759,
+    "total_tokens": 1162,
+    "completion_tokens": 403,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 326
+    }
+  }
+}

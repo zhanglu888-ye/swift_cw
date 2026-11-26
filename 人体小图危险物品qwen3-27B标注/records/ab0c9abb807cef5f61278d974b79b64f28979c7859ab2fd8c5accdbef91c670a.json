@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道637火车头东侧停车场入口北_20261022100347_01.jpg",
+  "image_sha256": "5434c5e637f4f6eb2da9d4864c35244726adc1d8778274e114e640618884686a",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑衣、斜挎白色包带的人手持一白色小物靠近面部，身旁停有一辆黑色轿车。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 435,
+    "total_tokens": 734,
+    "completion_tokens": 299,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 224
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/东交通巷2_20261122171724_01.jpg",
+  "image_sha256": "eb5196219c8e62372ee0ba119e7b1fcb9b51d571e65ec056efc40419d2d487dd",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿灰色羽绒服的男子右手提着装有杂物的透明塑料袋，左手拿着一个白色小瓶状物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 357,
+    "total_tokens": 616,
+    "completion_tokens": 259,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 187
+    }
+  }
+}

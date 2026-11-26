@@ -1,0 +1,24 @@
+{
+  "image": "negative/刘家寨小区农贸市场西北角_20261123142816_05.jpg",
+  "image_sha256": "ad8b9f7881f6a0a3dd807606a6a4df2a8848bb65e813cadb20e137f843b4c75d",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴帽穿白色外套的小孩站立在浅色地面上，双手置于身前，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 511,
+    "completion_tokens": 186,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 115
+    }
+  }
+}

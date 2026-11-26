@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0412_01.jpg",
+  "image_sha256": "023c0a5e42f7d7cfae30f95e6ea4db17914434c375f6748c0033188ed2390dc5",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一只手握着一个绿色金属液化石油气钢瓶的提手，瓶顶有阀门，瓶身印有红色“液化石”字样。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 360,
+    "total_tokens": 644,
+    "completion_tokens": 284,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 205
+    }
+  }
+}

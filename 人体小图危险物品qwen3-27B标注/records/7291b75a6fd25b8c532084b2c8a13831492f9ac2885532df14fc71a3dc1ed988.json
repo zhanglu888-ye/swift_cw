@@ -1,0 +1,26 @@
+{
+  "image": "positive/发搜索 (1)_1_00.jpg",
+  "image_sha256": "c2c57340d2c2d1f1eb6dc1b6fed4947591bade7d4985168f147ffc22e5aa0356",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名身着中世纪锁子甲与皮甲的人手持一根带皮带缠绕的灰白色长杆状物，身上斜跨一根长木条。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 675,
+    "total_tokens": 1182,
+    "completion_tokens": 507,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 425
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261017201725_10.jpg",
+  "image_sha256": "9acc653c42ef8e4e5ef4fa71e872e458c577b456ff0a4e1f8ff1214a08039324",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中有人手提蓝色袋状物，另有人手持白色袋状物，未见其他器械。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 559,
+    "completion_tokens": 229,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 158
+    }
+  }
+}

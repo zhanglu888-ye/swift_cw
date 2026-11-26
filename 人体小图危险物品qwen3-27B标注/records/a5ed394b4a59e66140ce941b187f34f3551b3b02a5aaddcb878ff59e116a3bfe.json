@@ -1,0 +1,24 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索_70_00.jpg",
+  "image_sha256": "659a42fad183f3de2a60e63a1b35530ad2566214eb59aa107a9db5714b03726e",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿制服戴墨镜的男子手持一把带顶部瞄准镜的迷彩弩，可见弩身、弓臂及弦。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 705,
+    "total_tokens": 1027,
+    "completion_tokens": 322,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 246
+    }
+  }
+}

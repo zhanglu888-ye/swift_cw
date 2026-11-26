@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道同盛路停车场入口_20261115165029_00.jpg",
+  "image_sha256": "dc7e4d50819e8d1c4602ac4d22d549708d89f633affec9fc914cd3a42d0af162",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色羽绒服的男子双手各提一个上黄下灰蓝的塑料桶，右手另提一个黑色塑料袋。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 497,
+    "total_tokens": 762,
+    "completion_tokens": 265,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 190
+    }
+  }
+}

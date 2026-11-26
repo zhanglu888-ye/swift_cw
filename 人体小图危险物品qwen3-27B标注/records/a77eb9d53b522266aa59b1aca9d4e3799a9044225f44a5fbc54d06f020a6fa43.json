@@ -1,0 +1,24 @@
+{
+  "image": "negative/37-mp4_90_100x100_0_jpg.rf.73508e83f04748226107358ffedba0aa_00.jpg",
+  "image_sha256": "47391f18e4878f66c1b63b3572358e9d752b3f2d74a9c1a2ca209b820fbc0605",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑衣黑裤的人背对镜头站立于桌椅间，未见明显手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 319,
+    "total_tokens": 516,
+    "completion_tokens": 197,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 127
+    }
+  }
+}

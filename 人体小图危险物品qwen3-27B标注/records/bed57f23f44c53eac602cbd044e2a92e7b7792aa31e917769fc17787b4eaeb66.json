@@ -1,0 +1,24 @@
+{
+  "image": "positive/01e75f93332acb560103700193cd577471_258_47_00.jpg",
+  "image_sha256": "c55611b3cf202cdba8e597c5c8caf1abec4cfb4e61e332cfe262cb46b470af66",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名赤膊男子手持长柄斧头，周围地面堆放着劈开的木柴。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 735,
+    "total_tokens": 1000,
+    "completion_tokens": 265,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 196
+    }
+  }
+}

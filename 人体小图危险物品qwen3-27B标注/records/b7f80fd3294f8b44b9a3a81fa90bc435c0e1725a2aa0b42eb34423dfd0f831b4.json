@@ -1,0 +1,24 @@
+{
+  "image": "negative/东方幼教幼儿园后厨加工间_20261119143417_00.jpg",
+  "image_sha256": "4e62d06144125e96f77e60c14fea5ec9bfa9fc7438427db001e88737394fc11d",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人手持一团绿色夹杂红橙色的物体，疑似蔬菜或食物，未见其他目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 502,
+    "total_tokens": 788,
+    "completion_tokens": 286,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 216
+    }
+  }
+}

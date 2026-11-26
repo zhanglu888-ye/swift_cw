@@ -1,0 +1,26 @@
+{
+  "image": "positive/01e921b6646407df010370019aabb635dd_115_106_02.jpg",
+  "image_sha256": "db34f78b4be9bf0ba3873fd19cdf989e0eb85022001eacabcebed9f422ec5f32",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子手持一个带金属拉线的木制锯木工具，正在切割堆放的木柴。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 1513,
+    "total_tokens": 1794,
+    "completion_tokens": 281,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 212
+    }
+  }
+}

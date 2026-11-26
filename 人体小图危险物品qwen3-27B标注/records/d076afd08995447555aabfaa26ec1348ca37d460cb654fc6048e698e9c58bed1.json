@@ -1,0 +1,24 @@
+{
+  "image": "positive/92-mp4_55_100x100_0_jpg.rf.7b2e0895dc5e2e44dc346147132778a6_00.jpg",
+  "image_sha256": "e1806fc7357a41b01cce8db00f7764dda76aebceb7e94fa813ad4b8102b49e13",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深色衣服的人伸手握持一件带握把和向前延伸枪身的深色枪形物体指向另一人。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 350,
+    "total_tokens": 629,
+    "completion_tokens": 279,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 204
+    }
+  }
+}

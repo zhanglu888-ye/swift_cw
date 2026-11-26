@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道西关大街停车场入口东_20261106131604_02.jpg",
+  "image_sha256": "8a5fb7b6aeb48f2bad7d3bfaa3ff831bda32cdfcbdd85db22842d0c3ff42be9a",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中可见一人头部及手持一根细长金属丝状物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 420,
+    "total_tokens": 627,
+    "completion_tokens": 207,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 143
+    }
+  }
+}

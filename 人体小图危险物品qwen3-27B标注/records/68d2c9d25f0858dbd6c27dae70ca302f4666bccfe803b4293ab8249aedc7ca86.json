@@ -1,0 +1,24 @@
+{
+  "image": "positive/海湖幼儿园后厨操作间1_20261117104106_00.jpg",
+  "image_sha256": "3cb28f5d4edc9ebcc0a940e6979d6535cc078134ca04e3204178d1e90b2f713c",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "两名穿白色工作服、戴蓝色发网的人员在木桌前操作，桌上有白色碎屑，手持物品因运动模糊无法辨认。",
+    "刀具": "不确定",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 915,
+    "total_tokens": 1416,
+    "completion_tokens": 501,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 421
+    }
+  }
+}

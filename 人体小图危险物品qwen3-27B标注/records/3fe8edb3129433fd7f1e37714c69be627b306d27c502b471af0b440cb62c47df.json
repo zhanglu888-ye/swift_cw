@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店南_20261017132432_01.jpg",
+  "image_sha256": "b3d79bd4539a62d092452d72bf127ca0f2a4868b4e83ba393948a5300545b677",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面为停放的电动车，车上放有红色袋子、黑色挡风被和储物箱，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 359,
+    "total_tokens": 527,
+    "completion_tokens": 168,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 95
+    }
+  }
+}

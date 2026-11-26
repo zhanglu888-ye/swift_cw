@@ -1,0 +1,24 @@
+{
+  "image": "positive/同仁路3号院1号楼西侧定焦枪机_20261120115729_00.jpg",
+  "image_sha256": "3d13e0a88385f592df2a0d2ea0ebc351f1b0e65d8b2ea3d9853fc068820c1ece",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人弯腰手持一支长条状枪形物体，可见枪管与握把结构。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 540,
+    "completion_tokens": 207,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 138
+    }
+  }
+}

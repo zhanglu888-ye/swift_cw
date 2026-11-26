@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道阿迪达斯北_20261108134544_08.jpg",
+  "image_sha256": "c34ad89ed34acf83a603075c786e8c8d931f4090bcc6408647eb661a851913f9",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "穿绿色连帽衫、灰色长裤的人行走，手中持一模糊浅色物体，细节不可辨。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 812,
+    "completion_tokens": 479,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 407
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "image": "negative/唐道匡威店南_20261002151222_04.jpg",
+  "image_sha256": "30c1438c209083ec4d48a87ed0fbf74ddacbae9796d3f6afcc5d6083741e1845",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "黑衣男子右手下垂握持一把手枪形物体，可见握把与枪管轮廓。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 577,
+    "completion_tokens": 247,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 178
+    }
+  }
+}

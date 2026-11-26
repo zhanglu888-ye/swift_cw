@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0465_00.jpg",
+  "image_sha256": "aea828e9c7a4b2a7e18f8ede08f07280d63dc0ebdbe16469ad284d5181b1febc",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子手持一把带木质长柄的金属斧头。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 567,
+    "total_tokens": 748,
+    "completion_tokens": 181,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 120
+    }
+  }
+}

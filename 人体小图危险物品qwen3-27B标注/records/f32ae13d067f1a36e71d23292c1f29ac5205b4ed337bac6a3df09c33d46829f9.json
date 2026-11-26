@@ -1,0 +1,26 @@
+{
+  "image": "negative/u=491441126,2320344067&fm=253&fmt=auto&app=138&f=JPEG_06.jpg",
+  "image_sha256": "b4f3ed17dfa63fc09949a96e994ab9ff6716efcd553b3e64c37ec1339cbe6bb5",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中可见一把带木质弓臂和弦线的弩。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 652,
+    "completion_tokens": 327,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 264
+    }
+  }
+}

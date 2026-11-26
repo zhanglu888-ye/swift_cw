@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店南_20261002151222_05.jpg",
+  "image_sha256": "6ebb3adbd0d10d502fa01053289bd6bd4bd1f9c92f4ac651d8a9299791bb9588",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "两名女子站立，其中一人手持红色饮料杯，另一人手臂挂黑色包，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 345,
+    "total_tokens": 522,
+    "completion_tokens": 177,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 105
+    }
+  }
+}

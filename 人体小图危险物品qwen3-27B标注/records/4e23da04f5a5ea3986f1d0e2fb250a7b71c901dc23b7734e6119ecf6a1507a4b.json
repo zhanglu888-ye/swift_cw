@@ -1,0 +1,24 @@
+{
+  "image": "negative/虎台二巷梧桐午托班后厨_20261118105016 (1)_00.jpg",
+  "image_sha256": "c9be2a96e19b8572d950120acfe572a38f77ac32c3d63c986d450c3a4fe2f514",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "厨师右手持一块白色块状食材，正往地上的黑色垃圾袋中投放。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 574,
+    "total_tokens": 841,
+    "completion_tokens": 267,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 199
+    }
+  }
+}

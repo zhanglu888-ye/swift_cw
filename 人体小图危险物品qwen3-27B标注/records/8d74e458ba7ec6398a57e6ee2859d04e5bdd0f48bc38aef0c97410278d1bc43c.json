@@ -1,0 +1,24 @@
+{
+  "image": "negative/东方幼教幼儿园后厨加工间_20261119114608_00.jpg",
+  "image_sha256": "fa64de184610ee127065d24ec1dba213cb24d92d179a43ea467fd54a023b5db5",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "穿白色工作服、戴口罩和透明手套的人正在整理橙色与红色塑料篮中盛放的烤制面饼。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 893,
+    "total_tokens": 1160,
+    "completion_tokens": 267,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 193
+    }
+  }
+}

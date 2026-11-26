@@ -1,0 +1,24 @@
+{
+  "image": "negative/人民公园游乐园门口1号摄像机_20261121162321_05.jpg",
+  "image_sha256": "67ad654b21da9671ffeddb84e9bdd3cf14e768dcd10c11ae9db667d02426fcdf",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中数人站立于户外，身着深色与浅色外套，未见明显手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 332,
+    "total_tokens": 533,
+    "completion_tokens": 201,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 131
+    }
+  }
+}

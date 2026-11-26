@@ -1,0 +1,26 @@
+{
+  "image": "positive/01e9186d98347cba010370019a876d136f_258_34_00.jpg",
+  "image_sha256": "6321db2f306240113932f8bcbc48d4c75ee50a6a29d3a45f09733382531cbd18",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴红帽穿绿衣的男子双手握着一根长木柄状物体，背景为木柴堆和木屋。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 975,
+    "total_tokens": 1377,
+    "completion_tokens": 402,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 326
+    }
+  }
+}

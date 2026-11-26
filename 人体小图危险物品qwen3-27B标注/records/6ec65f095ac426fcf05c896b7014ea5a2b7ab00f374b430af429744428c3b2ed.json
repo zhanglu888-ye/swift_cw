@@ -1,0 +1,24 @@
+{
+  "image": "negative/虎台二巷梧桐午托班后厨_20261118104451_00.jpg",
+  "image_sha256": "9c68b34421d9462149c24bd01da759cfc5320135e05b8e5e646a22ca9c1cfdab",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 593,
+    "total_tokens": 762,
+    "completion_tokens": 169,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 114
+    }
+  }
+}

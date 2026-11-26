@@ -1,0 +1,24 @@
+{
+  "image": "negative/北气象巷路口祭祀点_20261122165405_00.jpg",
+  "image_sha256": "386c52354593f09caf721619890ef6ddb14c4fecbdb878c75fb11a1e30343dd8",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿棕色羽绒服、戴口罩的女士站立，双手未见持有目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 415,
+    "total_tokens": 618,
+    "completion_tokens": 203,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 137
+    }
+  }
+}

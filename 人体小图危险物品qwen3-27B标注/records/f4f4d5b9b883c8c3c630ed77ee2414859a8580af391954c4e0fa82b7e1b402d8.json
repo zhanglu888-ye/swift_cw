@@ -1,0 +1,24 @@
+{
+  "image": "negative/东交通巷2_20261122171724_00.jpg",
+  "image_sha256": "79d48d8e66b3f54e8507660a6bcd0b29665c3209f37dcb6d31eaba9443ffdb1a",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深色夹克和长裤的男子在行走，未见明显手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 415,
+    "total_tokens": 625,
+    "completion_tokens": 210,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 144
+    }
+  }
+}

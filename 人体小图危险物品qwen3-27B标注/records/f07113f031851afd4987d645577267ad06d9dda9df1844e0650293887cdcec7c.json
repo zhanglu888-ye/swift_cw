@@ -1,0 +1,24 @@
+{
+  "image": "negative/u=491441126,2320344067&fm=253&fmt=auto&app=138&f=JPEG_05.jpg",
+  "image_sha256": "d7ceaafdd53767eefa9ef1effa3c1c2d8d3164b88d78eb02dae9789e5112b673",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面模糊，仅见人物腿部深色裤装与靴子及中间浅蓝色区域，未见手持物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 331,
+    "total_tokens": 494,
+    "completion_tokens": 163,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 90
+    }
+  }
+}

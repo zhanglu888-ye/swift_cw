@@ -1,0 +1,26 @@
+{
+  "image": "negative/海湖幼儿园后厨操作间1_20261117104402_00.jpg",
+  "image_sha256": "ecde71ffa6a058b5e0c1afe8bf8e376c87a55cb14158ee330d3be2df0856506d",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "两名穿白色工作服、戴蓝色发网的人员在厨房操作台旁活动，右侧木板上放有一把金属刀具。",
+    "刀具": "有",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 895,
+    "total_tokens": 1195,
+    "completion_tokens": 300,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 224
+    }
+  }
+}

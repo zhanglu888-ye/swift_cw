@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0420_00.jpg",
+  "image_sha256": "aea10139115825a061386465b91cc91ac3aae5edef0b19c2bf3d8407727bd56f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿红黑反光背心的男子双手扶在两个绿色金属液化石油气钢瓶顶部，右侧钢瓶外裹白色编织袋。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 645,
+    "total_tokens": 861,
+    "completion_tokens": 216,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 136
+    }
+  }
+}

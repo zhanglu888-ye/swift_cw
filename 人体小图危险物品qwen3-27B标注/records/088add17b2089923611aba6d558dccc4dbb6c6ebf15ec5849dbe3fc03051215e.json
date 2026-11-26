@@ -1,0 +1,24 @@
+{
+  "image": "positive/东交通巷2_20261122171724_02.jpg",
+  "image_sha256": "68eae7899d039fea23da647ebb31243be13f605dc55abea7d1d015da06d04c60",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿灰黑羽绒服的男孩手持一个黑色手枪形物体。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 345,
+    "total_tokens": 548,
+    "completion_tokens": 203,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 139
+    }
+  }
+}

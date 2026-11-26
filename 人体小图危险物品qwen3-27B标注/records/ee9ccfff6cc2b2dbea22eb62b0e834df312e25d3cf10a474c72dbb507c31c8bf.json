@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道同盛路停车场入口_20261006102124_00.jpg",
+  "image_sha256": "bea74c5520c926d61c676587c1716f2db18ee53e21871568c7b1dfdd8db8b9a2",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色制服、背心印有“西宁特警”字样的人员背对镜头行走，腰间佩戴多个装备包，手中未见明显物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 545,
+    "total_tokens": 843,
+    "completion_tokens": 298,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 219
+    }
+  }
+}

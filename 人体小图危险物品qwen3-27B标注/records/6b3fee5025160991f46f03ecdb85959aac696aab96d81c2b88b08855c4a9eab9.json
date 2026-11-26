@@ -1,0 +1,24 @@
+{
+  "image": "negative/新华巷口1_20261120095002_01.jpg",
+  "image_sha256": "6ab27d95dacd39be614e2b7f2ccb4993145ea161c147ac8fdfbb6a94b3c93c91",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "人物手提一个白色塑料袋，前景堆放着棕色纸箱。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 521,
+    "completion_tokens": 191,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 129
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道阿迪达斯南_20261016171724_01.jpg",
+  "image_sha256": "f76487159e91b5f857794f98d7ace0b45e090cdbc71855b01aa329a0ca456f42",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿白色羽绒服的儿童手持一个黑色带扳机握把和绿色前端的枪形装置，旁边成人手持手机。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 346,
+    "total_tokens": 747,
+    "completion_tokens": 401,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 325
+    }
+  }
+}

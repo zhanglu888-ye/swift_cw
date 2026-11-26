@@ -1,0 +1,24 @@
+{
+  "image": "positive/尕寺巷5号院1号楼枪机2_20261122134403_01.jpg",
+  "image_sha256": "561955f43374aff31a80e83dcdf80d711cf9ab0b22bda2f6aa321aaf1372b681",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿格子衬衫的男孩手持一把黑色步枪形物体，可见枪托、弹匣与枪管结构。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 374,
+    "total_tokens": 593,
+    "completion_tokens": 219,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 145
+    }
+  }
+}

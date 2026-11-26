@@ -1,0 +1,24 @@
+{
+  "image": "negative/虎台一巷16号院大门口变焦枪机_20261119170608_04.jpg",
+  "image_sha256": "ec64296b49c62d28c4bff322ae6ffd16dac4c74c8dde071a713c92eef147aaa2",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿蓝白校服的学生手持一根细长暗色条状物，外观似细棍或细绳，无刀刃、斧刃、容器或枪弩结构。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 319,
+    "total_tokens": 577,
+    "completion_tokens": 258,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 173
+    }
+  }
+}

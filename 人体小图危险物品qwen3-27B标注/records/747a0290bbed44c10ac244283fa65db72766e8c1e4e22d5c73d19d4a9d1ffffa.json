@@ -1,0 +1,24 @@
+{
+  "image": "negative/虎台一巷4号院2号楼西变焦枪机_20261122140843_00.jpg",
+  "image_sha256": "3f1d8054864855f67e432ded976ce3e7470f243224381be81a940ea57c680432",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深色羽绒服的男子手提一个透明塑料袋，袋内可见带黄色笑脸图案的包装物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 958,
+    "total_tokens": 1222,
+    "completion_tokens": 264,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 193
+    }
+  }
+}

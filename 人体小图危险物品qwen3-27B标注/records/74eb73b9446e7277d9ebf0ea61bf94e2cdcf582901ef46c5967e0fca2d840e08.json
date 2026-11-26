@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261005163507_05.jpg",
+  "image_sha256": "10cce2342ad393536374bb157b7309672ca917812194813d6727037f4223a5bf",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "两人背对镜头行走，一人背黑色背包并提着一个酒红色手提包，未见其他目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 363,
+    "total_tokens": 629,
+    "completion_tokens": 266,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 193
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/新华巷口1_20261120095002_00.jpg",
+  "image_sha256": "848042083e1a1789b96aa88c9a6e579221e520f69f61756dabd682680a9c13f7",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深色制服的男子行走，身旁立有一个绿色液化气钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 671,
+    "completion_tokens": 346,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 281
+    }
+  }
+}

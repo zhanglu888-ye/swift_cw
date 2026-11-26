@@ -1,0 +1,24 @@
+{
+  "image": "positive/80-mp4_38_100x100_0_jpg.rf.b79569da21221558dd3ba41356cac366_00.jpg",
+  "image_sha256": "effa05f74259cdcbf5541104aeac66311740b87b417b8c6277f6ca2e3cb81c15",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑衣戴头套者双手前伸，手持一黑色手枪形物体指向右侧车辆。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 415,
+    "total_tokens": 641,
+    "completion_tokens": 226,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 155
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "image": "negative/唐道匡威店南_20261019125306_02.jpg",
+  "image_sha256": "9fa85bf5b551ecda507260cb61c423ba6d7ad2169335d5e29b8d4a951a7a15d2",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深色外套的人行走时手持一件带握把和向前管状结构的枪形物体。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 321,
+    "total_tokens": 539,
+    "completion_tokens": 218,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 147
+    }
+  }
+}

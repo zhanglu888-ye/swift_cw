@@ -1,0 +1,24 @@
+{
+  "image": "negative/刘家寨小区农贸市场西北角_20261118172047_01.jpg",
+  "image_sha256": "675ea5055aaa4da4ff5e66448fe65c46526c03f3360278a80cd56fdc8cd28fa9",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色上衣的女子手持白色纸张和深色文件夹状物品行走，背景为堆满纸箱的货架。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 498,
+    "total_tokens": 670,
+    "completion_tokens": 172,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 99
+    }
+  }
+}

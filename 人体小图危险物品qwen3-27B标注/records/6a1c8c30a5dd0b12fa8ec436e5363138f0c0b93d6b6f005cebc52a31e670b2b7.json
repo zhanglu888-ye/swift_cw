@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0008_00.jpg",
+  "image_sha256": "b9db1502d1c0ddaebadf9938cdd43cb6748efde608d2dd690b8a5763c0b961b7",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子手持一把带木质长柄的金属刃工具，金属头呈矩形块状带刃口，形似斧头。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 645,
+    "total_tokens": 1061,
+    "completion_tokens": 416,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 340
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/01e8fa2d8922e90b010370019a119a652c_115_587_00.jpg",
+  "image_sha256": "97cd5257af877bda173877df021f29e4ce3a063eaf87acbe08dbdc8e8afaf715",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴迷彩帽的人趴地持一支带光学瞄准镜的迷彩步枪架在沙袋上瞄准。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1995,
+    "total_tokens": 2263,
+    "completion_tokens": 268,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 193
+    }
+  }
+}

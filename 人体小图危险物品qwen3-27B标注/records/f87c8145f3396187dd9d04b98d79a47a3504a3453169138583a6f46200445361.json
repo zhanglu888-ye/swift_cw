@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0390_00.jpg",
+  "image_sha256": "083b3943bdc815ce099e7837a1ef5abf1909ec6adcb9624439f23de05b4b0856",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子蹲地手扶一个绿色液化石油气钢瓶顶部阀门，旁边立着一个白色包裹的钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 554,
+    "total_tokens": 843,
+    "completion_tokens": 289,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 214
+    }
+  }
+}

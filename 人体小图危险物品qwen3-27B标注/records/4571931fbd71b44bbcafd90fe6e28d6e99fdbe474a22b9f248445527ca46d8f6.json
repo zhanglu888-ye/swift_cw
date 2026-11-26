@@ -1,0 +1,26 @@
+{
+  "image": "negative/人民公园游船码头3号摄像机_20261121155329_02.jpg",
+  "image_sha256": "a32f8088d23e4f9f0ff84f2520d27a1366063d5e60afb4f75ea3c27037c790a9",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "背景人物手提一个带提梁的浅色水壶状容器，前景人物手持白色物体，其余未见目标。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 363,
+    "total_tokens": 706,
+    "completion_tokens": 343,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 270
+    }
+  }
+}

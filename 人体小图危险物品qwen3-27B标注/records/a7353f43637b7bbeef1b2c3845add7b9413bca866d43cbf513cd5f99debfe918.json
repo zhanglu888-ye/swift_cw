@@ -1,0 +1,24 @@
+{
+  "image": "negative/1320957559_FXTsTv_03.jpg",
+  "image_sha256": "f52a78a121607c48b60926ba41ca368d0ece8e97be289d6be13eea5f41218a36",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中有人手持白色小物件，并携带一个黑白条纹的包袋，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 539,
+    "completion_tokens": 209,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 138
+    }
+  }
+}

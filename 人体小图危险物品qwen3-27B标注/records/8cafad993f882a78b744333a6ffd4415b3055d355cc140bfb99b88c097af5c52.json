@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261007171608_04.jpg",
+  "image_sha256": "8c54ab41bbea67f206bbf4ef2198c084576b999e704229bf9509d811558b2c66",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名老年男子手提白色塑料袋，袋内可见白色盆状物及一黑色柄状物，其余人手持手机或背挎包。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 600,
+    "total_tokens": 923,
+    "completion_tokens": 323,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 243
+    }
+  }
+}

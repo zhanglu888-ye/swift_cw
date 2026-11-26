@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店南_20261007114011_00.jpg",
+  "image_sha256": "d16fcc3a1c91db7f61135cd99d5258e7f7edc0893d78eccdbc3cd1f24518ec5d",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色上衣的短发男子站立于地砖路面上，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 476,
+    "total_tokens": 682,
+    "completion_tokens": 206,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 138
+    }
+  }
+}

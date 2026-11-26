@@ -1,0 +1,24 @@
+{
+  "image": "negative/扛煤气罐_109_03.jpg",
+  "image_sha256": "c0c0a9a7aa576734f54d9f5f65d2719573d8df22cf9822404899239d297a8685",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "两名穿深色衣服的人站在蓝色卷帘门前，未见明显手持物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 503,
+    "completion_tokens": 178,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 113
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/南交通巷北口_20261121162350_04.jpg",
+  "image_sha256": "f850bf52234c018c9db24922754b99d32398d17c5737d7247d2c8403b022ed5f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "穿红色外套的男子一手举至耳边似持手机，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 374,
+    "total_tokens": 623,
+    "completion_tokens": 249,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 183
+    }
+  }
+}

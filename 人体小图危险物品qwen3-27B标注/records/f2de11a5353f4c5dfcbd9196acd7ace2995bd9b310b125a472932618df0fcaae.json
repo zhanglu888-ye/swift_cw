@@ -1,0 +1,24 @@
+{
+  "image": "negative/1483034978257342464_04.jpg",
+  "image_sha256": "7e3d55be81f87c947f9d01ce7cb9eb81dfb9f51140d0089cf2b235e6c3d760e9",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴口罩、穿红色外套和花纹上衣的女性，背景有一名穿蓝色衣服的男子，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 320,
+    "total_tokens": 490,
+    "completion_tokens": 170,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 98
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/虎台一巷16号院大门口变焦枪机_20261119170622_00.jpg",
+  "image_sha256": "2f050afc179299ccdac13f92e583f7e9512a41dda99f534afa866bee6c967808",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名小孩肩扛一根细长杆状物，外观模糊难以确认具体类型。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "不确定",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 339,
+    "total_tokens": 634,
+    "completion_tokens": 295,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 228
+    }
+  }
+}

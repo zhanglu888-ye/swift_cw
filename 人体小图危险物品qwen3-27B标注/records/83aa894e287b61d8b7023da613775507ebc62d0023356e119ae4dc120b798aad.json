@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道阿迪达斯北_20261006164436_02.jpg",
+  "image_sha256": "2ed633a4b3e7a32ff918e8979ecc98fb7ff815de0e5c388e58a72f95b1e74874",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名背对镜头、身穿黑色制服并印有“苏宁特保”字样的安保人员正在行走，双手自然下垂未见持物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 439,
+    "total_tokens": 654,
+    "completion_tokens": 215,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 136
+    }
+  }
+}

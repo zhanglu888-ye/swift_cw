@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店西_20261003143213_06.jpg",
+  "image_sha256": "b59b3f9e45677faa24d3a93468df1b7f38e7522650a8b0906b6653cd8f009398",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "几名行人正在行走，中间者穿棕色上衣和蓝色牛仔裤，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 507,
+    "completion_tokens": 182,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 113
+    }
+  }
+}

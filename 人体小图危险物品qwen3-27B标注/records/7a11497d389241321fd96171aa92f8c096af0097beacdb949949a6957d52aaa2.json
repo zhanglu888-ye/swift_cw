@@ -1,0 +1,24 @@
+{
+  "image": "positive/刘家寨小区农贸市场北门基站款摄像机_20261120093001_00.jpg",
+  "image_sha256": "e1c230eddbb65fc1ea32b32b4f69f29487e7e7f028beb0823b21bc97cbdb3004",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子怀抱一个绿色圆柱形金属钢瓶，瓶身带肩部护罩和顶部阀门，符合液化石油气钢瓶外观。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 327,
+    "total_tokens": 522,
+    "completion_tokens": 195,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 116
+    }
+  }
+}

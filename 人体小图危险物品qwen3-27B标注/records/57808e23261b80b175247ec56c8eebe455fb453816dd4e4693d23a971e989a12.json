@@ -1,0 +1,24 @@
+{
+  "image": "positive/青海省六一幼儿园厨房粗加工间_20261118103704_01.jpg",
+  "image_sha256": "512159260492f430bc5fd9e9b0bae796a0fa3a61c4949d9f9f910cb16d59ed0c",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "厨师手持一把金属菜刀在绿色案板上切辣椒等蔬菜，案板与不锈钢盆中盛有切好的配料。",
+    "刀具": "有",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 408,
+    "total_tokens": 653,
+    "completion_tokens": 245,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 169
+    }
+  }
+}

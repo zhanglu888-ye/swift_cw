@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0051_00.jpg",
+  "image_sha256": "e87e2dc4c71966538cf09616bd064cab514e5d52083f11dd29af5cd98cefd7c4",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中有一把长木柄金属斧头，背景为户外木柴堆与树桩。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 555,
+    "total_tokens": 858,
+    "completion_tokens": 303,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 232
+    }
+  }
+}

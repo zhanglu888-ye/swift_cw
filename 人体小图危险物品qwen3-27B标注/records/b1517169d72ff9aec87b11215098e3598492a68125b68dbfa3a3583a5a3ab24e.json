@@ -1,0 +1,24 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索 (5)_104_00.jpg",
+  "image_sha256": "8b1b21aa0791521aab2c8148b979ce948c4188607c7e0f27d0a44916ed95fde1",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人手持一把黑色现代弩，可见弓臂、弦与前端箭矢结构。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 673,
+    "total_tokens": 876,
+    "completion_tokens": 203,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 135
+    }
+  }
+}

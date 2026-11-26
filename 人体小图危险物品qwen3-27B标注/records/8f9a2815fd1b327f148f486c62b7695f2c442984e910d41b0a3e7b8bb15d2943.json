@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0391_00.jpg",
+  "image_sha256": "6d075e258e18913fa53dd722977690f4a0626715d61c8963af775e63bbcaff6f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿反光背心的男子蹲扶着一个绿色液化气钢瓶，旁边立着一个白色袋装钢瓶，袋面印有红色“液化石”等字样。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 567,
+    "total_tokens": 832,
+    "completion_tokens": 265,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 181
+    }
+  }
+}

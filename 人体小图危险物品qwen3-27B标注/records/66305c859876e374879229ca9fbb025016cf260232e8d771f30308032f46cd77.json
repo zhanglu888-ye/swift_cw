@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261023212402_05.jpg",
+  "image_sha256": "5f5b023dbbbf65d2c0a18b8ad3177fe37a6f1f53a8cd632911544351aed85ed1",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色制服背对镜头行走的人员，腰间配有装备，左侧边缘可见他人手持模糊带环物体。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 642,
+    "completion_tokens": 317,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 243
+    }
+  }
+}

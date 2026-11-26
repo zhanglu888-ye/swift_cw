@@ -1,0 +1,24 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索_46_00.jpg",
+  "image_sha256": "d30db46463cc3a23b2b28e02fc721307910c6ef2b9f47a10b99a887a59c032f6",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深色制服戴帽子和墨镜的男子双手持一把迷彩涂装、带瞄准镜的长枪。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 675,
+    "total_tokens": 840,
+    "completion_tokens": 165,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 93
+    }
+  }
+}

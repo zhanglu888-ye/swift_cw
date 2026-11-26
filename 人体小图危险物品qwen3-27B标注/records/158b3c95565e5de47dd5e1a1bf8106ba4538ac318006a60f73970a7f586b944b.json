@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道西关大街停车场入口东_20261024144702_00.jpg",
+  "image_sha256": "4c9561a0fb9ac73a0e6bd2392047585c387260ca5b2bb0cfeb5e580c0936e23a",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿粉色上衣的女子肩背棕色包，右手持一部橙色手机。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 567,
+    "total_tokens": 721,
+    "completion_tokens": 154,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 88
+    }
+  }
+}

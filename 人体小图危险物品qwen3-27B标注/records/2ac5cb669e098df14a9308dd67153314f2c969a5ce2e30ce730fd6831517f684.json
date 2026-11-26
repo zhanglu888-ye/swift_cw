@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道苹果手机店北_20261107150512_05.jpg",
+  "image_sha256": "2d4aece78e9d10388cca164a3b325e71cb970eefe445c9f14bce8f3dad923460",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一辆红色带车厢的三轮车，可见车头双大灯、后视镜和车把。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 390,
+    "total_tokens": 555,
+    "completion_tokens": 165,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 98
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/01ea7296b55d0611010370019fcf9e017b_301_33_00.jpg",
+  "image_sha256": "30a9450b6fb39f26d0908b5c03db65ba58708ed3047dd04ec539e1794ea9f5a7",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿战术装备的人手持一把木制现代复原弩，可见横向弓臂、弦及箭槽结构。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1403,
+    "total_tokens": 1661,
+    "completion_tokens": 258,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 185
+    }
+  }
+}

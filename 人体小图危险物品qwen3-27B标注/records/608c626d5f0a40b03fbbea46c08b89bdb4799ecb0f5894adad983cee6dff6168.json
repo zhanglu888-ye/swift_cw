@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道苹果手机店北_20261017154040_00.jpg",
+  "image_sha256": "3f049bd6f2baad5a9cc1f15e039410c483f6ff8e2957761991f70597ca201911",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色上衣的男子背对镜头站立，右手自然下垂且手中空无一物，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 749,
+    "total_tokens": 932,
+    "completion_tokens": 183,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 110
+    }
+  }
+}

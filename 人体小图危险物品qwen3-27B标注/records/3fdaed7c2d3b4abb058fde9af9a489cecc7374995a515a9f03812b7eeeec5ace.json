@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道三岔口南摄像机_20261024171030_01.jpg",
+  "image_sha256": "8bf3c98152b1b3b5f41c2e0aa5988a31d8de397d4d3060e9d230523c4ec80b7b",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色连帽外套的人手持一支黑色步枪形物体，可见枪管与握把结构。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 339,
+    "total_tokens": 555,
+    "completion_tokens": 216,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 144
+    }
+  }
+}

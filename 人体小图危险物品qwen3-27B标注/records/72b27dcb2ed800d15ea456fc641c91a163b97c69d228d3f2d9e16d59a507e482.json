@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0087_00.jpg",
+  "image_sha256": "105bc708c09973433c8a0f472dc25c57251055d532126e8800cc0a2bf71cb0fa",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名赤膊男子双手举过头顶握着一把长柄方形金属头的大斧。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 507,
+    "total_tokens": 700,
+    "completion_tokens": 193,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 124
+    }
+  }
+}

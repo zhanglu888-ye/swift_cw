@@ -1,0 +1,26 @@
+{
+  "image": "positive/唐道匡威店南_20261119103530_01.jpg",
+  "image_sha256": "248d40c25895f264e5e680fc184eadd24df427bd01dd566d94f4b6581d332662",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人肩扛白色半透明袋状物，右手持一细长深色条状物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 645,
+    "total_tokens": 946,
+    "completion_tokens": 301,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 232
+    }
+  }
+}

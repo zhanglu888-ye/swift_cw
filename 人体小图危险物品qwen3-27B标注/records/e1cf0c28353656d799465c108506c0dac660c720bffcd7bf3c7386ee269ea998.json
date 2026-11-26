@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道阿迪达斯北_20261115115314_00.jpg",
+  "image_sha256": "5bddc645e06cd2d4cc9a21023ea6ffd8abc7a022c44651d7dbaf6bb204ade934",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色连帽羽绒服、戴眼镜的男子背对镜头行走，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 431,
+    "total_tokens": 631,
+    "completion_tokens": 200,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 130
+    }
+  }
+}

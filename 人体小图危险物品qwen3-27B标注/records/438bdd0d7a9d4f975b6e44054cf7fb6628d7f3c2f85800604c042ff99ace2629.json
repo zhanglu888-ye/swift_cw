@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0359_00.jpg",
+  "image_sha256": "aec2b3b9aae89fc74e346211be5a0990f1a48556f97c9205cd74132d43ba6176",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子手持一根长柄黑色斧头，周围地面堆放着已砍伐的树桩。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 555,
+    "total_tokens": 850,
+    "completion_tokens": 295,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 224
+    }
+  }
+}

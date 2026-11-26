@@ -1,0 +1,24 @@
+{
+  "image": "negative/01ea6aef9a1f927c010370019fb1b93e33_309_9_01.jpg",
+  "image_sha256": "12dbe2e3866fb9ac8edc248bf85e60e8d1040d606d6571aa7df5ae9a362d4ea1",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子腰间挂有黑色袋状物，背景可见一白色圆形物体。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 375,
+    "total_tokens": 648,
+    "completion_tokens": 273,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 207
+    }
+  }
+}

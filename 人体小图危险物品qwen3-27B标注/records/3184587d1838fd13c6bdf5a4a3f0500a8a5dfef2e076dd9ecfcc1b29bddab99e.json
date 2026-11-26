@@ -1,0 +1,26 @@
+{
+  "image": "negative/虎台二巷梧桐午托班后厨_20261118105136_00.jpg",
+  "image_sha256": "c01382d0bf28b1140641b6e2ea750e590b973183b95a5510c3863121d8c909c4",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "厨房操作台旁，台面放有切好的茄子块、金属盆及一个带绿色标签的白色塑料桶，前景人物穿红衣戴蓝帽背对镜头。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 580,
+    "total_tokens": 1012,
+    "completion_tokens": 432,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 347
+    }
+  }
+}

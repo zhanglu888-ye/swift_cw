@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道西关大街停车场入口东_20261106131604_00.jpg",
+  "image_sha256": "af0c8cb4e48b86930aace435615abb1c911b769c7e8dbe558cf6de5a32de9172",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "小孩手持一把带橙色部件的黑色枪形物体。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1887,
+    "total_tokens": 2090,
+    "completion_tokens": 203,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 142
+    }
+  }
+}

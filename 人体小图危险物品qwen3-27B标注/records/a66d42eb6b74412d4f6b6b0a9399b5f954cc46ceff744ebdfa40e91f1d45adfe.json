@@ -1,0 +1,24 @@
+{
+  "image": "negative/虎台二巷梧桐午托班后厨_20261119094515_01.jpg",
+  "image_sha256": "c5ddd2d7387e313e62d176d7188f2ee18371a123a09eab09c6b0470d6ef126a8",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "几名穿红色上衣、系白色围裙、戴蓝色发网的工作人员背对镜头站立，右下角台面可见一把红色手柄的剪刀。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 485,
+    "total_tokens": 749,
+    "completion_tokens": 264,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 185
+    }
+  }
+}

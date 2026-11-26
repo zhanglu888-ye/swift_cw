@@ -1,0 +1,24 @@
+{
+  "image": "positive/01ea7296b55d0611010370019fcf9e017b_301_183_01.jpg",
+  "image_sha256": "de58cd5b33d9b08f4cc91a3365b4137a2ea573b3e44c4df9f2d749da941fabd1",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子手持一个木制连发弩装置，可见横向弓臂、弓弦及木制发射箱体结构。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1655,
+    "total_tokens": 1941,
+    "completion_tokens": 286,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 214
+    }
+  }
+}

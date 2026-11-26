@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0004_01.jpg",
+  "image_sha256": "e799bb6ef8123a3eac2bd08b254e42e41ca023409891f4fabfd3901cfaf03f58",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子手提一个白色液化石油气钢瓶，另一手持一根细长弯曲的绳状物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 399,
+    "total_tokens": 674,
+    "completion_tokens": 275,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 204
+    }
+  }
+}

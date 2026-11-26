@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261010193756_07.jpg",
+  "image_sha256": "19553f19328fa61fdcfb371196cf63d4c6d1f930337b0be816d6ebec08beaf7e",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿白色外套的人手持浅色纸张或文件状物品行走，背景有戴黄色安全帽者。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 561,
+    "completion_tokens": 236,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 165
+    }
+  }
+}

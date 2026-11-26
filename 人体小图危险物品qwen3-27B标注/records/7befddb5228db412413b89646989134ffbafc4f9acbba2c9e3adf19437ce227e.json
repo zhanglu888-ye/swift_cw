@@ -1,0 +1,24 @@
+{
+  "image": "negative/01e9abaaab511784010370019cc696bc68_115 (1)_110_00.jpg",
+  "image_sha256": "5fceaf7a1da8fca13b83a1fb63dc37bb5fa1a22fb23cac20fc6833d6cc522f7a",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "两人站立于户外，背景有堆放的袋状物，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 345,
+    "total_tokens": 614,
+    "completion_tokens": 269,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 202
+    }
+  }
+}

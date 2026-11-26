@@ -1,0 +1,26 @@
+{
+  "image": "negative/唐道8号门_20261107194621_07.jpg",
+  "image_sha256": "249de0f285c0d6591a11c2ad0c7df4717ea7ce1ae9d57658fa98ea9c02a8cac3",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深色衣裤的人背对镜头，身侧垂有一根细长条状物，外观模糊难以辨认。",
+    "刀具": "不确定",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 693,
+    "completion_tokens": 368,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 293
+    }
+  }
+}

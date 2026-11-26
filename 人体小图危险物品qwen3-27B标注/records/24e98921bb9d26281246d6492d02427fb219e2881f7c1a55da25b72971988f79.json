@@ -1,0 +1,24 @@
+{
+  "image": "positive/88-mp4_21_100x100_0_jpg.rf.ab42e40c4f97db4c7d9e3ed5e47ce8fc_02.jpg",
+  "image_sha256": "fd7d3ce1865b83c50c2b47e1419e7c5726d54d36b0565595ac32f5c0b5d88e6e",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿浅色上衣的人双手在胸前握持一个模糊的深色物体，画面分辨率低细节不清。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "不确定",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 335,
+    "total_tokens": 636,
+    "completion_tokens": 301,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 229
+    }
+  }
+}

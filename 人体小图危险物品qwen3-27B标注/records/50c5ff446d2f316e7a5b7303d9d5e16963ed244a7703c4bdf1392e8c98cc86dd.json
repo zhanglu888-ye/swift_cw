@@ -1,0 +1,26 @@
+{
+  "image": "negative/唐道匡威店西_20261003131604_04.jpg",
+  "image_sha256": "53c878ff5e8717c75a280b1c1f06eed7af63212afc3e982a6ade4d886a9d6545",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "行人手提浅色袋子，背景中一人手提红色带提手桶状容器。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 596,
+    "completion_tokens": 266,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 199
+    }
+  }
+}

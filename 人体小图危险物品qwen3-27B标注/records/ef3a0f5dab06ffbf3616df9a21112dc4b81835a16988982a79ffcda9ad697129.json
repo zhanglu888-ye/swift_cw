@@ -1,0 +1,24 @@
+{
+  "image": "negative/北气象巷路口祭祀点_20261116173533_08.jpg",
+  "image_sha256": "256d0211e1c9e8ae07be10343cdb9550a1f2799193dfdc78ae98e9bb92c483f8",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿绿色背心粉色裤子的孩子手持一辆粉色滑板车，旁边有一名穿蓝色上衣的人站在台阶上。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 335,
+    "total_tokens": 555,
+    "completion_tokens": 220,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 146
+    }
+  }
+}

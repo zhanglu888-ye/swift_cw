@@ -1,0 +1,24 @@
+{
+  "image": "negative/人民公园游船码头3号摄像机_20261121155329_03.jpg",
+  "image_sha256": "41cc639e7d264d3de520ba68dfe51716d568cd64cc0d7c406ea946fad64738fa",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿白色连帽外套、黑色长裤和白色运动鞋的女子背对镜头站立，旁边有一名穿灰色外套的男子，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 562,
+    "completion_tokens": 232,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 152
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索 (5)_27_00.jpg",
+  "image_sha256": "ee61eeeb1225c8a05c02d4cb098a91029c9c7f51b94b5780ebee8d64d166ad05",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "手持一件木制弩形装置，由竖直木条、红棕色横杆及红黄相间的彩色弦线组成。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 767,
+    "total_tokens": 1095,
+    "completion_tokens": 328,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 252
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/扛煤气罐_004_00.jpg",
+  "image_sha256": "13198962e9e8e5d0ee14452e865a03c321de8edcc2f83b95a8bbd750c8320731",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿防护服、戴黄色头盔的消防员站在门口，身旁一个金属液化气钢瓶正在喷火。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 663,
+    "completion_tokens": 330,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 258
+    }
+  }
+}

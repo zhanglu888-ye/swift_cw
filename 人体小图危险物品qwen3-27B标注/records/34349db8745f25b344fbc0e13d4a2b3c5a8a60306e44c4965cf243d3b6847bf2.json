@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0507_00.jpg",
+  "image_sha256": "ed2fefde9f4526a11a582907eb2b6c485878ec1e13514681a871362b89426f24",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿绿色上衣的男子双手高举一把带长柄的金属斧头，背景为堆叠的木柴，前方有一截树桩。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 567,
+    "total_tokens": 839,
+    "completion_tokens": 272,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 193
+    }
+  }
+}

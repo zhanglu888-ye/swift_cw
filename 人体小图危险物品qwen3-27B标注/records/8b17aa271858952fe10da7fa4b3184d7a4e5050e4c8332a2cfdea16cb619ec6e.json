@@ -1,0 +1,26 @@
+{
+  "image": "positive/刘家寨小区农贸市场西北角_20261123142816_03.jpg",
+  "image_sha256": "1ce4cdd46538e93a323962362491598997b9a3168e322dd2a71ba299b07ad714",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人穿黑色运动服站立，手中拿着一张白色纸张状物品，旁边有绿色台面桌子和红色柜子。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 320,
+    "total_tokens": 524,
+    "completion_tokens": 204,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 129
+    }
+  }
+}

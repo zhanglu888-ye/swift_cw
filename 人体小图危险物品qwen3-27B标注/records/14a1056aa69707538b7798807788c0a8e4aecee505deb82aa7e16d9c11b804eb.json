@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店南_20261002125928_03.jpg",
+  "image_sha256": "249d273ed5242107fd16360e646c39afcad024ff3d0cd842280627dd45fa48c4",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人手持带图案的饮料杯，另一人提着粉白色购物袋并搭着黑色外套。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 351,
+    "total_tokens": 609,
+    "completion_tokens": 258,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 187
+    }
+  }
+}

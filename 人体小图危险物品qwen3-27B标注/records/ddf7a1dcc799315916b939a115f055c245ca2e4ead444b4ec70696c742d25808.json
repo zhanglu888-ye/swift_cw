@@ -1,0 +1,24 @@
+{
+  "image": "negative/南交通巷北口_20261121162439_00.jpg",
+  "image_sha256": "9c81c55380b2c4fcfea5efcfd9643e58a461236f28c3400228686514e398c7fd",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "穿黑色连帽外套的男子左手持一个蓝紫色小瓶状物，其余手空着。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 464,
+    "total_tokens": 714,
+    "completion_tokens": 250,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 179
+    }
+  }
+}

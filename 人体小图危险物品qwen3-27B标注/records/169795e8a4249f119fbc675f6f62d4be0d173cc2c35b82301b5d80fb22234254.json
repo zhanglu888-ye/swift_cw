@@ -1,0 +1,24 @@
+{
+  "image": "negative/u=3219575410,1848916312_fm=253_fmt=auto_app=138_f=JPEG_04.jpg",
+  "image_sha256": "84f0c0d2dfbd2a22c8968c9f1e426a37043d3f8f76623c78403a15c673d77132",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人手持一把紫色雨伞。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 475,
+    "completion_tokens": 142,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 86
+    }
+  }
+}

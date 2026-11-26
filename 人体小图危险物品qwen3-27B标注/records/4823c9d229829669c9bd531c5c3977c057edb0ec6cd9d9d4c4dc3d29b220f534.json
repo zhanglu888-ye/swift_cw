@@ -1,0 +1,24 @@
+{
+  "image": "positive/4-mp4_236_100x100_0_jpg.rf.94dda96e5bda99668cb7d8957b01a04f_02.jpg",
+  "image_sha256": "a9d596a520d42a6d9028d8759fbe6c8a8faa9d6e40957c24c2dc4b5bcec17a35",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴头套、穿蓝色运动服者向前伸手握持一细长深色物体，外观模糊疑似刀具。",
+    "刀具": "不确定",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 357,
+    "total_tokens": 711,
+    "completion_tokens": 354,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 280
+    }
+  }
+}

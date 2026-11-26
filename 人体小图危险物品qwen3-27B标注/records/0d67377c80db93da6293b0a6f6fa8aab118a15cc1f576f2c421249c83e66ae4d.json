@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道匡威店南_20261003112454 (1)_04.jpg",
+  "image_sha256": "b6beb31f7dbb5f0975fa42a55e8d85cf0b5f2ce8988216e9172a73129b301b38",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男孩肩扛一根黑色长条状枪形物体，另一手提着一个白色塑料袋。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 531,
+    "total_tokens": 773,
+    "completion_tokens": 242,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 173
+    }
+  }
+}

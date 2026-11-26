@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0160_01.jpg",
+  "image_sha256": "1e2992fbc4e062d59ec9e6a4fa8d84633ae19f1f5f2e6df5d8119d7636c2c723",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "两人共同提着一个灰绿色金属罐体，顶部带阀门护手，罐身印有红色“奥天兴”字样，为液化石油气钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 567,
+    "total_tokens": 774,
+    "completion_tokens": 207,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 123
+    }
+  }
+}

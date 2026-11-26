@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261112192201_05.jpg",
+  "image_sha256": "1a0f44d7a0247d9808f289305479c6fe3a3f6fc451fbcff9e2d9fb629efba2e4",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "前景一名穿黑色红字外套戴眼镜的男子手举至嘴边，背景数人站立，其中一人背黑色背包，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 567,
+    "completion_tokens": 242,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 162
+    }
+  }
+}

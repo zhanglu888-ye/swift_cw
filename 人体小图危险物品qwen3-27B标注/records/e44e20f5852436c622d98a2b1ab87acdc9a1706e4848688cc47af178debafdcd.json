@@ -1,0 +1,24 @@
+{
+  "image": "negative/虎台一巷中段东侧人行辅道人脸检测朝西南_202611171217_02.jpg",
+  "image_sha256": "07fac9f9af5056e7092925049b28b447f4c7e9792146d2de02571e8e4457df73",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿荧光黄反光背心、戴红色安全帽的工人手持一根细长杆状物，未见目标类别物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 570,
+    "completion_tokens": 245,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 171
+    }
+  }
+}

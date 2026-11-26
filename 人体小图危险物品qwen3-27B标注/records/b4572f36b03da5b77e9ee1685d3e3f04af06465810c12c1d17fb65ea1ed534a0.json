@@ -1,0 +1,24 @@
+{
+  "image": "negative/北气象巷路口祭祀点_20261123115912_10.jpg",
+  "image_sha256": "7c2554c5b0fd0bc5ebb1e70b1506c78a56c048f2636740342e0cbada929daf4f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "两名穿绿白红相间校服外套的人站立在户外地面上，左侧者脚边有一滑板状物体，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 558,
+    "completion_tokens": 233,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 155
+    }
+  }
+}

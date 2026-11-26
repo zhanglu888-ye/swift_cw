@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0143_00.jpg",
+  "image_sha256": "666407d3a1e24e5716e7a43afcd1d0bf40193c4494408328f839b3f6a9227b69",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "手持一个灰色带提梁和黄色侧把手的大容量塑料桶/水壶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 567,
+    "total_tokens": 781,
+    "completion_tokens": 214,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 147
+    }
+  }
+}

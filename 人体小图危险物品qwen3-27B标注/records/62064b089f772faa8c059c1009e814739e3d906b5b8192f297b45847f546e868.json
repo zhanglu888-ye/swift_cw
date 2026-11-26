@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道同盛路停车场入口_20261025115550_06.jpg",
+  "image_sha256": "da9ac34290e1398eb8225cc65edb574e5a41374d54fa12b72e4ac463f9e6040e",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黄色上衣和条纹裤的女子背斜挎包并手提白色塑料袋，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 516,
+    "completion_tokens": 191,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 120
+    }
+  }
+}

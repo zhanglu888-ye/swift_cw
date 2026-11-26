@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0175_01.jpg",
+  "image_sha256": "4ede8874012ff327066e358503266f86fef4f961fc7495c27d82eaf1c388a6ba",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿白色T恤和红色短裤的男子背对镜头行走，左手提着一个绿色圆柱形液化气钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 559,
+    "completion_tokens": 234,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 160
+    }
+  }
+}

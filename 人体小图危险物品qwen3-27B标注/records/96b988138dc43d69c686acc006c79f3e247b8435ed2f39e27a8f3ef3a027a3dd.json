@@ -1,0 +1,26 @@
+{
+  "image": "negative/虎台二巷梧桐午托班后厨_20261119094318_00.jpg",
+  "image_sha256": "c4897f9c0136113b425478565db415e3003caccb7a4121474190e9540679f14f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "厨师一手持不锈钢锅盖、一手扶着一个不锈钢大汤桶，灶台上另放有多个不锈钢锅具。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 751,
+    "total_tokens": 1227,
+    "completion_tokens": 476,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 403
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/01e921b6646407df010370019aabb635dd_115_13_00.jpg",
+  "image_sha256": "67b141d5ef3def143e3d60f3def5705ec37bb519bc4f09289294f4deff69bec1",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中为两名穿深色衣物的人，一人弯腰一人站立穿拖鞋，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 671,
+    "total_tokens": 843,
+    "completion_tokens": 172,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 101
+    }
+  }
+}

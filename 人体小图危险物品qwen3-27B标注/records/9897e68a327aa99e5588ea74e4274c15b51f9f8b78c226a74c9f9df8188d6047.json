@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道苹果手机店北_20261017154040_04.jpg",
+  "image_sha256": "821d72ff760b0f0e6e430d734aba94785c3e7d74b9ae784f0a8fac7b74fbafc8",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面为一名短发穿深色连帽衫者的背影，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 585,
+    "total_tokens": 762,
+    "completion_tokens": 177,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 110
+    }
+  }
+}

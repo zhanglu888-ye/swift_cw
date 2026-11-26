@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道637火车250006 (1)_00.jpg",
+  "image_sha256": "6c30060f63f830203817982c4172dc8b4977efa98ef9cef0aa0f672037ec2e15",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "手推车上放着两个带白色瓶盖的蓝色大容量桶装水，旁边停着一辆蓝色三轮车。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 591,
+    "total_tokens": 841,
+    "completion_tokens": 250,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 178
+    }
+  }
+}

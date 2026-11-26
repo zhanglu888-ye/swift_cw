@@ -1,0 +1,26 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索 (3)_20_00.jpg",
+  "image_sha256": "99fbd26da5aee4acbef8c45d310db88d4e0c6678c4e0394195bfaceff21268d4",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名女子靠在木桌上，旁边堆放着多根竹木长条及弯曲木构件，背景有黄色袋子和杂物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 627,
+    "total_tokens": 859,
+    "completion_tokens": 232,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 155
+    }
+  }
+}

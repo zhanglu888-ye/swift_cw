@@ -1,0 +1,26 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索 (2)_3_01.jpg",
+  "image_sha256": "0bbda2e177750d2bb6f28688593603956a6b56130012b77f82c0f9d166d92e52",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿红色背心、戴口罩的男子双手握持一根长条状木棍形物体扛于肩侧。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 590,
+    "completion_tokens": 257,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 184
+    }
+  }
+}

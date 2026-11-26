@@ -1,0 +1,24 @@
+{
+  "image": "positive/兴海路11号院西南角枪机2_20261122132732_00.jpg",
+  "image_sha256": "3e9495eb3aa5609ec9a567a18b5d5a4de329923d97a6fc47adf19ccac6cd5713",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿蓝色外套的人手持一把带弹匣和长枪管的步枪形物体。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 353,
+    "total_tokens": 545,
+    "completion_tokens": 192,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 125
+    }
+  }
+}

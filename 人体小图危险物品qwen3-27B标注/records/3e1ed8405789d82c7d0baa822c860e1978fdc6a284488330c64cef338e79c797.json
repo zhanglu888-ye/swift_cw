@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261017083049_01.jpg",
+  "image_sha256": "158c13bb2120818aee2c95f6456f847ed4eb002f079b586ae17914e443b2697b",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黄色制服、戴黄色头盔和黑色面罩的人骑在装有黑色挡风被的电动车上，未见明显手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 408,
+    "total_tokens": 627,
+    "completion_tokens": 219,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 140
+    }
+  }
+}

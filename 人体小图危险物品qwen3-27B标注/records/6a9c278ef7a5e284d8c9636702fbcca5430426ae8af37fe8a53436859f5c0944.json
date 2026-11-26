@@ -1,0 +1,24 @@
+{
+  "image": "positive/人民公园大门口出口1号摄像机_20261122161610_05.jpg",
+  "image_sha256": "155a64e01d0373eabdf0d93f1df22429686b813aae0f824ff97dda2f430166d1",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色连帽羽绒服、戴口罩的人站立，画面右下方有一根黑色细长杆状物体斜向伸出，形似长枪枪管。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 654,
+    "completion_tokens": 324,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 243
+    }
+  }
+}

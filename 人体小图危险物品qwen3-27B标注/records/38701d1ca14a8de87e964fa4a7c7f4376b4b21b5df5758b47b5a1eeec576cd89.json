@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店南_20261017132432_00.jpg",
+  "image_sha256": "a5f3e3c46ea781a0ffa1260ad068a5005baf33e013df6187fc066b5db0ca7c68",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深色夹克、白色内搭和黑色长裤的男子行走，身旁可见带红白黑条纹的背包。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 658,
+    "completion_tokens": 328,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 254
+    }
+  }
+}

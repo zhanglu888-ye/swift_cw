@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道匡威店西_20261111133853_00.jpg",
+  "image_sha256": "32e9781a72731caadc90854122893398378ca4f2f4dc9992e6850503940f0e07",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴帽男子手推一辆载有多个蓝色大容量塑料桶的手推车。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 431,
+    "total_tokens": 633,
+    "completion_tokens": 202,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 136
+    }
+  }
+}

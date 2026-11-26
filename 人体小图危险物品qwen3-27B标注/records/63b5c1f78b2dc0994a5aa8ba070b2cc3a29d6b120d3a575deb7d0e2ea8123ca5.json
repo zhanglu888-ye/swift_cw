@@ -1,0 +1,24 @@
+{
+  "image": "positive/u=1568882829,340997024_fm=253_fmt=auto_app=138_f=JPEG_02.jpg",
+  "image_sha256": "8f4f9fb5c5df7eceb818445ebd0c421e6e53936afeeb811846adad30270d2eb1",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "消防员手扶一只灰色金属液化石油气钢瓶，瓶身印有红色“液化石”等字样，顶部带阀门护罩。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 502,
+    "total_tokens": 721,
+    "completion_tokens": 219,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 140
+    }
+  }
+}

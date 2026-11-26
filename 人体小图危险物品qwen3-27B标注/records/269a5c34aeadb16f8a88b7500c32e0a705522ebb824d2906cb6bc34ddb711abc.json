@@ -1,0 +1,24 @@
+{
+  "image": "negative/校园西门北侧外墙照北-五四小学-平安校园_20261121093257_02.jpg",
+  "image_sha256": "1e44450d61d850b468d31f7f3997796305992d4b33744dcad2f59ee75946a906",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深色衣裤的人背对镜头行走，手中未见明显物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 494,
+    "completion_tokens": 169,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 103
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/东交通巷口农商银行门口人脸检测照西_20261119143751 (2)_02.jpg",
+  "image_sha256": "1971d53a2697acdc1e87c23cba10b8871e0eeecada3990df5a34491e007666c9",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "前景女子手持一部手机，背景女子手持一红色物件，未见其他目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 357,
+    "total_tokens": 517,
+    "completion_tokens": 160,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 92
+    }
+  }
+}

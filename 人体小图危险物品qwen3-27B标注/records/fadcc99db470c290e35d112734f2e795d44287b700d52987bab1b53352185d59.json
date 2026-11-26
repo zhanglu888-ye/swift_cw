@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店南_20261003201433_03.jpg",
+  "image_sha256": "bc972b1ac13e245696021a9d8062b89da985ebeb711af36b71313858c7799f44",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "两名穿深色制服戴帽的安保人员行走，背景停放摩托车，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 409,
+    "total_tokens": 633,
+    "completion_tokens": 224,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 154
+    }
+  }
+}

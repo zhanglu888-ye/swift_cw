@@ -1,0 +1,26 @@
+{
+  "image": "positive/海湖幼儿园后厨操作间1_20261117104749_00.jpg",
+  "image_sha256": "d19dc70167ac26f3da1b40956cc564c7c89ff0187df5ec8ce5ad1abd6e4a5667",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴口罩和蓝色帽子、系棕色围裙的人手持一个绿色小物件在操作台边工作。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 759,
+    "total_tokens": 1108,
+    "completion_tokens": 349,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 277
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道三岔口北_20261027152039_01.jpg",
+  "image_sha256": "104e2fb03639752e19c5c8226b63b2245415380de4ca9277cd6801a5f81f872b",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色运动服的男子手握长柄清洁工具，旁边可见一个黄色带轮塑料桶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 345,
+    "total_tokens": 673,
+    "completion_tokens": 328,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 257
+    }
+  }
+}

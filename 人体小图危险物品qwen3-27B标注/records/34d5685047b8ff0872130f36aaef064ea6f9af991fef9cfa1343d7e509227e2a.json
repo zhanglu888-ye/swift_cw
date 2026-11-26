@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店西_20261115124508_06.jpg",
+  "image_sha256": "1c31f31be7b0f5d202770706f1b9cf958da715d89fc0a4d8a5fa6d9f8bb547ab",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中为一个黑色立式箱体设备，表面有白色标签区域，背景可见停放的汽车与摩托车。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 498,
+    "completion_tokens": 165,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 93
+    }
+  }
+}

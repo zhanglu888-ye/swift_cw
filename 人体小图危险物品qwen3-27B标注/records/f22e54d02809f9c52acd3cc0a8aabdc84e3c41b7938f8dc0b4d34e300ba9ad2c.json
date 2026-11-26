@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道西关大街停车场入口东_20261031150636_02.jpg",
+  "image_sha256": "1651d01b9ab45eac57b21c04258d01f10109892d91d852457aa4fc0a5dedc4e1",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿枫叶图案长外套、深色长裤和白色运动鞋的人站立，未见手持物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 495,
+    "total_tokens": 666,
+    "completion_tokens": 171,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 102
+    }
+  }
+}

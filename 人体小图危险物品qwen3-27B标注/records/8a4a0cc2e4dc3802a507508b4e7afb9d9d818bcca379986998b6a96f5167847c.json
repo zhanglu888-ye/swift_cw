@@ -1,0 +1,26 @@
+{
+  "image": "positive/唐道阿迪达斯北_20261029165925_01.jpg",
+  "image_sha256": "e489728667c7361c927ef458918a83a36070eb52db53ecd8129af1bdc72046a9",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深色衣服戴帽的男子手提一个装有深红色液体的透明塑料瓶，旁边堆放着纸箱。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 351,
+    "total_tokens": 695,
+    "completion_tokens": 344,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 272
+    }
+  }
+}

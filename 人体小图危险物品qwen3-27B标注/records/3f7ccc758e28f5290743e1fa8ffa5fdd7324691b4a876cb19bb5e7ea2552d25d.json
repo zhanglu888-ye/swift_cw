@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261007184226_03.jpg",
+  "image_sha256": "d6f47aa8d85105a63fac8dc9766fa11ef0041c71749728f8e79b0886bfe3dea7",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "戴头盔者手持一个白色扁平长方形物体（疑似手机或卡片）。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 578,
+    "total_tokens": 744,
+    "completion_tokens": 166,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 101
+    }
+  }
+}

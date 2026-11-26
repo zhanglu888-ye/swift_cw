@@ -1,0 +1,24 @@
+{
+  "image": "positive/人民公园游船码头3号摄像机_20261121155329_01.jpg",
+  "image_sha256": "7fd00cb8d8408c73e1b91eacc3eaddaf17f0215b364a8c99360cfb2c23cb133c",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色长袍戴头巾的人手持手机，身前斜挂一把带紫色枪身的步枪形物体。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 600,
+    "completion_tokens": 275,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 201
+    }
+  }
+}

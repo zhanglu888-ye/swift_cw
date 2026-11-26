@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0383_00.jpg",
+  "image_sha256": "895037ead36148724cf695bddfba6cda22c0f73cc65f4e99f946fd1414f06cc6",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中一名穿红黑背心者身旁放置两个液化石油气钢瓶，一个绿色、一个白色带红色字样。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 593,
+    "total_tokens": 822,
+    "completion_tokens": 229,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 153
+    }
+  }
+}

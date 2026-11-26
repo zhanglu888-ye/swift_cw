@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店南_20261031133248_02.jpg",
+  "image_sha256": "41f8be19d073ca0332ac3fb61894c00adbee3917fff0664fa49cb29aaafef29a",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "女子手持一个带图案的纸杯并提着一个浅色购物纸袋。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 409,
+    "total_tokens": 585,
+    "completion_tokens": 176,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 110
+    }
+  }
+}

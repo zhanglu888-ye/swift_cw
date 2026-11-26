@@ -1,0 +1,26 @@
+{
+  "image": "negative/南交通巷北口_20261121162350_11.jpg",
+  "image_sha256": "a6eb96659744e15b63baec288577a316ed667a7a26c77350827bd73fa4e05877",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "穿蓝白外套男子手中握持一细长深色物体，外形不清晰，疑似刀状物。",
+    "刀具": "不确定",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 626,
+    "completion_tokens": 296,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 224
+    }
+  }
+}

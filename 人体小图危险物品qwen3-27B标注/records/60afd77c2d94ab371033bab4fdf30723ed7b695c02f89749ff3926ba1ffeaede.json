@@ -1,0 +1,24 @@
+{
+  "image": "negative/北气象巷路口祭祀点_20261123115944_11.jpg",
+  "image_sha256": "7871efec2044241eacef2f6cf2fd9a0f685cb1193d8cedcd6392dbfb39ca640e",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中几名儿童站立或跑动，右侧儿童手持一个绿色小物件，其余人未见明显手持物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 601,
+    "completion_tokens": 271,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 197
+    }
+  }
+}

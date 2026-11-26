@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0248_00.jpg",
+  "image_sha256": "25cfa1dc98c8e4a6a06464c7675a1ec5b6a1dc052bd09b2443fa3e6880b2cfcb",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名女子推着手推车，车上载有一个灰色带绿色字样的液化石油气钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 495,
+    "total_tokens": 768,
+    "completion_tokens": 273,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 203
+    }
+  }
+}

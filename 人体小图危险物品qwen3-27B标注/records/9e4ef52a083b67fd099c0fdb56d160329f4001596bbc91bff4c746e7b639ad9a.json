@@ -1,0 +1,24 @@
+{
+  "image": "negative/发现更多精彩视频 - 抖音搜索_83_01.jpg",
+  "image_sha256": "2b832efd0c065e40ffb4450000a7fcb4a6e881110f8dc126c67c85cb6b58d6ce",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色制服、戴帽子和墨镜的安保人员侧身站立，双手自然下垂，手中未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 471,
+    "total_tokens": 742,
+    "completion_tokens": 271,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 196
+    }
+  }
+}

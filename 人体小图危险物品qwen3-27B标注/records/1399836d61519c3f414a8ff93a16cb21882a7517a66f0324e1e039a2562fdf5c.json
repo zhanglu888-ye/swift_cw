@@ -1,0 +1,24 @@
+{
+  "image": "positive/u=723011877,1579310624&fm=253&fmt=auto&app=120&f=JPEG_01.jpg",
+  "image_sha256": "71b5c7052066c310e0070fe678e66bcaf11b13e920482de0a20b4ea4f56ff540",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子手持木制弩做瞄准姿势，下方另有一把带细长箭杆的木制弩。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 367,
+    "total_tokens": 631,
+    "completion_tokens": 264,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 193
+    }
+  }
+}

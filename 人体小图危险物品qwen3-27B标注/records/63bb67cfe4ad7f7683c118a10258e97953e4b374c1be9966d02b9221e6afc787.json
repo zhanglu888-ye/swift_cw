@@ -1,0 +1,26 @@
+{
+  "image": "negative/唐道匡威店西_20261003131604_02.jpg",
+  "image_sha256": "3a024aeb69f773d90c3d96cd5d5574cd074b7bd569c5812c2384640356ec7eb0",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色T恤的男子手持一个浅色细长物体和一个白色小物体，外观模糊难以辨认。",
+    "刀具": "不确定",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 684,
+    "completion_tokens": 354,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 283
+    }
+  }
+}

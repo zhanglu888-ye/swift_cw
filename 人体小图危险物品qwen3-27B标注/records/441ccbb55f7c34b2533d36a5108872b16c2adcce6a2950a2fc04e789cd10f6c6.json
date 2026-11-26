@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0457_00.jpg",
+  "image_sha256": "2fba629279f3d537c6e2ca3b09f98940d19ef9949994176cb7e0d40c146bcb79",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人肩扛一个蓝绿色金属液化石油气钢瓶，瓶身带红色易燃标识及顶部护罩阀门。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 593,
+    "total_tokens": 846,
+    "completion_tokens": 253,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 178
+    }
+  }
+}

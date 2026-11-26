@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道阿迪达斯南_20261015164444_04.jpg",
+  "image_sha256": "79d55e52a1abaff5534f67b26fa32fe94c351c8ff197a5ab066dff62e0fa2777",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名长发女子手提一个黑白条纹、带红色提手的购物袋。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 402,
+    "total_tokens": 558,
+    "completion_tokens": 156,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 91
+    }
+  }
+}

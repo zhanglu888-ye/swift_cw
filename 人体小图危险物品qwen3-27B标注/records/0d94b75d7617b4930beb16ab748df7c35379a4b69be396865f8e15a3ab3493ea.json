@@ -1,0 +1,24 @@
+{
+  "image": "negative/中泰百货东侧_20261122131508_00.jpg",
+  "image_sha256": "7d4d002a0d1906ffed9bfc0f0d955b5939f471df3478774e13a293239d02498a",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴帽穿黑衣的男子斜挎黑色小包行走，双手自然下垂未持物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 444,
+    "total_tokens": 648,
+    "completion_tokens": 204,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 135
+    }
+  }
+}

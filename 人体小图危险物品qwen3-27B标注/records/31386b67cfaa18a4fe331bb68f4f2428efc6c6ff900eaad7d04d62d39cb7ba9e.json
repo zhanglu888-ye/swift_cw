@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0456_00.jpg",
+  "image_sha256": "279160f666a59cf5e9286bb9cde9ecd7ed2a40c117532dbd1791b9cb86134750",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿蓝色工作服和黄色反光背心的男子肩扛一个蓝绿色、顶部带黄色阀门的液化石油气钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 619,
+    "total_tokens": 849,
+    "completion_tokens": 230,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 153
+    }
+  }
+}

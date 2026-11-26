@@ -1,0 +1,24 @@
+{
+  "image": "positive/东方幼教幼儿园后厨加工间_20261119142813 (1)_00.jpg",
+  "image_sha256": "f1096bd7c6cff17e047593522377a917595f6192b4b772179c4dd20839962969",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿白色工作服、戴口罩和手套的人手持一把黑色刀柄、金属刀身的厨刀，置于不锈钢台面上。",
+    "刀具": "有",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1015,
+    "total_tokens": 1348,
+    "completion_tokens": 333,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 257
+    }
+  }
+}

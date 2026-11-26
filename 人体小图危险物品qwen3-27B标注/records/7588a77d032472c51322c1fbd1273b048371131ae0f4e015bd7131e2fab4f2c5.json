@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道阿迪达斯北_20261019145842_06.jpg",
+  "image_sha256": "298e59da7eeee49b51ba3533789503b7be875208bb7527dae848cb3dafa1b136",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一辆黑色踏板摩托车停放在白色柱子旁，车身及车轮清晰可见，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 321,
+    "total_tokens": 523,
+    "completion_tokens": 202,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 131
+    }
+  }
+}

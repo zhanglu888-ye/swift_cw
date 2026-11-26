@@ -1,0 +1,24 @@
+{
+  "image": "positive/海湖幼儿园后厨操作间1_20261117100754_00.jpg",
+  "image_sha256": "f9beea9b97d61d585b09ed5daaf77b6d7ae558ffa5148af6d36ebef357b086c2",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "厨房内工作人员手持菜刀在木砧板上切黄瓜，砧板上另放一把菜刀，旁有不锈钢盆盛装切好的菜。",
+    "刀具": "有",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1380,
+    "total_tokens": 1684,
+    "completion_tokens": 304,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 223
+    }
+  }
+}

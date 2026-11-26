@@ -1,0 +1,26 @@
+{
+  "image": "positive/唐道8号门_20261006102129_01.jpg",
+  "image_sha256": "59cb3b8c7b91a2988982b30d638f3949fcfd1a327dffe1896599684cfe64da49",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色制服戴帽子和眼镜的安保人员站立，双手未持明显目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 563,
+    "total_tokens": 770,
+    "completion_tokens": 207,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 137
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0337_00.jpg",
+  "image_sha256": "587ed8e1635c4696e5473dcac8334f4853b6794711080fe29f9e49bb308dae80",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴橙色手套的男子右手握着一把带木柄的金属斧头，身前放有树桩木墩。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 444,
+    "total_tokens": 704,
+    "completion_tokens": 260,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 186
+    }
+  }
+}

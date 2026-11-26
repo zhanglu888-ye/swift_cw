@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道阿迪达斯南_20261025103953_05.jpg",
+  "image_sha256": "cf60082877eceaf752cec151bc12d8902c44490eb819c9279df26330a006d613",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "服装店橱窗内一个白色人体模特身着白色流苏披肩与棕色长裙，背景为衣架与衣物，左下角有白色提琴形装饰。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 535,
+    "total_tokens": 725,
+    "completion_tokens": 190,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 109
+    }
+  }
+}

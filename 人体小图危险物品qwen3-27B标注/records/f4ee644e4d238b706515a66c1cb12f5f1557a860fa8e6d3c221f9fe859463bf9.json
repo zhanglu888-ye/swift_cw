@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店南_20261002125928_04.jpg",
+  "image_sha256": "3ee72cfc2fe8b6d3d8fd566efd1d86d0c833786625bbf099692d7b3c82a9612b",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "行人手持透明饮料杯、粉色手提袋及斜挎包等日常物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 374,
+    "total_tokens": 638,
+    "completion_tokens": 264,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 197
+    }
+  }
+}

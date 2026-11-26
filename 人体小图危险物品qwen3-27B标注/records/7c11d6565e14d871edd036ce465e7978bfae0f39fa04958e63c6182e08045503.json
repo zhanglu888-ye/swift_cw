@@ -1,0 +1,26 @@
+{
+  "image": "positive/frame_0433_00.jpg",
+  "image_sha256": "ad5e1e5da6bea8a0b6bb05d1a24c36bb35f23295341f8a5c3b108f723c4281c6",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名女子双手横握一把长木柄农具，前端为金属铲锄状头部并带红色连接件。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 593,
+    "total_tokens": 861,
+    "completion_tokens": 268,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 193
+    }
+  }
+}

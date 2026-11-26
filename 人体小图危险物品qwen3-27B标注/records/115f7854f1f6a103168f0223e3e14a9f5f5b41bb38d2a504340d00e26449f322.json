@@ -1,0 +1,24 @@
+{
+  "image": "positive/u=2316775219,2195073939_fm=253_fmt=auto_app=138_f=JPEG_00.jpg",
+  "image_sha256": "23b05cf3fe9a3f92237d80b4b355841426a1bd37fd036b6288faf4dc7e69bcb4",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "摩托车旁堆放着多个蓝色和灰色的圆柱形液化石油气钢瓶，顶部带阀门结构。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 435,
+    "total_tokens": 706,
+    "completion_tokens": 271,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 200
+    }
+  }
+}

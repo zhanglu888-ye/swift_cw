@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店南_20261010104127_03.jpg",
+  "image_sha256": "f8ebc34f38f4b99168ffea8094d47a89bfc22dc8f7db971dd4e9d419ddb28066",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面为铺有灰色地砖并带黄色标线的地面，可见一物体投射的长条阴影，未见清晰手持物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 451,
+    "total_tokens": 790,
+    "completion_tokens": 339,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 262
+    }
+  }
+}

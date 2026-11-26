@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0268_00.jpg",
+  "image_sha256": "6596a293f78a4550c69cb64ae9c44212176717dbdc0e5a7fcc053687961afe5b",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "手持一把带木柄的金属斧头，斧刃呈深色块状。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 593,
+    "total_tokens": 787,
+    "completion_tokens": 194,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 128
+    }
+  }
+}

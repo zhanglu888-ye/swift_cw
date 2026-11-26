@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261007184215_01.jpg",
+  "image_sha256": "70bf165b6b9c9ba78d3ea44cf3092f5251594f6c851ffe74c12f75baefee3977",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色皮夹克的女子手持一个米黄色袋状物，身旁有一名穿黄色上衣的小孩。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 374,
+    "total_tokens": 637,
+    "completion_tokens": 263,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 192
+    }
+  }
+}

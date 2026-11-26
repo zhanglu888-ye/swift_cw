@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0238_00.jpg",
+  "image_sha256": "8aa6f2e1dde05b9551ff7e9b6e8825c0ee9dd76d9b6e1b9b1890c184d5588040",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴橙色手套的人手持一把黑色短柄小斧头，地上散落木柴并放有另一把斧头。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 567,
+    "total_tokens": 853,
+    "completion_tokens": 286,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 210
+    }
+  }
+}

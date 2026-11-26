@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261027114515_01.jpg",
+  "image_sha256": "be75e2b483bdfedbfa9be560d7776fc89f93d794774ff6344d5b45aa705748d5",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴黄色头盔、穿黄黑制服的骑手坐在白色电动车上，车后载有带骷髅图案的黑色外卖箱，手握车把处设备。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 543,
+    "total_tokens": 816,
+    "completion_tokens": 273,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 190
+    }
+  }
+}

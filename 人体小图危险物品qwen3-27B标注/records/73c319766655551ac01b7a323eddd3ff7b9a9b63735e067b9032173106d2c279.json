@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0325_00.jpg",
+  "image_sha256": "a9ac78dc096c48b5e0cc5afaf89fba17db9fe8b13b2b0018de9aa093c1ba4cfd",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿迷彩服和背带裤的男子手持一把生锈的长柄斧头，斧头金属刃部呈锈褐色。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 600,
+    "total_tokens": 810,
+    "completion_tokens": 210,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 132
+    }
+  }
+}

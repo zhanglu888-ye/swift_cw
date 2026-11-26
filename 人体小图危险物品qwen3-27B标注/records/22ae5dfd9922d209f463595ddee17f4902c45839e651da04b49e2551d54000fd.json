@@ -1,0 +1,24 @@
+{
+  "image": "negative/尕寺巷5号院2号楼枪机3_20261122134900_01.jpg",
+  "image_sha256": "fc2f364da50d1c46bdecedd96b75ffb5c8d2db97c6825017dee8f7c62cb5d43b",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿浅色毛绒套装的小孩怀里抱着一件灰色衣物，另一手拿着白色小片状物，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 552,
+    "total_tokens": 764,
+    "completion_tokens": 212,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 136
+    }
+  }
+}

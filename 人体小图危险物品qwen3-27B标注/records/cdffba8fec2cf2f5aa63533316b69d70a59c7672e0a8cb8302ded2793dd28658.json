@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道三岔口南摄像机_20261024171030_03.jpg",
+  "image_sha256": "88e5b2893c00bf984a490e2467b4215984bc700ca3d82cc9685f4f2a869e1cc4",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴黄色头盔、穿黄黑制服的骑手坐在电动车上，双手戴手套握把，车后载有黄色配送箱。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 345,
+    "total_tokens": 547,
+    "completion_tokens": 202,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 123
+    }
+  }
+}

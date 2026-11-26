@@ -1,0 +1,24 @@
+{
+  "image": "negative/01e8c366c2b94e3601037001993b77aff3_108_190_00.jpg",
+  "image_sha256": "6d79f72b85740b4ac2b44db05988d6fb96eb47dfbf9e350277392451ac85e1e6",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "人物双手交叉抱于胸前，手腕佩戴黑色方形智能手表，手持一个带灰色绒球状装饰的小物件。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 955,
+    "total_tokens": 1169,
+    "completion_tokens": 214,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 139
+    }
+  }
+}

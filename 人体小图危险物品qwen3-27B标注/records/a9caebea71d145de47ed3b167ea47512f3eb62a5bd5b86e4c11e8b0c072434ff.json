@@ -1,0 +1,24 @@
+{
+  "image": "negative/虎台一巷16号院大门口变焦枪机_20261119170608_06.jpg",
+  "image_sha256": "0b4e127cad029be96f3ba0bdda6ce1efa081837ab7da6ef474c41203c868d4ac",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面仅显示一人下半身，穿深色长裤与深色鞋，站立于浅色地面，未见手持物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 327,
+    "total_tokens": 482,
+    "completion_tokens": 155,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 82
+    }
+  }
+}

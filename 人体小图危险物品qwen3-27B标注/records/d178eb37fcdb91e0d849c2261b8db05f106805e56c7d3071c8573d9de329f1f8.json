@@ -1,0 +1,24 @@
+{
+  "image": "negative/北气象巷路口祭祀点_20261123115902_07.jpg",
+  "image_sha256": "5d4e0924492e676ef24e559881a6138aee50eb50679c1c5d217ce9723952da30",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男孩骑着一辆蓝绿色车架的山地自行车，双手握车把。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 321,
+    "total_tokens": 479,
+    "completion_tokens": 158,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 91
+    }
+  }
+}

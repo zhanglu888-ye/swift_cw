@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0395_00.jpg",
+  "image_sha256": "4c1929ca6ee74ff41b29ed88d354c7bab1239fad88ce3113989530326f792081",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子手持一把斧头，斧刃朝下插入木桩中，可见金属斧头与手柄。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 567,
+    "total_tokens": 870,
+    "completion_tokens": 303,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 230
+    }
+  }
+}

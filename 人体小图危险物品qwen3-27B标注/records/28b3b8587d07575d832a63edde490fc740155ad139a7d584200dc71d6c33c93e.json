@@ -1,0 +1,26 @@
+{
+  "image": "negative/frame_0317_01.jpg",
+  "image_sha256": "032641422f51027e9714d39950013cf1b24870fab33e0efcb075c15fd628cf0a",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "墙角地面放着一个黄色塑料桶，旁边有红色清洁工具，上方悬挂黄色灯罩。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 324,
+    "total_tokens": 562,
+    "completion_tokens": 238,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 168
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道匡威店西_20261006171532_00.jpg",
+  "image_sha256": "b97bcec20e5a9b8612f29386d2b3dd09a60526b805e45b598a9f74f9d25c38da",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子手提一个蓝色大容量塑料桶，桶身带白色瓶盖状结构。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 407,
+    "total_tokens": 639,
+    "completion_tokens": 232,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 165
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道8号门_20261005164033_05.jpg",
+  "image_sha256": "52dc74bc6df263b428dc7f93ba6d6b261850794769a83791146059d11ceeeefa",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名小孩双手持握一支带迷彩花纹的步枪形物体。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 395,
+    "total_tokens": 573,
+    "completion_tokens": 178,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 113
+    }
+  }
+}

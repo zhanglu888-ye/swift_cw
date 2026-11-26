@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道8号门_20261027114515_02.jpg",
+  "image_sha256": "5089871ad9bb9dfe81183dbf2a3cb39776f492c97ad540de97103b5669bd1324",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴帽男子手扶平板手推车，车上堆放着数个白色半透明大容量塑料桶，桶内装有液体并带有红色桶盖。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 555,
+    "total_tokens": 830,
+    "completion_tokens": 275,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 194
+    }
+  }
+}

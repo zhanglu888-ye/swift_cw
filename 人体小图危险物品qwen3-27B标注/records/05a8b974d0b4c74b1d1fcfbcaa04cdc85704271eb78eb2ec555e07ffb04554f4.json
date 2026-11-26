@@ -1,0 +1,24 @@
+{
+  "image": "negative/中泰百货东侧_20261122131508_07.jpg",
+  "image_sha256": "46d5ad3e7eec404f4ad8521a7a8ca5445bc8ba1c0cec26ce992623e9e7c2cff1",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中为几名行人，可见斜挎包与白色头盔，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 351,
+    "total_tokens": 574,
+    "completion_tokens": 223,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 155
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道西关大街停车场入口西_20261005174455_01.jpg",
+  "image_sha256": "17da3aa5fab19514fd32bf55eb97c84a2ccc05078d02f2c641f5fc4e3971949f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色特警制服的人员背上斜挎一支长枪形物体，腰间配有装备。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 415,
+    "total_tokens": 654,
+    "completion_tokens": 239,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 171
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "image": "positive/北气象巷路口祭祀点_20261123115856_06.jpg",
+  "image_sha256": "203b15cc1507c996c0faf5752946b522e4725533686db01d19ca6d8d8d75c0b1",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "穿红衣戴帽者手持一根细长红褐色杆状物，旁边一人穿蓝绿上衣背对镜头。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 730,
+    "completion_tokens": 405,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 331
+    }
+  }
+}

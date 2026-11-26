@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道阿迪达斯北_20261006164436_13.jpg",
+  "image_sha256": "30704db236ce480e6368103397c747843f7c57c9f0f5733e59ea66045c244ad2",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一个戴蓝色帽子、面部夸张的卡通小丑造型物体，前方摆放红色塑料桌椅。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 332,
+    "total_tokens": 497,
+    "completion_tokens": 165,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 96
+    }
+  }
+}

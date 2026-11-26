@@ -1,0 +1,24 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索 (1)_49_00.jpg",
+  "image_sha256": "de4397eff80c2ebe8c56eff2525455c24bc84c37d835b5c1d107bf6e4e00da8c",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子手持一件木质长条弩身、下端带横向弓臂与弦的弩。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 585,
+    "total_tokens": 758,
+    "completion_tokens": 173,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 104
+    }
+  }
+}

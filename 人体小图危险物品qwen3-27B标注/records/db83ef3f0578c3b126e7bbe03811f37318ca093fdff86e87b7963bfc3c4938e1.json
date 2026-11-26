@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0243_00.jpg",
+  "image_sha256": "9e2a5927a6f35bb2f0a8b239fad6b167eb3e2915b30360b425cf243b6e706990",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名女子正搬运一个银灰色带阀门的液化石油气钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 567,
+    "total_tokens": 1057,
+    "completion_tokens": 490,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 424
+    }
+  }
+}

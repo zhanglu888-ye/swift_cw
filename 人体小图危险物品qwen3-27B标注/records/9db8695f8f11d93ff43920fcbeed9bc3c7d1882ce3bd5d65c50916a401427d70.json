@@ -1,0 +1,24 @@
+{
+  "image": "negative/人民公园游船码头3号摄像机_20261121155348_00.jpg",
+  "image_sha256": "32faacf6d1a4b001740e8352f645106e66d968b88022738ab615c6436bf41ae5",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "人物手持一个深色小包袋，另一手握一小型物件，未见其他目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 415,
+    "total_tokens": 618,
+    "completion_tokens": 203,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 135
+    }
+  }
+}

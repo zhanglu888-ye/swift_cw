@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261007182843_00.jpg",
+  "image_sha256": "a7b8cb24d75811d0dc3cada82725ca37d78b4d6245412d1c8d6ba1129586105e",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿蓝色外套的人推着一辆载有纸箱的金属手推车。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 541,
+    "total_tokens": 779,
+    "completion_tokens": 238,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 173
+    }
+  }
+}

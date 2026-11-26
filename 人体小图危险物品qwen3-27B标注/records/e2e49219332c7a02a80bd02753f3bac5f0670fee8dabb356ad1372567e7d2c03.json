@@ -1,0 +1,24 @@
+{
+  "image": "negative/刘家寨小区农贸市场西北角_20261118172047_05.jpg",
+  "image_sha256": "449d029a9f1ab72cd6678819018a89d7a09e09c4dff023a8866b3972ce89de03",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深色外套的男子手持一部黑色手机，前景另有一人背对镜头手持深色小物件，背景为货架仓库。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 541,
+    "completion_tokens": 216,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 139
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/21-mp4_17_100x100_0_jpg.rf.a538a19b109453ae617eec5b098d26f0_01.jpg",
+  "image_sha256": "cdcfcdcf4e7a920716cb02fbf63c12318a8dc566ded2727b25d4b991a0972dba",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿棕色外套的男子头部旁有一只手举着黑色手枪形物体。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 544,
+    "completion_tokens": 214,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 148
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道同盛路停车场入口_20261006102124_04.jpg",
+  "image_sha256": "ab3208ce19550f376debb22971aecdb5459599b94da8c2bf97a63ad4cd007bee",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名黑衣男子站立，双手在身前握持一深色小物件，背景可见一辆红色摩托车。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 327,
+    "total_tokens": 753,
+    "completion_tokens": 426,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 355
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/人民公园游乐园门口1号摄像机_20261121162354_01.jpg",
+  "image_sha256": "a8104509a168f9734b2596ec1eafae8c99e9bdd9c83754be474e48800e80f6b1",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中为多名站立的人物，前景男子穿黑色夹克与牛仔裤，左侧者穿黑色羽绒服配白色长裙，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 339,
+    "total_tokens": 595,
+    "completion_tokens": 256,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 177
+    }
+  }
+}

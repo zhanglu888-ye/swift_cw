@@ -1,0 +1,26 @@
+{
+  "image": "positive/唐道匡威店南_20261119140648_01.jpg",
+  "image_sha256": "de5e8ea26b0a37ceb5212bdcffb20ea83a9ab8448307b17eb881620134862028",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "人物一手提透明塑料袋，另一手提一瓶带红盖的透明塑料水瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 519,
+    "total_tokens": 756,
+    "completion_tokens": 237,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 170
+    }
+  }
+}

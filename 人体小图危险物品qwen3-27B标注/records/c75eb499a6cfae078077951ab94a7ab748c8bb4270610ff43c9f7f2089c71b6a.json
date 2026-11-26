@@ -1,0 +1,26 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索 (1)_113_00.jpg",
+  "image_sha256": "6f3db3d3d3748122da83ba626f0b36682b8edd678ba996376434cdd9767da3e5",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "手持一根长条形木杆（竹竿），其上搭放一块木板状物件。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 567,
+    "total_tokens": 827,
+    "completion_tokens": 260,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 192
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0431_00.jpg",
+  "image_sha256": "75f435d598823699efb5ae11459f8b05c97d21c088f010edb75b6c25f25cd7b3",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名女子手持一把带红褐色长柄的斧头，金属斧刃清晰可见。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 593,
+    "total_tokens": 916,
+    "completion_tokens": 323,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 254
+    }
+  }
+}

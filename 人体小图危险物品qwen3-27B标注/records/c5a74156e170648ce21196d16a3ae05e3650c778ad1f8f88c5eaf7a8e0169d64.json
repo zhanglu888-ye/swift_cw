@@ -1,0 +1,24 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索 (4)_68_02.jpg",
+  "image_sha256": "056b627a8d30c11720b19c4ea6aefecafcdd39a971cd97bc0bdd6089353486fd",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "穿警服人员蹲地指向地面，地面可见一黑色枪形物体及一个黑色圆柱状物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 975,
+    "total_tokens": 1408,
+    "completion_tokens": 433,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 360
+    }
+  }
+}

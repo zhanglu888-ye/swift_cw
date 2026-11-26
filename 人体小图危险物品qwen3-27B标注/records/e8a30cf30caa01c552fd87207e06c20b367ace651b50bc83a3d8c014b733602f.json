@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261018182230_09.jpg",
+  "image_sha256": "bd0586f4af93c5821a7bc2b20f30430194d90a6b742619b1a95005ae9eccc7d3",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "行人手持透明塑料袋装物品并携带挎包，未见刀具、斧头、桶壶、钢瓶、枪形物或弩。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 395,
+    "total_tokens": 648,
+    "completion_tokens": 253,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 174
+    }
+  }
+}

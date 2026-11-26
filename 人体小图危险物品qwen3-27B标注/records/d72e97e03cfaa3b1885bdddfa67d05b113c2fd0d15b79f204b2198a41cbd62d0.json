@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0161_00.jpg",
+  "image_sha256": "1a7f2c08609a6afc2741f988eaf7045326095c3e125fa75cb38f7db421535f41",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子手提一个灰色金属液化石油气钢瓶，瓶顶带黄色阀门护罩，瓶身印有红色“欣奥”字样。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 541,
+    "total_tokens": 812,
+    "completion_tokens": 271,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 191
+    }
+  }
+}

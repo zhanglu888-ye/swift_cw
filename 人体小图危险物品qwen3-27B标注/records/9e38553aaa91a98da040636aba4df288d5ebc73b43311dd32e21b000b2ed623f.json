@@ -1,0 +1,24 @@
+{
+  "image": "negative/扛煤气罐_109_01.jpg",
+  "image_sha256": "da57d80ff8bf3bced0c5869979f365fcf1e1cdd62370052531ab7c7311ac0935",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深色带黄色反光条消防服、戴黄色头盔的人员站立，手部未见明显目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 634,
+    "completion_tokens": 304,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 232
+    }
+  }
+}

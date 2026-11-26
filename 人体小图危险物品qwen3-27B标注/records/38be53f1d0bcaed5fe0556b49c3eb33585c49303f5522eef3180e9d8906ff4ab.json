@@ -1,0 +1,24 @@
+{
+  "image": "negative/刘家寨小区农贸市场北门基站款摄像机_20261120093003_00.jpg",
+  "image_sha256": "1002169f99f03b1a6ed4763948ca8345b331af9b5510c5db7feebb050cdea2c2",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "两名男子在户外行走，手中未见明显目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 320,
+    "total_tokens": 510,
+    "completion_tokens": 190,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 128
+    }
+  }
+}

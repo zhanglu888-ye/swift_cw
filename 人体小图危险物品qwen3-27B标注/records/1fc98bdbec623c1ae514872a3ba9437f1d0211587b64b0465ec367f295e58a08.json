@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0161_01.jpg",
+  "image_sha256": "cbca342c3b0bb1275897c71abf5498ffeb27f8f9c23b76812bd4a7addb73a376",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子双手扶着一个浅绿色金属液化石油气钢瓶，瓶顶带黄色阀门和护手架，瓶身印有红色中文字样。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 411,
+    "total_tokens": 669,
+    "completion_tokens": 258,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 176
+    }
+  }
+}

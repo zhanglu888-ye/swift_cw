@@ -1,0 +1,24 @@
+{
+  "image": "positive/u=3128899341,105457157&fm=253&fmt=auto&app=138&f=JPEG_01.jpg",
+  "image_sha256": "1e8211d929be69c02a3a02e6377bf23b210a0da063d7ea0b2a8720f2b70f29ae",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一辆摩托车后座载有灰色液化石油气钢瓶，瓶身印有红色“液化石油气”字样，旁边还有橙色篷布覆盖的物体。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 346,
+    "total_tokens": 633,
+    "completion_tokens": 287,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 204
+    }
+  }
+}

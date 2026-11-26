@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道阿迪达斯南_20261006101306_01.jpg",
+  "image_sha256": "e99be29d41970fe555993064a9a1633a88546570c59c857fcfb851e7fd5516d9",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色制服、戴帽的安保人员背对镜头行走，背后印有“保安”字样，腰间系有装备带，手中未持任何物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 357,
+    "total_tokens": 681,
+    "completion_tokens": 324,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 240
+    }
+  }
+}

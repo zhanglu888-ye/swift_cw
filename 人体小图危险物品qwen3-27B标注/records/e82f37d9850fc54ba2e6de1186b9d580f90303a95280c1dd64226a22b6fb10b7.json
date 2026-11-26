@@ -1,0 +1,24 @@
+{
+  "image": "negative/南交通巷北口_20261121162321_03.jpg",
+  "image_sha256": "8f5e47db1acdc2cb37cf7be0e0e99581e02e1d96692df8a791da8767cae72104",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深色外套的男子肩扛并手握长条状杆件，周围堆放杂物与木板。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 374,
+    "total_tokens": 620,
+    "completion_tokens": 246,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 175
+    }
+  }
+}

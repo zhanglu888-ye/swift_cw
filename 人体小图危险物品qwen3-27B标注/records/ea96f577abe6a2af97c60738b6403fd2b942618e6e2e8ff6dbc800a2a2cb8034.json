@@ -1,0 +1,24 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索_26_01.jpg",
+  "image_sha256": "a3cb96a51804bbabbfa2a0e29e5ff195b5464365a32fc4b0451e4745821e2ccb",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "车后绑着一个蓝色液化石油气钢瓶，瓶身印有红色“液化石油气”字样，顶部带阀门和绿色护罩。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 445,
+    "total_tokens": 700,
+    "completion_tokens": 255,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 175
+    }
+  }
+}

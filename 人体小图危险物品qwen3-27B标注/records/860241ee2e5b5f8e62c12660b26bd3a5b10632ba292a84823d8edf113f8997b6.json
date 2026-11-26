@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0247_00.jpg",
+  "image_sha256": "bf44ac8b28cb363edbce8d616e6b9bd771953fd569fa57d050b6479f41cf42a5",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名女子手提一只灰色金属液化石油气钢瓶（瓶身有红色“液化”字样及标签），另一手扶着蓝色把手的搬运手推车。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 495,
+    "total_tokens": 775,
+    "completion_tokens": 280,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 197
+    }
+  }
+}

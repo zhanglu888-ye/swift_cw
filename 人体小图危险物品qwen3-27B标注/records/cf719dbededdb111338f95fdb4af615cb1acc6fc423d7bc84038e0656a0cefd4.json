@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道三岔口北_20261107165132_00.jpg",
+  "image_sha256": "67afce25f98635be7a18abb3146cba67f0d9b70d9a08046d8e0fbe0676de6d9f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子手扶一辆手推车，车上放有纸板、绳索及一个透明大容量塑料桶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 519,
+    "total_tokens": 769,
+    "completion_tokens": 250,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 179
+    }
+  }
+}

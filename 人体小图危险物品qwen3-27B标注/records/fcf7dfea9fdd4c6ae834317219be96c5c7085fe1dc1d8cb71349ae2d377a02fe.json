@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道阿迪达斯南_20261008100917_03.jpg",
+  "image_sha256": "33f6cf07c6c43ee0c332cd18c274a65f6c99dcc9e07325a55990f100d635d778",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "行人手提黑白格纹袋、蓝白条纹大包及白色塑料袋等随身包袋。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 345,
+    "total_tokens": 588,
+    "completion_tokens": 243,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 174
+    }
+  }
+}

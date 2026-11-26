@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道匡威店南_20261003201433_02.jpg",
+  "image_sha256": "c4007c6044fbab33e8d7a5f363130989b00690b56f9711f6b8bb3cafc7232b6a",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色制服戴警帽的人员手持一支长条形步枪状物体，可见枪管与握把结构。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 402,
+    "total_tokens": 599,
+    "completion_tokens": 197,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 123
+    }
+  }
+}

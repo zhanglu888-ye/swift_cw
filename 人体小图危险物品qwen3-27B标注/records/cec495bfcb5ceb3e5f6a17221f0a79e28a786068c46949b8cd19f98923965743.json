@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0425_00.jpg",
+  "image_sha256": "0a87c33e7c40c2db4ac341c818cc090b9fb90641c117868ecf3c531986b9a1c5",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿红黑马甲的男子双手扶着两个液化石油气钢瓶，左侧为青绿色钢瓶，右侧为灰绿色钢瓶置于白色包装袋上。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 645,
+    "total_tokens": 849,
+    "completion_tokens": 204,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 121
+    }
+  }
+}

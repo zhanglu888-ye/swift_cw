@@ -1,0 +1,26 @@
+{
+  "image": "negative/东方幼教幼儿园后厨加工间_20261119142833_00.jpg",
+  "image_sha256": "4da8641e6b586cceab6b77d778f4ef3af9b49aa0e9b50fbe9dd0ca177d770792",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "手持一红色模糊块状物，下方带金属反光小件，整体模糊无法辨认具体种类。",
+    "刀具": "不确定",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 871,
+    "total_tokens": 1530,
+    "completion_tokens": 659,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 587
+    }
+  }
+}

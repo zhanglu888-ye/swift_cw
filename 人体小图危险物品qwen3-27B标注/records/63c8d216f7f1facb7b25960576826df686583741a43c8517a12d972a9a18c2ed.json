@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0473_00.jpg",
+  "image_sha256": "8624a4ecbda347a4fe81e65faf6276f631413e589e2cd64593837d9270edeada",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一个外裹橙色保护套、顶部带蓝绿色金属阀门的液化气钢瓶，套上印有红色文字。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 567,
+    "total_tokens": 839,
+    "completion_tokens": 272,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 198
+    }
+  }
+}

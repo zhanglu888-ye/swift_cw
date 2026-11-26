@@ -1,0 +1,24 @@
+{
+  "image": "negative/中泰百货东侧_20261122131508_01.jpg",
+  "image_sha256": "1bcd8cbd9801e5466d42923063e5b1b93a4dfd9eeae0f99f7813edd4932d7c43",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "人物手中持有手机等小型深色及浅色随身物件，外观为日常小件物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 465,
+    "total_tokens": 879,
+    "completion_tokens": 414,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 345
+    }
+  }
+}

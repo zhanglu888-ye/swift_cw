@@ -1,0 +1,24 @@
+{
+  "image": "negative/青海省六一幼儿园厨房粗加工间_20261118103850_00.jpg",
+  "image_sha256": "59b359f62e41f5e85a811f08e0df14faf1ed712895d174a0845f47b0ccbbb449",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿厨师服戴口罩的人双手端着一个不锈钢金属盆，盆内装有若干白色球状物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 519,
+    "total_tokens": 790,
+    "completion_tokens": 271,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 199
+    }
+  }
+}

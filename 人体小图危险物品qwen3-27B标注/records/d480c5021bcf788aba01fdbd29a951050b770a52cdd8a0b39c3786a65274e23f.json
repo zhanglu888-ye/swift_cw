@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0314_00.jpg",
+  "image_sha256": "de7760b234560a1816c9e93d63acfc747d3eee9ad1bb7fac75e16649e5e69f1e",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名女子弯腰手扶橱柜下方一个灰色金属液化石油气钢瓶，旁边地面放有一瓶橙色液体塑料瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 455,
+    "total_tokens": 707,
+    "completion_tokens": 252,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 176
+    }
+  }
+}

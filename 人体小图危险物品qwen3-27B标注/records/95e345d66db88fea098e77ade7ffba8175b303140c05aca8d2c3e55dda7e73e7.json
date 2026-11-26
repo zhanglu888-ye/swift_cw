@@ -1,0 +1,24 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索 (1)_27_00.jpg",
+  "image_sha256": "2e342d16a63714605e191493c88c43a768badee580e0534c9b4c79f04067093e",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "手持一把木制简易弩，带有缠绕麻绳的横向弓臂、木质握把及下方弯曲金属片。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1513,
+    "total_tokens": 1844,
+    "completion_tokens": 331,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 257
+    }
+  }
+}

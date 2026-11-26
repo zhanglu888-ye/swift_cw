@@ -1,0 +1,24 @@
+{
+  "image": "positive/中华巷5号院大门口定焦枪机_20261111190655_01.jpg",
+  "image_sha256": "fc71863bb78f0e2280466545f808ff8b2918da598862bfa22a9fc058c79ff7a3",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人双手持握一把黑色长形枪状物体，物体上可见紫色光点。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 519,
+    "total_tokens": 741,
+    "completion_tokens": 222,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 153
+    }
+  }
+}

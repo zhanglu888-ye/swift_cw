@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店南_20261002200840_04.jpg",
+  "image_sha256": "4d2ae0f5dc39cd8cf3ebcfa0198128733b77081280326567ba12dd74c35aa63d",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 351,
+    "total_tokens": 564,
+    "completion_tokens": 213,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 159
+    }
+  }
+}

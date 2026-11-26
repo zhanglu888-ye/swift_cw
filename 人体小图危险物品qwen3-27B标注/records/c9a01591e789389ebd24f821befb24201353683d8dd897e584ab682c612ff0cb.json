@@ -1,0 +1,24 @@
+{
+  "image": "positive/新华巷口1_20261120095004_00.jpg",
+  "image_sha256": "7e6c1e24cd4d1b75aca8e2d4e9b36c6176c45e9b5fdc420cdcbdd16fb9d37cca",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深色制服的男子手提一个绿色圆柱形带阀门的液化石油气钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 517,
+    "completion_tokens": 184,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 115
+    }
+  }
+}

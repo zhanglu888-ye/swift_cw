@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261002110020_04.jpg",
+  "image_sha256": "a3ac697bcde150a8edbef62893b75463d6d95c969e8bf8bf82b0b7e318a7b5ac",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿米色长风衣者怀抱戴白帽的婴儿，旁有穿黑衣小孩同行，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 351,
+    "total_tokens": 578,
+    "completion_tokens": 227,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 152
+    }
+  }
+}

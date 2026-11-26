@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261114120915_03.jpg",
+  "image_sha256": "53e8b44b3af1f0bf167b61474311fcdaabe49b4aafef6a6de2a4c0a700ede860",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴帽子和口罩、穿米色外套的女性斜挎棕色包并手提一个浅色袋状物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 381,
+    "total_tokens": 602,
+    "completion_tokens": 221,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 148
+    }
+  }
+}

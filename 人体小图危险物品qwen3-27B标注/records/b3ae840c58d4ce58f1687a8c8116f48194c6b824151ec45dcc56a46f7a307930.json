@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道阿迪达斯南_20261017183635_03.jpg",
+  "image_sha256": "fefd93699dae45127df2ffeee9cd8c9fadacd01f7e58512e87bbca3359cd043e",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "人物面前摆放着蓝色盒装物品、绿色二维码牌和白色立牌等商品展示物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 387,
+    "total_tokens": 560,
+    "completion_tokens": 173,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 102
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店西_20261025111924_02.jpg",
+  "image_sha256": "c599a80a53a7a244a53edd4df77749ab6e83c17d00919d185fd31335a9e9e7b9",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中为一个竖立的深色金属箱体设备，表面有文字标识和孔洞，底部带金属条状结构，背景为街道与广告牌。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 505,
+    "completion_tokens": 175,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 94
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索 (1)_337_00.jpg",
+  "image_sha256": "4f42518a6dbd3c528c8ab0b8c16850c215080e866f630cd29a8f559295b138aa",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子手持一把带瞄准镜的黑色弩，前端可见弓弦与横向发射臂，下方有握把和支撑杆。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1411,
+    "total_tokens": 1804,
+    "completion_tokens": 393,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 317
+    }
+  }
+}

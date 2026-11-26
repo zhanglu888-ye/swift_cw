@@ -1,0 +1,24 @@
+{
+  "image": "positive/南交通巷北口_20261121162439_02.jpg",
+  "image_sha256": "e86ff6bd8e460965905c51c47fadcabf264c46e9d0b4f390d74c36abd8b110f8",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名红衣男子低头手持手机，前方儿童双手横握一根带前端横杆的棍状玩具。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "不确定",
+    "弩": "不确定"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 381,
+    "total_tokens": 1144,
+    "completion_tokens": 763,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 691
+    }
+  }
+}

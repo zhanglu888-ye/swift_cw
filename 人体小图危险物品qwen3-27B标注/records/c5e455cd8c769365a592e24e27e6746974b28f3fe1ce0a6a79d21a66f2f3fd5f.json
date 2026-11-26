@@ -1,0 +1,24 @@
+{
+  "image": "negative/发现更多精彩视频 - 抖音搜索 (4)_68_00.jpg",
+  "image_sha256": "6c1faf1ac775d3fb4b60ba34782bbc7a74bb9072df9a293abd61f7c8cf4dd88b",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面显示一名穿灰色上衣、黑色长裤和黑色凉鞋的人站立，手中未见可辨认的目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 375,
+    "total_tokens": 621,
+    "completion_tokens": 246,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 174
+    }
+  }
+}

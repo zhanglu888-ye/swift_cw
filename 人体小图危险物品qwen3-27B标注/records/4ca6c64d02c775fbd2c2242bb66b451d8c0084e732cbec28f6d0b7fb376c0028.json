@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道苹果手机店北_20261014154258 (1)_00.jpg",
+  "image_sha256": "47d89415a9b52df0de0df5983d6951ac671e5b5cd7b117efcb3075954f567e1f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿红色上衣和黑色围裙的人右手持一把带长柄的宽刃金属刀具。",
+    "刀具": "有",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 374,
+    "total_tokens": 596,
+    "completion_tokens": 222,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 151
+    }
+  }
+}

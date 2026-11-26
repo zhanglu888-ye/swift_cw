@@ -1,0 +1,24 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索 (4)_1_00.jpg",
+  "image_sha256": "bd26a6d21e3ecd5e3bc061ef951497c0d89d7e1fc707fac851722c4d02282bfc",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人手持黑色弩状物体，可见横向弓臂与拉出的弦线。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 975,
+    "total_tokens": 1257,
+    "completion_tokens": 282,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 215
+    }
+  }
+}

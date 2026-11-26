@@ -1,0 +1,24 @@
+{
+  "image": "positive/4593021_00.jpg",
+  "image_sha256": "08da5e32208c809758a77868583532236f3ea5aec63809fced80343e7cad7f31",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "工人肩扛一个灰色液化石油气钢瓶，罐体带红色菱形标志和橙色阀门，背景堆放多个同类钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 332,
+    "total_tokens": 629,
+    "completion_tokens": 297,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 219
+    }
+  }
+}

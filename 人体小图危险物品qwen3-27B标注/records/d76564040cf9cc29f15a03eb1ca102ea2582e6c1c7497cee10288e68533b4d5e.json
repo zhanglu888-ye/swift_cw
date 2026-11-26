@@ -1,0 +1,24 @@
+{
+  "image": "negative/南交通巷北口_20261121162439_06.jpg",
+  "image_sha256": "7b18647506ed4ab43db3cbce7f1c15bc0ac5f01a81be08e6303a3da6ee24d6c6",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深色连帽外套和深色长裤的男子背对镜头行走，双手未见持有目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 525,
+    "completion_tokens": 200,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 129
+    }
+  }
+}

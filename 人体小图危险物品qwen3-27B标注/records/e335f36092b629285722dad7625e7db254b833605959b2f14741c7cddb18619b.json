@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道苹果手机店北_20261107150512_03.jpg",
+  "image_sha256": "0b0966c55102b8a4edecbe90b32edd33ed03c26a0e020e0c1fc1f69e94d7fe72",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深色制服、背后印有字样的安保人员背对镜头行走，腰间系有装备带，手中未见明显持握物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 345,
+    "total_tokens": 576,
+    "completion_tokens": 231,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 152
+    }
+  }
+}

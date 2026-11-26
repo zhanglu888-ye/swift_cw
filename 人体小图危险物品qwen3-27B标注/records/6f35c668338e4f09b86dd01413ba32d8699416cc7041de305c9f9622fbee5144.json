@@ -1,0 +1,26 @@
+{
+  "image": "positive/4-mp4_236_100x100_0_jpg.rf.94dda96e5bda99668cb7d8957b01a04f_03.jpg",
+  "image_sha256": "7914f3531df37c3194992fab8cb0dcc7d9a4b6f3694123435166f976773911bb",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中多人站立，右侧黑衣人手提一个黑色包袋，其余人手持手机等小物件，未见刀具、斧头、桶壶、钢瓶、枪形物或弩。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 595,
+    "total_tokens": 848,
+    "completion_tokens": 253,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 164
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/扛煤气罐_045_01.jpg",
+  "image_sha256": "5a8e760edbb9599ba2fadb226708941c968ef0b88471f8aea210902bad9d88ab",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿制服者手提一个表面锈蚀、带提手和阀门的圆柱形金属液化气钢瓶，瓶身印有红色字样。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 687,
+    "total_tokens": 906,
+    "completion_tokens": 219,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 141
+    }
+  }
+}

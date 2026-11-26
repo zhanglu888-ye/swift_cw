@@ -1,0 +1,24 @@
+{
+  "image": "negative/01e921b6646407df010370019aabb635dd_115_106_00.jpg",
+  "image_sha256": "06fe8ae15f483667e3475f3aee00721df1dc753cc2d70f4446a742acf0ae1de7",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子右手持一部灰色带圆形摄像头模组的手机，并斜挎一个红蓝黑条纹民族风布包。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 867,
+    "total_tokens": 1036,
+    "completion_tokens": 169,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 94
+    }
+  }
+}

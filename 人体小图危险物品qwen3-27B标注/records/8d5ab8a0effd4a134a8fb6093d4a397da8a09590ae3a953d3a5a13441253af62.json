@@ -1,0 +1,24 @@
+{
+  "image": "negative/北气象巷路口祭祀点_20261123115906_02.jpg",
+  "image_sha256": "214dee949e9da283b07c1a5506ba30d9b3dab69f04106aa34f0a9054aae406cf",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴帽穿深色衣的人站在发光的烟酒茶叶招牌旁，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 550,
+    "completion_tokens": 225,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 155
+    }
+  }
+}

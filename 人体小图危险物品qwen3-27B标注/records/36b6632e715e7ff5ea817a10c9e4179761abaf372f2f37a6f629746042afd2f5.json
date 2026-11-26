@@ -1,0 +1,24 @@
+{
+  "image": "positive/91ef76c6a7efce1b740b62e04470e9cfb48f65af_00.jpg",
+  "image_sha256": "3c4d07f8fb39b85ab878fe71640a7f9fc3cc60aba6506e0ac7da7288ce1a1bb7",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子蹲扶着一个绿色金属液化气钢瓶，瓶身印有红色中文字样，旁边另有一个绿色钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 630,
+    "total_tokens": 903,
+    "completion_tokens": 273,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 197
+    }
+  }
+}

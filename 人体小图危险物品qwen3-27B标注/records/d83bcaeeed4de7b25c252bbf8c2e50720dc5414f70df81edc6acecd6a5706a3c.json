@@ -1,0 +1,24 @@
+{
+  "image": "positive/东交通巷1_20261123154141_04.jpg",
+  "image_sha256": "3d148d822e824cbc83f2dd1dfd3a9cccbf7670b5322a309d32d734d0dd9808e8",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深色衣服的男子手提一个绿色金属液化石油气钢瓶，瓶身圆柱形、顶部带护手和阀门结构。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 335,
+    "total_tokens": 513,
+    "completion_tokens": 178,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 100
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/82-mp4_62_100x100_0_jpg.rf.a6be79dd59bafb7d821360c63bb0a08f_00.jpg",
+  "image_sha256": "d546484e57e9360fa616463288f9dfd623b029ab52e73cb340d17d5a0f1434d4",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿连帽衫的人站立于户外，双手置于身前，未见明显手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 324,
+    "total_tokens": 569,
+    "completion_tokens": 245,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 175
+    }
+  }
+}

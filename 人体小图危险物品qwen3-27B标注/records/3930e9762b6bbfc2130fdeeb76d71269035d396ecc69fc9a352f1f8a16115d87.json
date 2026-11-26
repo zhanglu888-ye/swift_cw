@@ -1,0 +1,24 @@
+{
+  "image": "positive/东方幼教幼儿园后厨加工间_20261119142842_00.jpg",
+  "image_sha256": "fc50496b3e039d975a892f8bc0a3720ebc0a74e44e8901b6ed2490bbdce4d928",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "手持一把蓝色手柄的宽刃菜刀，正对着不锈钢盆中的黄瓜段。",
+    "刀具": "有",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 843,
+    "total_tokens": 1007,
+    "completion_tokens": 164,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 97
+    }
+  }
+}

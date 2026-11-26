@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道匡威店南_20261004120413_00.jpg",
+  "image_sha256": "40a55bce4903d7bf466c667ee80aa268515e3a5ace9b4bc0eb0a2194da44a2a4",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人手拉平板车，车上载有多个大容量透明塑料水桶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 415,
+    "total_tokens": 617,
+    "completion_tokens": 202,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 138
+    }
+  }
+}

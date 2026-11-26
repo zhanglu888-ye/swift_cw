@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0469_00.jpg",
+  "image_sha256": "53dbf86f8a326e0f22a4c0de9e3ef076eb9ed2037a1c2218ea686f0c5825b6b1",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "人物怀抱一个蓝绿色液化石油气钢瓶，瓶身贴有橙色标签并印有文字。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 459,
+    "total_tokens": 712,
+    "completion_tokens": 253,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 182
+    }
+  }
+}

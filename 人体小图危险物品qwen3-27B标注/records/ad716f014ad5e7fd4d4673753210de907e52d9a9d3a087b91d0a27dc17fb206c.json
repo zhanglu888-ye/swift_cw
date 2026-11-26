@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道阿迪达斯南_20261025103953_01.jpg",
+  "image_sha256": "8b62b2dcdf1804a69a79cdb508f5eb23ed8667dee810cff4bd34386f652d2e40",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿棕色长外套、系蓝色围巾的女子站立，手叉腰，身旁有财神装饰牌与花束，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 388,
+    "total_tokens": 653,
+    "completion_tokens": 265,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 186
+    }
+  }
+}

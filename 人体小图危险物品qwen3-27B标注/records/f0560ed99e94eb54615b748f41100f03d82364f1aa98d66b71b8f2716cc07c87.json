@@ -1,0 +1,24 @@
+{
+  "image": "positive/城西区贝尔安亲幼儿园厨房操作间_20261118103847_00.jpg",
+  "image_sha256": "a37296bdbdb19fc28fd9e0d7e086bae4a37181ec7a88f379b93ada234b82e0c0",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "操作台砧板上放着一把绿柄宽刃菜刀，下方金属架上有一个带红色标签的大容量透明塑料桶。",
+    "刀具": "有",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 535,
+    "total_tokens": 888,
+    "completion_tokens": 353,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 276
+    }
+  }
+}

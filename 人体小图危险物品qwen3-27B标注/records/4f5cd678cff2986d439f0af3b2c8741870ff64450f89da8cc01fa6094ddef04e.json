@@ -1,0 +1,24 @@
+{
+  "image": "negative/海湖幼儿园后厨操作间1_20261117104110_00.jpg",
+  "image_sha256": "be17bd31035072de3451a97bee2ba6695df7ca474ace3f2106efb6f7910ae786",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿围裙和皮袖套的人站立在室内，双手自然下垂，未见明显手持物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 543,
+    "total_tokens": 744,
+    "completion_tokens": 201,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 129
+    }
+  }
+}

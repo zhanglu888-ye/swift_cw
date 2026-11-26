@@ -1,0 +1,26 @@
+{
+  "image": "negative/唐道8号门_20261025195708_06.jpg",
+  "image_sha256": "bb636abfd7ad83f24db0c79978dcaa586e7f2f1d70cd7412bd8f06ed5f3fd404",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人站在玻璃门前，手持一长条状模糊物体，细节不清。",
+    "刀具": "不确定",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "不确定",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 911,
+    "completion_tokens": 578,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 512
+    }
+  }
+}

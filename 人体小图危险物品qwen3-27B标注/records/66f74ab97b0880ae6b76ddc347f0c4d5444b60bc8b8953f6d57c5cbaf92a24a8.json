@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道匡威店南_20261002151222_01.jpg",
+  "image_sha256": "36cda45928177d632b48621ade5ce513c6f1fdc06690733b028cb8419fef4fba",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "两名穿黑色SWAT制服的人员，背部及肩部携带黑色步枪形枪形物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 593,
+    "total_tokens": 803,
+    "completion_tokens": 210,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 141
+    }
+  }
+}

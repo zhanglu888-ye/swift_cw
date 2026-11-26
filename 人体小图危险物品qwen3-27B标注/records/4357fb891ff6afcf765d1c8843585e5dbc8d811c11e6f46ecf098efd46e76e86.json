@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0048_00.jpg",
+  "image_sha256": "0e3b809794b6416b2e77bb567172298a9e4edcb2142c14d697cdda6695983ba9",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名女子双手握持一把木柄金属斧头的斧头，身前有一截树桩，背景为劈好的木柴堆。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 555,
+    "total_tokens": 829,
+    "completion_tokens": 274,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 196
+    }
+  }
+}

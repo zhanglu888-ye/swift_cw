@@ -1,0 +1,26 @@
+{
+  "image": "negative/刘家寨小区农贸市场西北角_20261123142816_04.jpg",
+  "image_sha256": "7849d5ea91cac1fcc3ca9e5909240a1931f68d4cf02bb84a2ab8ee9ca68286e0",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深色衣服的人抬手握着长条状物体，旁边有人提着红色塑料筐及红色桶状容器。",
+    "刀具": "不确定",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 916,
+    "completion_tokens": 586,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 512
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0453_00.jpg",
+  "image_sha256": "faef67e268d0400e6c2398da39c1378e64ca7759bd87a12aa8cbe6435384c7ae",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人肩扛一个蓝绿色圆柱形钢瓶，瓶身带有红色菱形标志和文字，符合液化石油气钢瓶外观。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 593,
+    "total_tokens": 799,
+    "completion_tokens": 206,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 128
+    }
+  }
+}

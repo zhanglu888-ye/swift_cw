@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道匡威店南_20261021154137_02.jpg",
+  "image_sha256": "0cea0e4cc79004022f8bc5cdde990850d66b7cbf596cc825e2638f11c80602dd",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色背心的人手提一个黄色方形塑料桶，另一人手持深色小物，背景为货车。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 430,
+    "total_tokens": 732,
+    "completion_tokens": 302,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 229
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0364_00.jpg",
+  "image_sha256": "458de37b33dcb9bb50df0bbc3e1acbfe2ca9e8253eba96e04d7d2a53f81954be",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子双手扶着一个灰色金属液化气钢瓶，瓶顶带阀门护罩，放置在木桌上。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 567,
+    "total_tokens": 872,
+    "completion_tokens": 305,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 233
+    }
+  }
+}

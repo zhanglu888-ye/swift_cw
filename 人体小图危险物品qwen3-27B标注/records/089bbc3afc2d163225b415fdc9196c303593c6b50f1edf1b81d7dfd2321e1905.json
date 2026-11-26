@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261107194621_02.jpg",
+  "image_sha256": "6dba1c1888e7614db2cd167938f5072eeb63aedf3f389ff49e423d369cbbbe0f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色衣裤的男子左手提着一个粉色带图案的手提袋。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 515,
+    "total_tokens": 718,
+    "completion_tokens": 203,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 137
+    }
+  }
+}

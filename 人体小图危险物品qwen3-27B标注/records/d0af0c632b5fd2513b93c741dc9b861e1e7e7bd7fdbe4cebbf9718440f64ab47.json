@@ -1,0 +1,24 @@
+{
+  "image": "positive/🏹穿越弩弓之地_1_青皮梨梨_来自小红书网页版_00.jpg",
+  "image_sha256": "c8e1f86efad6344941330e244d7fa8618d8314f37c77580de22162e6d8ab78d8",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴帽男子手持一把带弓臂和弦的弩，弩身为深色长条状，弓臂呈弧形张开。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1470,
+    "total_tokens": 1660,
+    "completion_tokens": 190,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 113
+    }
+  }
+}

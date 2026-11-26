@@ -1,0 +1,24 @@
+{
+  "image": "positive/u=852141302,894691228&fm=253&fmt=auto&app=120&f=JPEG_00.jpg",
+  "image_sha256": "311e77fe1d55094d506369915513d1637e28cbb439046f2df49661d42c89a361",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子双手持握一件棕色木制弩臂状物体，呈横向弓臂结构。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 327,
+    "total_tokens": 594,
+    "completion_tokens": 267,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 199
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/人民公园游船码头3号摄像机_20261121155348_04.jpg",
+  "image_sha256": "51ee77f91298adddaa3ef79cadd0b1a2529ae6c2b5243efcd8197524a1913ff8",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深色外套的人站在户外石板路上，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 541,
+    "completion_tokens": 211,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 146
+    }
+  }
+}

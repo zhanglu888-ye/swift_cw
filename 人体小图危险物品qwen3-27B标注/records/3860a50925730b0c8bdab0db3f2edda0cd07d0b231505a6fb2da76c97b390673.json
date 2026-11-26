@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店南_20261005155650_00.jpg",
+  "image_sha256": "7689f79e7e7519d707ee06ee4367273ba2e751027577e289aa6dee8a575ffd27",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子手持一部黑色长方形手机，另一手旁可见带粉色盖的小水瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 603,
+    "total_tokens": 851,
+    "completion_tokens": 248,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 181
+    }
+  }
+}

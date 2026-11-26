@@ -1,0 +1,24 @@
+{
+  "image": "positive/扛煤气罐_105_00.jpg",
+  "image_sha256": "ee0ca709d70fdac3ce45fdd2d4184d5fa612d3e1175f2cbcbe972ac9c3cb4eb2",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子肩上扛着一个灰色大容量塑料桶/壶，桶口朝上并带有提手结构。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 327,
+    "total_tokens": 519,
+    "completion_tokens": 192,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 120
+    }
+  }
+}

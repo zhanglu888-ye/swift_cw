@@ -1,0 +1,24 @@
+{
+  "image": "positive/01e90436f122c85c010370019a387f93c1_115_6_00.jpg",
+  "image_sha256": "8e910cf97be0496d125534aa5b87f6b94c39fca4d783fdbeaa5e3a68bd58d78a",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子一手提着灰绿色带红字的液化石油气钢瓶，另一手提着银色圆盘状工具。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1497,
+    "total_tokens": 1797,
+    "completion_tokens": 300,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 228
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "image": "positive/海湖幼儿园后厨操作间1_20261117104151_00.jpg",
+  "image_sha256": "ccb3c9648d3453c4b640db6ed1a150dafbee1d89d712edd3f88778bf35c4c41d",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "工作人员手持一个不锈钢小碗，操作台上放有大盆生鸡肉块和一块黄色抹布。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 991,
+    "total_tokens": 1275,
+    "completion_tokens": 284,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 214
+    }
+  }
+}

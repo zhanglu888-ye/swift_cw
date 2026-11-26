@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261027112303_04.jpg",
+  "image_sha256": "132d1ed01a5e286a76afc4f6850a42d2b1c6bdc25079ead4e9eaa4f4157e0c5b",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黄色外卖服、戴黄色头盔的骑手坐在带美团配送箱的电动车上，背景有人手持手机。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 531,
+    "total_tokens": 727,
+    "completion_tokens": 196,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 121
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/_1_大酥的日记_来自小红书网页版_00.jpg",
+  "image_sha256": "c9c9a2281344d082982ff0ba4719dfc34403959e97b1a6f893c5439e00f00ae4",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子戴绿色手套扶着一个灰色圆柱形液化气钢瓶，另一手握带黄色部件的工具。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 689,
+    "total_tokens": 968,
+    "completion_tokens": 279,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 208
+    }
+  }
+}

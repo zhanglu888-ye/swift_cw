@@ -1,0 +1,24 @@
+{
+  "image": "negative/海晏路10号院门口照东_20261123154007_00.jpg",
+  "image_sha256": "63c7dfed34736c54f0871c73fa70e194ec4420ea0ff6a30467798a33ee88fc5d",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "人物一手持白色纸片，另一手提装有浅色块状物的透明塑料袋。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 367,
+    "total_tokens": 551,
+    "completion_tokens": 184,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 117
+    }
+  }
+}

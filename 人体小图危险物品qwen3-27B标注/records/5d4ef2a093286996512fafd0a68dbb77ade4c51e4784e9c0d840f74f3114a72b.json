@@ -1,0 +1,24 @@
+{
+  "image": "negative/才儿坊幼儿园厨房操作间_20261118103654_00.jpg",
+  "image_sha256": "0d4737b51edbe449aaa01097edfe415a58b937dfcc0438d42bf0b2163d3b7b12",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿白色工作服、戴发网和口罩的厨房人员站在不锈钢操作台前，台面上摆放着装有白菜、葱、西红柿、黄瓜等食材的不锈钢盆及背景调料瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 552,
+    "total_tokens": 887,
+    "completion_tokens": 335,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 245
+    }
+  }
+}

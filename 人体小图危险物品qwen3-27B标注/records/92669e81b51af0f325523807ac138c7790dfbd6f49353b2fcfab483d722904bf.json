@@ -1,0 +1,24 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索_83_00.jpg",
+  "image_sha256": "b57cc21c6aabe59d45a51ab3ebdecf93559b71704207eb4343a7a73a21b8d2ec",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名女子双手持握一支带光学瞄准镜的长枪形物体，可见枪身、握把及顶部瞄具。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 549,
+    "total_tokens": 731,
+    "completion_tokens": 182,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 106
+    }
+  }
+}

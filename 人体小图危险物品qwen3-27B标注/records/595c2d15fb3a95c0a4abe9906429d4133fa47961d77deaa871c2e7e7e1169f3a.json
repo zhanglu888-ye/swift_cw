@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0339_00.jpg",
+  "image_sha256": "4a3d6e2c7c4a68b471f84b9f971d4d1622aaae0a26569e0406ce726a4cf931e8",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴橙色手套的男子手持一把带长柄的金属斧头，斧头金属头部清晰可见。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 567,
+    "total_tokens": 856,
+    "completion_tokens": 289,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 218
+    }
+  }
+}

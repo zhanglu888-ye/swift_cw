@@ -1,0 +1,24 @@
+{
+  "image": "negative/南交通巷北口_20261121162350_03.jpg",
+  "image_sha256": "6b2804d6644fdcc0be8f5fd7527355a196bc1bafafe755d967c57df55e1f2ff9",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中几人站立，旁边停有一辆带轮推车，未见目标手持物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 431,
+    "total_tokens": 667,
+    "completion_tokens": 236,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 168
+    }
+  }
+}

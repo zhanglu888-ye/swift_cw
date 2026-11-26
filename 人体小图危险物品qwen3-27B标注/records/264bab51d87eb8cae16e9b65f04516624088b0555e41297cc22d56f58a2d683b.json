@@ -1,0 +1,26 @@
+{
+  "image": "negative/唐道阿迪达斯北_20261006164436_09.jpg",
+  "image_sha256": "81911c8ac7225716fa63fe6c01fb38de950bd634ee58d61448bc268561711407",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿白T恤、腰系格子衬衫的男子背对镜头站立，右手下垂处似握有一深色细长条状物，外形模糊难辨。",
+    "刀具": "不确定",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 363,
+    "total_tokens": 710,
+    "completion_tokens": 347,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 264
+    }
+  }
+}

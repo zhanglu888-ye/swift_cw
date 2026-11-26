@@ -1,0 +1,24 @@
+{
+  "image": "positive/01ea40902309c135010370019f0c331ff0_258_2_00.jpg",
+  "image_sha256": "e9a672be81c8ecdd2844aebc6141f47f93b520e7547e33649ae58f0d49420ef1",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿燃气配送制服者肩扛绿色大容量塑料桶，手提装有绿色液化石油气钢瓶的白色袋子。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 777,
+    "total_tokens": 1092,
+    "completion_tokens": 315,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 241
+    }
+  }
+}

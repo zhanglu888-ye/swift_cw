@@ -1,0 +1,26 @@
+{
+  "image": "negative/唐道8号门_20261004094639_00.jpg",
+  "image_sha256": "c583e84e00740a79fea43e28cb8b86a82f74106c1ba5e358a116055751a4249c",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿红色连帽外套的人背对镜头，右手提着一个带提手的浅色小容器。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "不确定",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 489,
+    "total_tokens": 925,
+    "completion_tokens": 436,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 365
+    }
+  }
+}

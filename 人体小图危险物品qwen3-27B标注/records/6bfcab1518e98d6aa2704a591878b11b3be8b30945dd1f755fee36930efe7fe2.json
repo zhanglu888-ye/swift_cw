@@ -1,0 +1,24 @@
+{
+  "image": "positive/扛煤气罐_148_00.jpg",
+  "image_sha256": "642328411e1479a88bd7d24ec0ee963a53ddf39dbab0b5f587c243e8d0e134b4",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人手提一个绿色液化石油气钢瓶，瓶身圆柱形，顶部带提手和阀门。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 955,
+    "total_tokens": 1168,
+    "completion_tokens": 213,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 141
+    }
+  }
+}

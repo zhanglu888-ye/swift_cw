@@ -1,0 +1,24 @@
+{
+  "image": "positive/海晏路10号院门口照东_20261123154002_01.jpg",
+  "image_sha256": "a55a6567fa26d43fa7c384d75493987739e8ebe90e3f43c8fb054b5442fdd01c",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人手提一个绿色圆柱形液化气钢瓶，瓶顶可见阀门护罩结构。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 581,
+    "completion_tokens": 256,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 188
+    }
+  }
+}

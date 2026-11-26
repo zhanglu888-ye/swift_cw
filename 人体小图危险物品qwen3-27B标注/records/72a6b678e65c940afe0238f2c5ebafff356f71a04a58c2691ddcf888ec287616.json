@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0468_00.jpg",
+  "image_sha256": "eaa716b4244770fa273c1b4a2068335f10c66e6f9ef853dcedb0bde389196f54",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人坐在汽车后备箱内，怀中抱着一个蓝绿色金属罐体，外罩印有红色字样的橙色袋子，形似液化气钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 459,
+    "total_tokens": 732,
+    "completion_tokens": 273,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 193
+    }
+  }
+}

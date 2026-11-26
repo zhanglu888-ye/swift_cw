@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道8号门_20261007184226_05.jpg",
+  "image_sha256": "1850f09b1de515eaba76ac163a36b8ce5c865f8cace1617a7ea50c36a3edc2e3",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "小孩坐在儿童推车上，双手握持一件黑色长条状枪形物体，可见枪管与握把轮廓。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 426,
+    "total_tokens": 641,
+    "completion_tokens": 215,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 139
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/刘家寨小区农贸市场北门基站款摄像机_20261120093001_02.jpg",
+  "image_sha256": "8e9f5a3dda976cdf273a0000697ea7ee46aa26d02cef5c03f2cefa98feda60a4",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面主要为一辆白色车辆顶部局部，可见一个橙色方形警示灯装置及背景红色标牌，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 703,
+    "total_tokens": 889,
+    "completion_tokens": 186,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 110
+    }
+  }
+}

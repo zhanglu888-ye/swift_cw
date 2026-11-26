@@ -1,0 +1,24 @@
+{
+  "image": "negative/北气象巷路口祭祀点_20261123115944_04.jpg",
+  "image_sha256": "0b73d97f3d666cceedf3996b4476024c5031e4c3d7768a8ed6c17ebc08d8333d",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子手持一个深色包状物，身旁立有写有“烟酒茶叶”字样的招牌。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 572,
+    "completion_tokens": 247,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 176
+    }
+  }
+}

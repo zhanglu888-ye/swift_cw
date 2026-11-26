@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道苹果手机店北_20261017154305_03.jpg",
+  "image_sha256": "dd9322ce736585e8fb17771d33d5876b6a407fe432b27791d45bb973e47f5617",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深色衣裤的人站立，双手在身前持一浅色小物体，细节模糊不清。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 548,
+    "completion_tokens": 223,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 152
+    }
+  }
+}

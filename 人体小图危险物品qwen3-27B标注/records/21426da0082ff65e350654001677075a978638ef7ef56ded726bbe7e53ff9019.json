@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0147_00.jpg",
+  "image_sha256": "0cf3bbf0fc756eaa39765c0fe64507a9588c1503936004722b67447c39886748",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人肩扛一个灰色大容量塑料桶，桶身带提手并有红色标记。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 567,
+    "total_tokens": 818,
+    "completion_tokens": 251,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 183
+    }
+  }
+}

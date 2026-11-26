@@ -1,0 +1,24 @@
+{
+  "image": "negative/发现更多精彩视频 - 抖音搜索 (3)_34_02.jpg",
+  "image_sha256": "cfb402e888b1999ab9ce2233cae9957e75737996322717d1090a2b71088bcb98",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑白波点上衣的人站在带车把的手推车旁，车上放有杂物，其手下垂握着一根细长杆状物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 645,
+    "completion_tokens": 315,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 234
+    }
+  }
+}

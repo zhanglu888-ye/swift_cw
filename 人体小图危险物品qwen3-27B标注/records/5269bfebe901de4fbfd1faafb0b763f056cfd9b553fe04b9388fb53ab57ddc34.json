@@ -1,0 +1,24 @@
+{
+  "image": "positive/人民公园游乐园门口1号摄像机_20261121162354_05.jpg",
+  "image_sha256": "e6a83b9643e0109bfe0a67cff70b591df3587dacaa4b2eb7deafc22b51f0cc53",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名背黑色双肩包的人右手持一长柄、顶部带横向结构的工具状物。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 327,
+    "total_tokens": 1114,
+    "completion_tokens": 787,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 717
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "image": "positive/唐道8号门_20261007184215_08.jpg",
+  "image_sha256": "9cb2b2bad57bdcef150a3e02dd4f75cbede2ad84e2a9df97336cec8636f485cd",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴口罩和帽子的女子推着一辆黑色婴儿车，车内坐着一名小孩，背景有其他行人。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 345,
+    "total_tokens": 554,
+    "completion_tokens": 209,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 136
+    }
+  }
+}

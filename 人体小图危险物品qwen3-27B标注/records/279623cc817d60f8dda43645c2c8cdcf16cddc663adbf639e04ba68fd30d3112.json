@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0145_00.jpg",
+  "image_sha256": "cc06640d94807f0e01d70055ae2c937945e3846d429cd3eb848798008f38ad5d",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人肩扛一个灰色圆柱形金属钢瓶，顶部带黄色阀门接口和提手。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 519,
+    "total_tokens": 786,
+    "completion_tokens": 267,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 197
+    }
+  }
+}

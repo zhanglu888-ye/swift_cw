@@ -1,0 +1,24 @@
+{
+  "image": "negative/兴海路11号院西南角枪机2_20261122132659_01.jpg",
+  "image_sha256": "9a8fe4304bb656b317af4b30caa11f3e73bdb2ab629a047e5222e67f91cfba92",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面主体为红色户外健身器材，含两个红色圆盘状把手与黑色立柱，立柱上装有电子显示屏，下方可见一辆汽车的车顶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 464,
+    "total_tokens": 633,
+    "completion_tokens": 169,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 89
+    }
+  }
+}

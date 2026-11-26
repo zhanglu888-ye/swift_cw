@@ -1,0 +1,24 @@
+{
+  "image": "positive/虎台一巷16号院西变焦枪机_20261119170553_04.jpg",
+  "image_sha256": "3f98484bd88d3e3202a8548081c9ad4120b5585c480b5ba91fb698566890ab96",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色羽绒服者手持一把黑色长枪形物体，背景穿粉色羽绒服者肩扛另一把长枪形物体。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 592,
+    "completion_tokens": 259,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 184
+    }
+  }
+}

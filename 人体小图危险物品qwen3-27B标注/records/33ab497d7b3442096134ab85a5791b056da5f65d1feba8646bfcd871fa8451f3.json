@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261004204727_06.jpg",
+  "image_sha256": "89284171781e480482deb20b297dab052ca8d1ee2f7e47d6153ee2ff2257349d",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿白色外套的女子肩挎黑色包，身旁有两名行人及一辆红色电动车。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 498,
+    "total_tokens": 741,
+    "completion_tokens": 243,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 174
+    }
+  }
+}

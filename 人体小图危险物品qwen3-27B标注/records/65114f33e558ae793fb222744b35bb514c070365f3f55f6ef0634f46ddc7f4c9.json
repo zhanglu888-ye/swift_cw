@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店南_20261031133248_04.jpg",
+  "image_sha256": "52e2c862ebf81f84cb78aae86ed92628c353dbaa48c2a1a5349b8b13eff8aa45",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "两名男子近距离相对，一人穿黑色上衣侧脸，另一人穿带The North Face标志的黑色外套背对镜头，左侧男子手搭在对方肩上并持一浅色小物，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 521,
+    "total_tokens": 746,
+    "completion_tokens": 225,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 131
+    }
+  }
+}

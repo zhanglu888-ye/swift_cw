@@ -1,0 +1,26 @@
+{
+  "image": "positive/南交通巷北口_20261121162439_05.jpg",
+  "image_sha256": "831dbcc64a5ad0b2cbb38caccaa9c38275fe27280ec5286622305842576fa9c5",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名小孩手持一根细长杆状物，其上带有若干黄色部件，其余人未见明显手持物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 657,
+    "completion_tokens": 332,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 260
+    }
+  }
+}

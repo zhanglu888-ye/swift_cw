@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道阿迪达斯北_20261029165925_02.jpg",
+  "image_sha256": "4ede17aa0d17d2f08a34174ac052b741e7d43dff83de3f42e3c5d722f0b45836",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深色外套的男子右手下垂握持一深色手枪形物体，其身旁可见一个红色带横向加强筋的大容量塑料桶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 375,
+    "total_tokens": 775,
+    "completion_tokens": 400,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 321
+    }
+  }
+}

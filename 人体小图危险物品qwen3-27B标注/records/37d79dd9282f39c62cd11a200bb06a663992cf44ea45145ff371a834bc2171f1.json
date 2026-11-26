@@ -1,0 +1,24 @@
+{
+  "image": "negative/虎台一巷16号院大门口变焦枪机_20261119170612_07.jpg",
+  "image_sha256": "68de77261b129093146c2c814ca796c8cdf65b5a2dfa57f760f6826c56bf07f6",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一辆白色汽车的前部，可见引擎盖、带V形车标的进气格栅，以及透过挡风玻璃看到的方向盘、猫脸图案头枕和仪表台上的浅色毛巾。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 541,
+    "total_tokens": 745,
+    "completion_tokens": 204,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 118
+    }
+  }
+}

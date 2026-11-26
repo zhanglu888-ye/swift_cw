@@ -1,0 +1,26 @@
+{
+  "image": "negative/01ea6aef9a1f927c010370019fb1b93e33_309_9_00.jpg",
+  "image_sha256": "c3ff0fff3145452f4be17bd6537eb8e21c5adf0fa61c37f2d35ca745cc23aa5f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "戴草帽男子手持一根细长杆状物，身旁可见一个浅色桶状容器。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 323,
+    "total_tokens": 728,
+    "completion_tokens": 405,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 336
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道匡威店西_20261115124508_01.jpg",
+  "image_sha256": "92d646db328fd73af7b1dc8f6dcd060484c2426e3290cd11eacbebf0d57f1311",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子左手提着一个装有黄色液体的透明塑料大桶（疑似食用油桶）。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 391,
+    "total_tokens": 607,
+    "completion_tokens": 216,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 150
+    }
+  }
+}

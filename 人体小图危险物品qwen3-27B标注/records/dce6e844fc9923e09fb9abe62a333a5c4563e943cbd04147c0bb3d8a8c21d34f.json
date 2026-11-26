@@ -1,0 +1,26 @@
+{
+  "image": "positive/唐道8号门_20261002134136_03.jpg",
+  "image_sha256": "21b09d204636c65383d7106331d5331a754a205862ad434ada1f2fb8b991bd38",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名红衣儿童坐在石墩上，手持一根黑色长条杆状物斜放于腿侧，旁边有人伸手靠近。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 339,
+    "total_tokens": 756,
+    "completion_tokens": 417,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 340
+    }
+  }
+}

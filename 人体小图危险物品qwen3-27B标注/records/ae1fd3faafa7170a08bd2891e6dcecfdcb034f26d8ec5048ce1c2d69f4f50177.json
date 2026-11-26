@@ -1,0 +1,24 @@
+{
+  "image": "negative/u=3219575410,1848916312_fm=253_fmt=auto_app=138_f=JPEG_00.jpg",
+  "image_sha256": "aac9dc5cdbac18b6da55abded69c6dd451205e45b98a9c4d036356ce794f044b",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "消防员身穿消防服、头戴红色和黄色头盔，手持消防水枪正在喷水。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 332,
+    "total_tokens": 599,
+    "completion_tokens": 267,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 199
+    }
+  }
+}

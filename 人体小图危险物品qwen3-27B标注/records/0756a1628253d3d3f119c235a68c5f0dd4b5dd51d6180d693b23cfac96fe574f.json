@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0103_00.jpg",
+  "image_sha256": "a6bf67ca7ea3bcbfadc5af5257e51ca6ce9831402e8962d83074c76954899fa8",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子手持一把木柄宽刃砍刀正在砍树，金属刃部呈银灰色。",
+    "刀具": "有",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 508,
+    "total_tokens": 803,
+    "completion_tokens": 295,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 224
+    }
+  }
+}

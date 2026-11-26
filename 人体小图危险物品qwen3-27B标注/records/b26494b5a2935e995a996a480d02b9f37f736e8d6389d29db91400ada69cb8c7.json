@@ -1,0 +1,24 @@
+{
+  "image": "negative/人民公园大门口出口1号摄像机_20261122161610_01.jpg",
+  "image_sha256": "512c0bb0baa8d965d9f9557fe7e25c47abc93dc2dd14050d71e4a681635ed9fd",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "人物穿棕色大衣，手提一个黑白格纹编织手提包。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 320,
+    "total_tokens": 528,
+    "completion_tokens": 208,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 144
+    }
+  }
+}

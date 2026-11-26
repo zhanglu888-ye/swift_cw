@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0165_02.jpg",
+  "image_sha256": "37b4355edcc7d4b8e43e8d4ee542cd5e79746ce210b260a02e8c4921377f5118",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子手扶一个浅蓝灰色、带阀门且印有红色字样的液化石油气钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 417,
+    "total_tokens": 642,
+    "completion_tokens": 225,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 153
+    }
+  }
+}

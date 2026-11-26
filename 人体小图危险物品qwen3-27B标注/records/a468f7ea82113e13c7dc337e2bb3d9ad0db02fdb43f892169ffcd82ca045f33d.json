@@ -1,0 +1,24 @@
+{
+  "image": "negative/虎台一巷中段东侧人行辅道人脸检测朝西南_202611171217_03.jpg",
+  "image_sha256": "fcbc98a9b50b25b1b8a89fc806135a8f57e21f256bfa6e19dc765706d806d23e",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "穿粉色外套的人站在树旁，手部未见可辨认的目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 591,
+    "completion_tokens": 266,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 201
+    }
+  }
+}

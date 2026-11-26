@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店南_20261002200840_02.jpg",
+  "image_sha256": "90a807ef12eef8eeba6e2c983a0d2af8b93764efcfdbe676afda1e352f31f0c8",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "两名行人正在户外街道上行走，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 416,
+    "total_tokens": 615,
+    "completion_tokens": 199,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 137
+    }
+  }
+}

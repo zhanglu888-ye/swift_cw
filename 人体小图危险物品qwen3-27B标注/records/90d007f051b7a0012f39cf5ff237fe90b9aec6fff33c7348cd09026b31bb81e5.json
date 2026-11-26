@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店西_20261003143213_04.jpg",
+  "image_sha256": "a70c7bd656d5d6455e25fde432dd1d7d43b6820b57d48655d4b4a922a9d9863b",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿灰色上衣和长裤的女性背对镜头行走，肩斜挎一个包，手持手机贴近耳边，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 340,
+    "total_tokens": 524,
+    "completion_tokens": 184,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 107
+    }
+  }
+}

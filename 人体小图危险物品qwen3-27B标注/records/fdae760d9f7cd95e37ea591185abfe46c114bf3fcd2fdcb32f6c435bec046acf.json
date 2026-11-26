@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道三岔口北_20261027152039_00.jpg",
+  "image_sha256": "ba130d1d3140ebd82dde4e4ea06ab603fb89cd7dc81ac973c1c35be4af61d558",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名光头男子穿黑色皮夹克和黑色长裤背手站立，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 407,
+    "total_tokens": 604,
+    "completion_tokens": 197,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 128
+    }
+  }
+}

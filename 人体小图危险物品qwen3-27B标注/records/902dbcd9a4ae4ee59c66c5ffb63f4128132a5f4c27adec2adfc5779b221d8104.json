@@ -1,0 +1,24 @@
+{
+  "image": "positive/扛煤气罐_057_00.jpg",
+  "image_sha256": "d74a3f0789f9b29e2b1f5055e5934652d24905ae0d0ceb847adedec75ac50593",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿围裙的女子手扶一个粉红色液化气钢瓶，瓶身印有“V2”及“共享安全”等字样。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 327,
+    "total_tokens": 604,
+    "completion_tokens": 277,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 199
+    }
+  }
+}

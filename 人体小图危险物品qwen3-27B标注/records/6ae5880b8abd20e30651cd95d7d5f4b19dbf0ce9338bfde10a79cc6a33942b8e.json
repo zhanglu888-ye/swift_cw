@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道阿迪达斯南_20261003171158_03.jpg",
+  "image_sha256": "594830b72c6b5d7338c74434460ad86b1482aa60aa026aaaf0bc34c86deb3179",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿白色连帽衫的男子低头查看柜台上的手机展示架，旁边有盒装商品，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 391,
+    "total_tokens": 577,
+    "completion_tokens": 186,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 111
+    }
+  }
+}

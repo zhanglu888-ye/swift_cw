@@ -1,0 +1,24 @@
+{
+  "image": "negative/1320957559_FXTsTv_02.jpg",
+  "image_sha256": "aa466bafd4a5136e14617e19e815801f22d58dec0865d5444e76d8110b430011",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中数人站立，可见穿黑色皮夹克男子、穿豹纹上衣者及带臂章制服人员，未见明显手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 335,
+    "total_tokens": 584,
+    "completion_tokens": 249,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 168
+    }
+  }
+}

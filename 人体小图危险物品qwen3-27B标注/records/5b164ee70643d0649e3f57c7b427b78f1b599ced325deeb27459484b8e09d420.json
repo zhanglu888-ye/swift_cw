@@ -1,0 +1,24 @@
+{
+  "image": "positive/01ea7296b55d0611010370019fcf9e017b_301_48_00.jpg",
+  "image_sha256": "c204822444311525b7f6e29e53491f98b57cabbaf863c1369eaa7c850638c88b",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子手持一个木制弩状装置，带有长木柄、木质箱体、弯曲的竹制弓臂及弦线。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1383,
+    "total_tokens": 1713,
+    "completion_tokens": 330,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 254
+    }
+  }
+}

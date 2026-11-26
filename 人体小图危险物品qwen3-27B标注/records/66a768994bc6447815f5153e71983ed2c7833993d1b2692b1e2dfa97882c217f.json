@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道阿迪达斯北_20261009151750_00.jpg",
+  "image_sha256": "34a359ab93a2fe6a44cde9c1ace49ed725a8239d29442c925eaa0801b2950db7",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名黑衣男子手扶蓝色平板手推车，车上放着数个蓝色透明大容量塑料桶装水。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 415,
+    "total_tokens": 628,
+    "completion_tokens": 213,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 142
+    }
+  }
+}

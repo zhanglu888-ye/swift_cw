@@ -1,0 +1,24 @@
+{
+  "image": "negative/88-mp4_21_100x100_0_jpg.rf.ab42e40c4f97db4c7d9e3ed5e47ce8fc_03.jpg",
+  "image_sha256": "c576e37236a37a8817242665560f2257556ef03eac28e44a8d03ba3c43d1ff8e",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面模糊，可见一人站立于绿色地面旁，前景有一白色带黑色条纹的物体顶部。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 667,
+    "completion_tokens": 342,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 271
+    }
+  }
+}

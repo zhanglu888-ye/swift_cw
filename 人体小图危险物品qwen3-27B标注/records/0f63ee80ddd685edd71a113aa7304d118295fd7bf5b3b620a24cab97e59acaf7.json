@@ -1,0 +1,24 @@
+{
+  "image": "positive/海湖幼儿园后厨操作间1_20261117100751_00.jpg",
+  "image_sha256": "5a22adb9ff30ed7528d900f1ef8c389269de391e6331adc9d222ff304687a0aa",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名厨师手持一把宽刃金属菜刀在砧板上切菜，旁边还放着另一把菜刀。",
+    "刀具": "有",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 827,
+    "total_tokens": 1033,
+    "completion_tokens": 206,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 134
+    }
+  }
+}

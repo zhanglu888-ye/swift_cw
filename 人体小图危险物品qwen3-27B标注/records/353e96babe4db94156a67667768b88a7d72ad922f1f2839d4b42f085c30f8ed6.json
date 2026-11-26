@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道苹果手机店北_20261027114758_01.jpg",
+  "image_sha256": "bec9d6ad9bc223f9b6818ee7f123a5db3c929d3b5a8ab31df8a46b947e6f3bdd",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子手提一个带白色提手和盖子的大容量塑料桶，旁边蓝色手推车上放有白色塑料桶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 381,
+    "total_tokens": 663,
+    "completion_tokens": 282,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 207
+    }
+  }
+}

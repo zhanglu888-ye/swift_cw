@@ -1,0 +1,24 @@
+{
+  "image": "positive/100-mp4_44_100x100_0_jpg.rf.ae62583b2543ae09374e0cd6c388c76e_00.jpg",
+  "image_sha256": "fa26a739145efdd8de2c28bf4e1d95b0a92b9e4d857013adf6f133a775c0c3bd",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑衣红鞋的人手持一把手枪形物体。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 320,
+    "total_tokens": 513,
+    "completion_tokens": 193,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 131
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道三岔口南摄像机_20261114100509_02.jpg",
+  "image_sha256": "536a8303c7ab0591fbcb59e2404ee80a88a4fcc484d330e0f9260094ff522fc9",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色羽绒服和黑色长裤的男子背对镜头行走，肩斜挎包带，未见明显手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 320,
+    "total_tokens": 537,
+    "completion_tokens": 217,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 142
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0003_01.jpg",
+  "image_sha256": "efc480fefb78edfd646f577b078a261efdad7b04738ef34675c5923719be2b35",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色羽绒服的男子左手提着一个银白色带绿色标志的液化气钢瓶，右手拿着一根细长弯曲的条状物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 629,
+    "completion_tokens": 296,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 217
+    }
+  }
+}

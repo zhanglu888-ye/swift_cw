@@ -1,0 +1,24 @@
+{
+  "image": "negative/海湖幼儿园后厨操作间1_20261117100749_00.jpg",
+  "image_sha256": "1b7bd49504a4652dd8fc940e87e6f497594a3ded2fe4a82d08f2cca5b4452a78",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "人物双手握持一个银白色长条状物体，旁边可见带孔的金属板状物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 711,
+    "total_tokens": 1060,
+    "completion_tokens": 349,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 278
+    }
+  }
+}

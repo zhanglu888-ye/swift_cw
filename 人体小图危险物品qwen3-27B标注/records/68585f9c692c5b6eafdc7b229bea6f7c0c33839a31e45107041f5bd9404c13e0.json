@@ -1,0 +1,24 @@
+{
+  "image": "negative/海晏路10号院门口照东_20261123154002_03.jpg",
+  "image_sha256": "54973d6633332c7a33768d5a2135f3b35e540a7ca7967005a8e2db39a8d98f01",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴头盔和口罩的人骑着一辆装有灰色挡风被的电动车。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 321,
+    "total_tokens": 511,
+    "completion_tokens": 190,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 124
+    }
+  }
+}

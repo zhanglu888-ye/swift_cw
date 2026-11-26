@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道三岔口南摄像机_20261114100513_03.jpg",
+  "image_sha256": "faae00f205775d0987ed04f40a05975ffc063cfcc968ebb803f1151c0b6d54e3",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴白帽、穿深色外套、戴蓝色手套的男子手扶一辆装有浅色篷布覆盖物的金属手推车。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 407,
+    "total_tokens": 666,
+    "completion_tokens": 259,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 183
+    }
+  }
+}

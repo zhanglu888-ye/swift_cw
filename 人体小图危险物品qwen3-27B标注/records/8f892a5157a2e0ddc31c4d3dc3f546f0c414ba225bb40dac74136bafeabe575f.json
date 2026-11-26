@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道同盛路停车场入口_20261017153748_09.jpg",
+  "image_sha256": "2b9b2c85109ccf65061ddc7f8246ceac93a41d10e8dc93150bd6c5031ba9f1bb",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中为穿制服佩戴对讲机的安保人员与穿毛领外套的女子，未见目标手持物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 409,
+    "total_tokens": 667,
+    "completion_tokens": 258,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 186
+    }
+  }
+}

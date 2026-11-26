@@ -1,0 +1,24 @@
+{
+  "image": "positive/72-mp4_620_100x100_0_jpg.rf.aa13b2f2210d037a3c31eb9411e9932e_00.jpg",
+  "image_sha256": "ba519d56ca255a36aef9e9cf78d4c2e6e6e605e21849b280519689881892db10",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深色衣服的人斜挎一根顶端带黑白相间标记的细长杆状物，图像模糊不清。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "不确定",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 816,
+    "completion_tokens": 486,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 413
+    }
+  }
+}

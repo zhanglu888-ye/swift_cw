@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0477_00.jpg",
+  "image_sha256": "4b751d122de719db6c02f73495564c3033ff64e1e79f40e0e735acfe0ba1c25d",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人蹲姿手扶一个橙色瓶身、绿色顶盖的液化石油气钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 515,
+    "total_tokens": 781,
+    "completion_tokens": 266,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 196
+    }
+  }
+}

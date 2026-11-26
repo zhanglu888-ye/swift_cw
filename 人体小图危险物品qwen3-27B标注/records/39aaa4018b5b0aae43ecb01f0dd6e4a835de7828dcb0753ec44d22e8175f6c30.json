@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0201_00.jpg",
+  "image_sha256": "8b8a40f73a4907876278e98bb21031b58e601f4b41563dd6ec3ff9e6eb4d1b09",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人双手举过头顶，手持一把带长柄的金属斧头，另一侧另有一模糊的带柄物体。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 567,
+    "total_tokens": 880,
+    "completion_tokens": 313,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 238
+    }
+  }
+}

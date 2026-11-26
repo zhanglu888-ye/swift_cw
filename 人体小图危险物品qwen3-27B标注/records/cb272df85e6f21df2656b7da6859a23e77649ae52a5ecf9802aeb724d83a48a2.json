@@ -1,0 +1,24 @@
+{
+  "image": "positive/南交通巷北口_20261121162321_01.jpg",
+  "image_sha256": "b80a6487214c2984deb2e933e97db12b188526108fd85ff6e08c64af86e26ba1",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑白外套的男孩手持一支深色步枪形物体，可见枪托、护木与长枪管。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 537,
+    "completion_tokens": 204,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 131
+    }
+  }
+}

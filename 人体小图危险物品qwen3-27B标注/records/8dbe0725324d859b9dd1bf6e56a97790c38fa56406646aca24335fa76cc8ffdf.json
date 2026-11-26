@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0384_01.jpg",
+  "image_sha256": "9834a014af0a3730d774704935a4985dee5c9061a56165fb13558f4dd4972b6b",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子身旁立着一个套有白色塑料袋、袋面印有红色“石油气钢瓶”字样的金属钢瓶，顶部带阀门。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 437,
+    "total_tokens": 646,
+    "completion_tokens": 209,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 129
+    }
+  }
+}

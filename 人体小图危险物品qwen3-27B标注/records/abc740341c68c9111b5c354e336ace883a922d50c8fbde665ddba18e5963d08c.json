@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道阿迪达斯南_20261003171158_02.jpg",
+  "image_sha256": "f984f87d6aaf689e3708441d33b552bd4de7fe2488ac95979e84ff1d0c913e71",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "海报上为穿蓝白制服、戴头盔的人物形象，下方可见金属栏杆结构。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 391,
+    "total_tokens": 628,
+    "completion_tokens": 237,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 168
+    }
+  }
+}

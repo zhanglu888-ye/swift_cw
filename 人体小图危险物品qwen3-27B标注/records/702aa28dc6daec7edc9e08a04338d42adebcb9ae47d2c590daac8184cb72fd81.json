@@ -1,0 +1,26 @@
+{
+  "image": "positive/东方幼教幼儿园后厨加工间_20261119102816_01.jpg",
+  "image_sha256": "ffe442ba955f42afa25c9afda4f098e4e077e44bc73fe4ede30e87412cffc121",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿白色工作服、戴白色帽子的人俯拍站立，右手握着一个无法辨认的小物体。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 1047,
+    "total_tokens": 1361,
+    "completion_tokens": 314,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 243
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261014135010_01.jpg",
+  "image_sha256": "f019c9d7dad5c2d2624b06fd75e005ae021b606d17941769b02fefce42118016",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑衣男子站立低头看手中白色小物件（似手机），身旁立有一个蓝色锥形路障。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 471,
+    "total_tokens": 694,
+    "completion_tokens": 223,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 150
+    }
+  }
+}

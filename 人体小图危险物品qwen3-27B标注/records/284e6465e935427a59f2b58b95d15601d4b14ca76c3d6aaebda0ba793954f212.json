@@ -1,0 +1,24 @@
+{
+  "image": "negative/中泰百货东侧_20261122131508_04.jpg",
+  "image_sha256": "f3df0f3d5449d59134051887c31771099ceb63debf0da65442041834fe428691",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "穿粉色羽绒服和粉色长裤的人，手中握有一根细长浅色棍状物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 623,
+    "completion_tokens": 290,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 222
+    }
+  }
+}

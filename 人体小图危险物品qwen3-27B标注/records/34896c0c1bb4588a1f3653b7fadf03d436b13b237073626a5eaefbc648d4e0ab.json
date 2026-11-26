@@ -1,0 +1,24 @@
+{
+  "image": "positive/校园西门北侧外墙照北-五四小学-平安校园_20261121093257_00.jpg",
+  "image_sha256": "34883831a5981573525346cac77ae3af7b8e4af16d3a255fca7e3162543b3289",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "人物双手持握一支深色长枪形物体，前端可见细长枪管。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 339,
+    "total_tokens": 539,
+    "completion_tokens": 200,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 134
+    }
+  }
+}

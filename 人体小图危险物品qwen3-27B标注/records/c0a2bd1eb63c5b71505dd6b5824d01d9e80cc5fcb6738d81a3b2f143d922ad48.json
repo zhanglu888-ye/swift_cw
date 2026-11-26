@@ -1,0 +1,24 @@
+{
+  "image": "positive/01e9e5f54c09df9d010370019daa543446_115 (1)_36_01.jpg",
+  "image_sha256": "ae07f52b48702186642ad20c7c01f35122c775141f5755cdb741491737f96b53",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名女子蹲地手持一把木制弩，可见木质弓臂、弩身及拉弦。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1527,
+    "total_tokens": 1747,
+    "completion_tokens": 220,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 150
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道637火车头东侧停车场入口北_20261111110041_00.jpg",
+  "image_sha256": "313b2516b495420ba258f06731791dbb0eb6faa97bf839070dbc46be1d5c1436",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴口罩穿绿色上衣的男子推着一辆手推车，车上堆叠着多只蓝色透明的大容量塑料水桶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 381,
+    "total_tokens": 596,
+    "completion_tokens": 215,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 140
+    }
+  }
+}

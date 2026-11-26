@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道阿迪达斯北_20261105104858_02.jpg",
+  "image_sha256": "194b22f157aeee4a80336f91058e9baa933f95e931aec20fbc61395cb89bcaba",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人站在金属梯子上，身穿绿色外套、戴帽，手持一件绿色园艺修剪工具。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 696,
+    "completion_tokens": 371,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 301
+    }
+  }
+}

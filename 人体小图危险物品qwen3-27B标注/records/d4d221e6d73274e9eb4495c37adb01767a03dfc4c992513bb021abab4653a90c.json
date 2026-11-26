@@ -1,0 +1,24 @@
+{
+  "image": "negative/9c16fdfaaf51f3de8f76204b39e50d113b2979f7_01.jpg",
+  "image_sha256": "c7ba4a9dbd43b56498cab7a4ddb771e72b8c762a0207b90614d2731a5fa8b5ca",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中为几名人物，前景一人穿绿白上衣弯腰，背景有人穿蓝色衣服，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 327,
+    "total_tokens": 502,
+    "completion_tokens": 175,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 101
+    }
+  }
+}

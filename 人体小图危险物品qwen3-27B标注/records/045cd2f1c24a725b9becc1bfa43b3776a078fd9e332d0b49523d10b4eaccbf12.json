@@ -1,0 +1,24 @@
+{
+  "image": "positive/虎台二巷梧桐午托班后厨_20261119104202_02.jpg",
+  "image_sha256": "0aea3adcd0c97e0ff6e7be83c39dc01271287eb6d8f3a36311efbeb68bd2148d",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "手持一把带棕色木柄的金属厨刀（菜刀），正在砧板旁操作。",
+    "刀具": "有",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 516,
+    "total_tokens": 760,
+    "completion_tokens": 244,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 175
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "image": "positive/唐道阿迪达斯北_20261115150905_03.jpg",
+  "image_sha256": "aff2e55a2043de9d8c778b0632d3c4e34b10598e2b8282b9e506bd0800807850",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色外套的男子站在桌前手持蓝红色纸张，背景可见绿色钢瓶及坐立人员。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 415,
+    "total_tokens": 810,
+    "completion_tokens": 395,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 322
+    }
+  }
+}

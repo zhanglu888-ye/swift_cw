@@ -1,0 +1,24 @@
+{
+  "image": "positive/海晏路10号院门口照东_20261123154002_02.jpg",
+  "image_sha256": "9311d6b151cc3ce41e04b9f57db33c882a79779ba5371db8484166c549683a07",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人背对镜头，左手提着一个绿色圆柱形钢瓶状物体。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 320,
+    "total_tokens": 554,
+    "completion_tokens": 234,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 168
+    }
+  }
+}

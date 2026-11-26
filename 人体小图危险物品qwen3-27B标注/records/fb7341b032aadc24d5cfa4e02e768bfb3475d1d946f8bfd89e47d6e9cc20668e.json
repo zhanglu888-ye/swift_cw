@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店南_20261019125306_08.jpg",
+  "image_sha256": "2b3ee922779fec443cf30cf718e9eb659cc3b2bc4c253beb16c6eb53da1d7e12",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黄色闪送制服、戴头盔的骑手骑在电动车上，车后载有黑色配送箱，双手握车把，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 399,
+    "total_tokens": 615,
+    "completion_tokens": 216,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 132
+    }
+  }
+}

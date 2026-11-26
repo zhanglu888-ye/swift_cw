@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0089_00.jpg",
+  "image_sha256": "a25cd2a5a0e7334b5b8fbe8126e02a8c99784c2d92853332336263ebae3d4c04",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名赤膊男子肩扛一把长柄金属斧头，斧头带有长木柄和金属斧刃。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 459,
+    "total_tokens": 659,
+    "completion_tokens": 200,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 126
+    }
+  }
+}

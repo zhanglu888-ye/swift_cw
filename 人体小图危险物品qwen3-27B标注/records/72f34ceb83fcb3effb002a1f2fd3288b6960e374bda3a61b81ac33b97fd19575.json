@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道637火车头东侧停车场入口北_20261018112605_00.jpg",
+  "image_sha256": "eca849a09599e0a15b1051ec3a717e421a012ba0bce6e4aaea1fe7bcd6b9ea07",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子推着手推车，车上放有带红盖的透明大塑料桶及黑色大容量塑料桶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 519,
+    "total_tokens": 732,
+    "completion_tokens": 213,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 141
+    }
+  }
+}

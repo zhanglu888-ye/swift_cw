@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261005163507_09.jpg",
+  "image_sha256": "d998ca9d629c8359b06bf363e2daa21d9766e67d8df587e6e36e819ae65418ea",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "行人手提粉色购物袋并斜挎浅色小包，背景有人提绿色袋子。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 576,
+    "completion_tokens": 243,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 176
+    }
+  }
+}

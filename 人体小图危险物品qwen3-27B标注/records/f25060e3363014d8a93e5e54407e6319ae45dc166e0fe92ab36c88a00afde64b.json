@@ -1,0 +1,24 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索 (1)_74_00.jpg",
+  "image_sha256": "aabad7fadf8f7a31ac73335de3e0fb9516ed6e414d54183917361779c4314334",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴护目镜的男子双手持握一件带木质枪身的长条状枪形物体作瞄准姿势。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1173,
+    "total_tokens": 1368,
+    "completion_tokens": 195,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 121
+    }
+  }
+}

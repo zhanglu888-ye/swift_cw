@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道阿迪达斯北_20261006164436_12.jpg",
+  "image_sha256": "61e6ba6fef6070253866288c21441a2e6c5ba2e69352ceb13e844abd85fdce25",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中为一辆载有毛绒玩具等杂物的推车摊位，前景可见一人后脑勺，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 327,
+    "total_tokens": 534,
+    "completion_tokens": 207,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 132
+    }
+  }
+}

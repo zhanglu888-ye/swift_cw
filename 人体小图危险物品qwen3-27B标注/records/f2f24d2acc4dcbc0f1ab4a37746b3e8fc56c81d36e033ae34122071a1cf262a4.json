@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道阿迪达斯北_20261101165414_01.jpg",
+  "image_sha256": "67a07045e4654321d9d440431a9272e01f91cc5b26ad9b9641121db9f22cb105",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿红色外套、戴口罩的人双手各提一个白色塑料袋，袋内物品不可辨认。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 320,
+    "total_tokens": 566,
+    "completion_tokens": 246,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 176
+    }
+  }
+}

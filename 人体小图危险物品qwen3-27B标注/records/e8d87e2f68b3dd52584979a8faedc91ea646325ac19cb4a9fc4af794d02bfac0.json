@@ -1,0 +1,24 @@
+{
+  "image": "positive/东交通巷1_20261123154151_05.jpg",
+  "image_sha256": "f3b7e0dfce7dd195ee0b515e74f0677244d641629a96fff74480f904850040ee",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人手持一个绿色圆柱形液化石油气钢瓶，顶部可见阀门与护罩结构。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 327,
+    "total_tokens": 536,
+    "completion_tokens": 209,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 139
+    }
+  }
+}

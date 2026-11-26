@@ -1,0 +1,24 @@
+{
+  "image": "negative/北气象巷路口祭祀点_20261123115856_03.jpg",
+  "image_sha256": "a7e7557826489e705bbe126258b18ec926441354114a18f8a114b3458f6354c3",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人手提白色与粉色购物袋，背景为发光的烟酒茶招牌。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 578,
+    "completion_tokens": 248,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 182
+    }
+  }
+}

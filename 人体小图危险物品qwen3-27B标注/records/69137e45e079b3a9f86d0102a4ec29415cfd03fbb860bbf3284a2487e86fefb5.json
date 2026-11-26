@@ -1,0 +1,26 @@
+{
+  "image": "positive/frame_0365_00.jpg",
+  "image_sha256": "47e6fbde7d83d24ca2c303b3166fffce8080be590cb2e5295034075d7cf6694a",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴白帽穿深色外套的男子手持一个灰色头盔状物体放在木桩上。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 567,
+    "total_tokens": 814,
+    "completion_tokens": 247,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 178
+    }
+  }
+}

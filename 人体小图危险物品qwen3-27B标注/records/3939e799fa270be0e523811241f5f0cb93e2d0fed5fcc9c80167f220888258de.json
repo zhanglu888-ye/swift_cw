@@ -1,0 +1,26 @@
+{
+  "image": "positive/虎台一巷中段东侧人行辅道人脸检测朝西南_202611171217_00.jpg",
+  "image_sha256": "d49f3587fd3151a962a50ac6dbc7ae56c962e0f2aeaad393f1435d1d4b176f1f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深色制服戴帽者右手提着一个带长柄的矩形框状物体。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 627,
+    "completion_tokens": 294,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 225
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店南_20261003201433_05.jpg",
+  "image_sha256": "02bf8e7b2b74e9aac9de481ac54cb14a18302e87c42899c480407b6f9d9dee1c",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿白色卫衣戴帽子的男子手持一部深色手机，另一手举至嘴边，前景电动车车把上放有一顶头盔。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 409,
+    "total_tokens": 663,
+    "completion_tokens": 254,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 175
+    }
+  }
+}

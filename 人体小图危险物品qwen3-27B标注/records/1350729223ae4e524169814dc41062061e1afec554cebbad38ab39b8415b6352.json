@@ -1,0 +1,24 @@
+{
+  "image": "positive/W020251229628922700055_00.jpg",
+  "image_sha256": "4c295d1bb57bbddd4e919925c60dc58fcb9b9407be54777a26d05f2a6b8a9966",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴黄色安全帽、穿蓝色工作服的男子正在操作一个灰色金属液化石油气钢瓶，瓶身印有红色字样并带有顶部阀门护罩。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1470,
+    "total_tokens": 1766,
+    "completion_tokens": 296,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 213
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/u=2748473474,3060375966&fm=253&fmt=auto&app=120&f=JPEG_00.jpg",
+  "image_sha256": "f567c4d1d16a48f9efc683a0ee991cee20d9cc2017f135d962dd0ac43b75e353",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子双手握持一把长木柄金属斧头的斧头，正俯身劈砍地上的木桩。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 507,
+    "total_tokens": 705,
+    "completion_tokens": 198,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 124
+    }
+  }
+}

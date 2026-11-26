@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道匡威店西_20261002170838 (1)_02.jpg",
+  "image_sha256": "73283082f979796d0b943f9ab58f4fc8b016366d321e035d0ed86a27909fb6f7",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男孩手持一支带枪托、握把、枪管和瞄准镜的步枪形物体。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 367,
+    "total_tokens": 557,
+    "completion_tokens": 190,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 120
+    }
+  }
+}

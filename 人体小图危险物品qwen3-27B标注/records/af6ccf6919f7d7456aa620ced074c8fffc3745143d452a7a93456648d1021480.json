@@ -1,0 +1,24 @@
+{
+  "image": "negative/虎台一巷16号院大门口变焦枪机_20261119170622_01.jpg",
+  "image_sha256": "e7242ee7c198d46dce497c0d2e67a4c092326eeabde9dcf23d634785f05e297d",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿蓝白外套、深色长裤的男孩侧身站立，双手在身前持一浅色小物件（似手机或卡片），未见其他目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 408,
+    "total_tokens": 662,
+    "completion_tokens": 254,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 171
+    }
+  }
+}

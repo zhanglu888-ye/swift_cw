@@ -1,0 +1,24 @@
+{
+  "image": "negative/南交通巷北口_20261121162439_08.jpg",
+  "image_sha256": "feaeed7e9095444a9cd34ff04b3336686180158909b4a8d5fc4bb98b8ac8fa95",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中两名男子站立于堆放木板和杂物的场地，未见明显手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 351,
+    "total_tokens": 622,
+    "completion_tokens": 271,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 202
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/中华巷5号院大门口定焦枪机_20261117131122_00.jpg",
+  "image_sha256": "f487372f49c391b44bb5b0aa7f2bcdecde8e8e454f23a15caccba5e356ffd48e",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子双手各提一个带红色标签和黄色提手的大容量透明塑料桶装水。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 462,
+    "total_tokens": 638,
+    "completion_tokens": 176,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 106
+    }
+  }
+}

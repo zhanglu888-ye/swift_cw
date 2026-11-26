@@ -1,0 +1,24 @@
+{
+  "image": "negative/c54e5587fe139_02.jpg",
+  "image_sha256": "673fd87a2d61f4d1a58f3d1ce711be1d57a47949ed94d049b5281991467902b7",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿白色外套的男子手持一个白色长方形小物件（似手机或纸张）正在查看，背景有一辆白色车辆。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 528,
+    "completion_tokens": 195,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 119
+    }
+  }
+}

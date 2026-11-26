@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261017153744_04.jpg",
+  "image_sha256": "6dfa2d4a1d47be9b116b530e33a1b336fe0b358c202957a9e2327bca94a93b76",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴口罩的女子双手持握一个黑色长方形小物件，疑似手机。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 475,
+    "total_tokens": 641,
+    "completion_tokens": 166,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 101
+    }
+  }
+}

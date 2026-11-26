@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道苹果手机店北_20261025113139_06.jpg",
+  "image_sha256": "03d9200cdae55d17975d0df04925df8649ea2e4f0042ae3e41d07fdcb84ecda4",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人手提装有彩色毛绒玩具或装饰物的塑料袋，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 577,
+    "completion_tokens": 247,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 182
+    }
+  }
+}

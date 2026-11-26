@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261002110020_06.jpg",
+  "image_sha256": "754272d13645e7ace31f5255e87d128cef8439e06f7eb6524f92b0b45d953a6c",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中一名穿黑色卡通T恤的小孩张开手臂，旁边一人手持白色帽状物，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 576,
+    "completion_tokens": 251,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 177
+    }
+  }
+}

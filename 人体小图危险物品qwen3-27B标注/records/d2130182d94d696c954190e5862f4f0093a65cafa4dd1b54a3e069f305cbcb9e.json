@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261114120915_05.jpg",
+  "image_sha256": "c22005e7fee30e2050cdd8fea33051d83d888e9b4cd1fff43f22dc71f6e168b8",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿绿色上衣的男子蹲在地上，手持白色片状物，地面散落浅色片状物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 519,
+    "completion_tokens": 194,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 123
+    }
+  }
+}

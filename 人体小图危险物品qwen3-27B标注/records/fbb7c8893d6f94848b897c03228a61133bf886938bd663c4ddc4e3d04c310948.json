@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0148_00.jpg",
+  "image_sha256": "7b254eb93dde056b5e840a519912b94aefd61ded14ddecede603954e82b321f0",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人怀抱一个灰绿色大型圆柱形液化气钢瓶，瓶身带有红色标记。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 515,
+    "total_tokens": 721,
+    "completion_tokens": 206,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 138
+    }
+  }
+}

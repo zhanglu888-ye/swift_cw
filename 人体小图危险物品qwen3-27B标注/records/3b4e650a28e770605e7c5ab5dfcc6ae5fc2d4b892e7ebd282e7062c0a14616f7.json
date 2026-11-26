@@ -1,0 +1,24 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索_77_00.jpg",
+  "image_sha256": "0c343ad767fdc68e6c151be39080a989ff1e425e2769dddc6214662228f4a885",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "手持一把黑色弩，配有瞄准镜和一支带橙色尾羽的箭矢。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1212,
+    "total_tokens": 1438,
+    "completion_tokens": 226,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 158
+    }
+  }
+}

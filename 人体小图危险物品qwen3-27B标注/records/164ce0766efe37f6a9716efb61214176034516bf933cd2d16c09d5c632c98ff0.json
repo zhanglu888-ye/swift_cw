@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0024_00.jpg",
+  "image_sha256": "80b7e9a5cb0d14a329bc6ad905cc37756c834df0134f9dc767cbd192b42c1805",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "女子手持长柄金属斧头，斧刃呈银白偏粉色反光，另一侧亦可见斧头刃部。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 567,
+    "total_tokens": 838,
+    "completion_tokens": 271,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 195
+    }
+  }
+}

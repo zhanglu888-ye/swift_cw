@@ -1,0 +1,26 @@
+{
+  "image": "positive/u=491441126,2320344067&fm=253&fmt=auto&app=138&f=JPEG_00.jpg",
+  "image_sha256": "c00077895dd95893f83a4228845178658879a9f6f79b50206f7a25e5139c2291",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子蹲坐地上双手持一把木制长弓，弓身呈弯曲木条状并带有弓弦。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 479,
+    "total_tokens": 734,
+    "completion_tokens": 255,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 181
+    }
+  }
+}

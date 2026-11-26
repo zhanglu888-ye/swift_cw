@@ -1,0 +1,24 @@
+{
+  "image": "positive/虎台一巷4号院2号楼西变焦枪机_20261122140843_01.jpg",
+  "image_sha256": "c932d5f358b7171b286431b8f78a90138ba5e84a8843b72d16f3c84374ea7d65",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深色长款羽绒服的男子双手持握一支黑色步枪状枪形物体，可见枪管、握把及弹匣结构。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 471,
+    "total_tokens": 641,
+    "completion_tokens": 170,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 91
+    }
+  }
+}

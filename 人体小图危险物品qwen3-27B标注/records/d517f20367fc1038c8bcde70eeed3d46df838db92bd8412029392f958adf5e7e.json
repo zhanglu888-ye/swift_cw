@@ -1,0 +1,24 @@
+{
+  "image": "negative/u=491441126,2320344067&fm=253&fmt=auto&app=138&f=JPEG_01.jpg",
+  "image_sha256": "403028759c8b2bb3ad780054d139a35c01a7edb81813e18c6e6d43ab0a2a3763",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中有一个蓝色塑料方凳，背景为站立和蹲坐的人群，未见符合类别的手持物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 336,
+    "total_tokens": 602,
+    "completion_tokens": 266,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 193
+    }
+  }
+}

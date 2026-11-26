@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道8号门_20261005141856_02.jpg",
+  "image_sha256": "5dfa87b97a6a837b9e12ad7888ad418de74851782ce99522767b5195e25b859d",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "前景白衣男子手持一部黑色手机，背景右侧一人背负一把带花纹装饰的弩形物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 535,
+    "total_tokens": 837,
+    "completion_tokens": 302,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 231
+    }
+  }
+}

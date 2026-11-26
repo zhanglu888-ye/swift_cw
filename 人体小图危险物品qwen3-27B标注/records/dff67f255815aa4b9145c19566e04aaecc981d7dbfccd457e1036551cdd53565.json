@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道637火车头东侧停车场入口北_20261006161025_01.jpg",
+  "image_sha256": "f5cf3c03f391a4c832de16252af65ab6091f60964222f7bcadffb7f6fca7fe5f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男孩手提一个印有卡通图案的黄色塑料袋。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 351,
+    "total_tokens": 508,
+    "completion_tokens": 157,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 96
+    }
+  }
+}

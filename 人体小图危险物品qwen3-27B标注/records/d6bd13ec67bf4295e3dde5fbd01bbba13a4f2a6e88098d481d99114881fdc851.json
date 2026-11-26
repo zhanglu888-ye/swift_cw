@@ -1,0 +1,26 @@
+{
+  "image": "positive/9901e56cbf4768_00.jpg",
+  "image_sha256": "c8f3ed090ec94d308093a9d6a8a4044918ada50030fa4152277539c7432ff048",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子手持一根长条状棕褐色杆状物，斜置于身前，外观似长棍或长管。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 320,
+    "total_tokens": 805,
+    "completion_tokens": 485,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 411
+    }
+  }
+}

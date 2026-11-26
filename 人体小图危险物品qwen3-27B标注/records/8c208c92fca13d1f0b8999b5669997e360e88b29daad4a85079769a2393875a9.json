@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店西_20261115124508_00.jpg",
+  "image_sha256": "dbae49c17b76c1e46705d7da2388daf63d64c2d5d790e10e62ffe9612fa7db4b",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿绿色外套的女子背对镜头行走，左手提粉色带图案的包袋，右手提深色包袋。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 453,
+    "total_tokens": 642,
+    "completion_tokens": 189,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 114
+    }
+  }
+}

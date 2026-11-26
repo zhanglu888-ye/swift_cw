@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道西关大街停车场入口西_20261005174455_03.jpg",
+  "image_sha256": "e6974e41a5e2a3d567efac65adbceb12d2ea550c368ad70717648b8f5862e78f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中两人站立，其间夹持一根垂直的长条状杆板物体，未见刀具、斧头、桶壶、钢瓶、枪形物或弩。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 332,
+    "total_tokens": 598,
+    "completion_tokens": 266,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 180
+    }
+  }
+}

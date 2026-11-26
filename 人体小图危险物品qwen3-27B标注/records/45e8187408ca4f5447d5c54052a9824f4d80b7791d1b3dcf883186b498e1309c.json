@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0136_00.jpg",
+  "image_sha256": "cc9f6d1d266f574d942aab83d7312862e5c78584508381f21b9c608ced83e635",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子双手握持一把带金属块状头部的劈砍工具（斧头）正在砍劈木桩，金属头可见两个圆孔。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 453,
+    "total_tokens": 935,
+    "completion_tokens": 482,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 401
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0474_00.jpg",
+  "image_sha256": "8b2073f508eec7dd9722f6391f39f8bfe4276635374dab1f9d8d239295e096ed",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴帽子和眼镜的人蹲在地上，手伸入一个绿色瓶身、外罩橙色保护袋的液化气钢瓶瓶口处。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 541,
+    "total_tokens": 845,
+    "completion_tokens": 304,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 224
+    }
+  }
+}

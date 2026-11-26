@@ -1,0 +1,24 @@
+{
+  "image": "negative/南交通巷北口_20261121162439_01.jpg",
+  "image_sha256": "898798e04dc8439edc005d5ee088326143d2db521da62d4578be02383d64a412",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男孩手持一个粉红色长条状气球造型物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 367,
+    "total_tokens": 553,
+    "completion_tokens": 186,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 125
+    }
+  }
+}

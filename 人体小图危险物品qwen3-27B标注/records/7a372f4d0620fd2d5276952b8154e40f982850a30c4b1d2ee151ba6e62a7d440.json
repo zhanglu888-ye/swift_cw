@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道8号门_20261008195653_02.jpg",
+  "image_sha256": "684a5470f766a1bc4f86c3e76a8a0a3f670f57358be04cd0a2649b5886abb06a",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中一名穿米色拼黑外套者背斜挎包站立，后方一名穿黑色“西宁特警”制服者背对镜头，未见明显手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 447,
+    "total_tokens": 785,
+    "completion_tokens": 338,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 252
+    }
+  }
+}

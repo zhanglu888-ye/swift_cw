@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店西_20261107155611_01.jpg",
+  "image_sha256": "e4a11e8d9c11ac52dd619d58d1219d6483b328399224b7b103dd1f781e8855a2",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面为几名行人走在停有白色汽车的户外路面上，未见明显手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 320,
+    "total_tokens": 529,
+    "completion_tokens": 209,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 140
+    }
+  }
+}

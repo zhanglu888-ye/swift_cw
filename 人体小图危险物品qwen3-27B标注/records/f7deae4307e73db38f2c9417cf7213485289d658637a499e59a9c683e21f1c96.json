@@ -1,0 +1,24 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索_8_00.jpg",
+  "image_sha256": "8d339d166d232fcc6d422b3ba790540897519d2b5af0e1e6e66ca5a67fba7818",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子手持一把木制弩，可见弯曲弓臂、绿色弓弦及带轨道的木制底座。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 735,
+    "total_tokens": 1005,
+    "completion_tokens": 270,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 199
+    }
+  }
+}

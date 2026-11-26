@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道同盛路停车场入口_20261015183440_04.jpg",
+  "image_sha256": "dcfd7a9d70b75b72dfeb8fb675dfae65b70f13a20a2da971c228d1d140365529",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "人物肩扛一黑色长条状不明物体，胸前手持物模糊，无法辨认具体物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 750,
+    "completion_tokens": 417,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 346
+    }
+  }
+}

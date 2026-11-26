@@ -1,0 +1,24 @@
+{
+  "image": "positive/u=1196784510,3861960808_fm=253_fmt=auto_app=138_f=JPEG_01.jpg",
+  "image_sha256": "a49284ba6bf24a570b9db08b3c1d448732da782a2659373a77432138365e2f37",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿制服戴口罩的人员正从皮卡货箱中搬起一个蓝色金属液化石油气钢瓶，货箱内另有一个类似钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 502,
+    "total_tokens": 769,
+    "completion_tokens": 267,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 186
+    }
+  }
+}

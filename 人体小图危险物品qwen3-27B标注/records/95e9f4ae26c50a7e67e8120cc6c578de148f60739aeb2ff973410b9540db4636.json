@@ -1,0 +1,24 @@
+{
+  "image": "negative/尕寺巷5号院1号楼枪机2_20261122134403_02.jpg",
+  "image_sha256": "88f775fdc2da827d905fc6721e6dec9041ef344d05afce09f996c8be9b5feab2",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿浅紫色外套、粉色上衣和黑色长裤的人正在行走，背景为涂鸦墙和白色汽车车头，未见手持目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 553,
+    "completion_tokens": 228,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 149
+    }
+  }
+}

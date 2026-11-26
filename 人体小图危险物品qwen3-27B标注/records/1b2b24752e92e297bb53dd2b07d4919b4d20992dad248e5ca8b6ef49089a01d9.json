@@ -1,0 +1,24 @@
+{
+  "image": "positive/u=219352636,1824755165_fm=253_fmt=auto_app=120_f=JPEG_00.jpg",
+  "image_sha256": "c4be6b9ec3c1968e01d12a7aa8959d98366f26d10ab2d08072c75eb0a336562f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿消防服戴黄色头盔的消防员正弯腰扶握一个银灰色金属液化气钢瓶，旁边还立着一个蓝色钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 327,
+    "total_tokens": 599,
+    "completion_tokens": 272,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 193
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "positive/发现更多精彩视频 - 抖音搜索 (2)_255_00.jpg",
+  "image_sha256": "f32ecca68659af84ef3a6d16993eed250b5068faac89e3e44f094d53e01afd56",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴白手套的男子双手握持一根长柄金属斧头正在劈柴，周围地面堆放着大量木柴和碎木块。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 600,
+    "total_tokens": 882,
+    "completion_tokens": 282,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 202
+    }
+  }
+}

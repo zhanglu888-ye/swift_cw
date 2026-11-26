@@ -1,0 +1,24 @@
+{
+  "image": "positive/u=2308353241,1221778775_fm=253_fmt=auto_app=120_f=PNG_00.jpg",
+  "image_sha256": "c7d56eecf49065423193aaaab86134f4b72a6c7dd39ed1154ddf60cb9c47cb1a",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "画面中人员正在操作一个黄色圆柱形液化石油气钢瓶，瓶身印有红色火焰标志及文字。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 515,
+    "total_tokens": 801,
+    "completion_tokens": 286,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 212
+    }
+  }
+}

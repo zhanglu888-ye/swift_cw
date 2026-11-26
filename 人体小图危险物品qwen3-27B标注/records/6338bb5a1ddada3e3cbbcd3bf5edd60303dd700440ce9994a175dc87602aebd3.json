@@ -1,0 +1,24 @@
+{
+  "image": "negative/海晏路10号院门口照东_20261123154002_00.jpg",
+  "image_sha256": "00f94699b46fb414fe1e7b2fa574f423414bc4c27f9f9c0f4fa60679c89d5595",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "穿红色连帽羽绒服戴口罩者行走，双手各持一白色物品，一手为细长条状物，另一手为白色袋状物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 614,
+    "completion_tokens": 289,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 208
+    }
+  }
+}

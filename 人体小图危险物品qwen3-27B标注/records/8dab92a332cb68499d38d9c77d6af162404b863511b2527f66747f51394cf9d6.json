@@ -1,0 +1,26 @@
+{
+  "image": "negative/发现更多精彩视频 - 抖音搜索 (1)_8_01.jpg",
+  "image_sha256": "33d5d05faa8ffe32151c4605e9d3bcfaebc17badb6c55f80cd94d987af649443",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人手持一长条状带金属刃部的刀具。",
+    "刀具": "有",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 343,
+    "total_tokens": 585,
+    "completion_tokens": 242,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 180
+    }
+  }
+}

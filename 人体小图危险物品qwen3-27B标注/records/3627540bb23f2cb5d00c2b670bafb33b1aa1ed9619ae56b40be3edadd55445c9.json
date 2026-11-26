@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0079_00.jpg",
+  "image_sha256": "c150464351a4877508bd437894f78c7e1a24101824350f873653782a8f408f79",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "手持一把带木柄的金属斧头，斧刃朝向树桩，背景堆放木柴。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 541,
+    "total_tokens": 806,
+    "completion_tokens": 265,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 195
+    }
+  }
+}

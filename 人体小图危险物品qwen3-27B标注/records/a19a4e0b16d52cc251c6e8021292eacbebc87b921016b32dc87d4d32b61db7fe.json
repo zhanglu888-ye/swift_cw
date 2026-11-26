@@ -1,0 +1,24 @@
+{
+  "image": "negative/虎台二巷梧桐午托班后厨_20261116095655_00.jpg",
+  "image_sha256": "6068064e04b3f5a0a7ad2c184e146dd878d3b544c832f6cc56c10966dba1c2ba",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "两名穿红色工作服、戴帽子和口罩的工作人员在厨房台面旁作业，未见目标手持物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 475,
+    "total_tokens": 760,
+    "completion_tokens": 285,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 214
+    }
+  }
+}

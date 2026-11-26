@@ -1,0 +1,24 @@
+{
+  "image": "negative/东交通巷1_20261123154435_02.jpg",
+  "image_sha256": "16caae47c5e6dd7f6b5fe322fa659fb6fd9bde39a8c64691f9601f245b78579f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色连帽外套、背后印‘顺丰同城’字样的人背对镜头站在带二维码的黑色箱体旁，旁边有一名戴墨镜黑衣男子，地面堆放白色泡沫箱，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 480,
+    "total_tokens": 737,
+    "completion_tokens": 257,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 165
+    }
+  }
+}

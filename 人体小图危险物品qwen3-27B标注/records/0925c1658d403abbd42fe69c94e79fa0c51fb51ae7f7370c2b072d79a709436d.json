@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0176_00.jpg",
+  "image_sha256": "bd55345a87f22059b2d1e7f5395d7a7970f91d12c7031385fd22b110df2e75c5",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿白色T恤的男子手提一个灰色圆柱形带阀门的液化气钢瓶，背景处另有一个类似钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 333,
+    "total_tokens": 602,
+    "completion_tokens": 269,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 193
+    }
+  }
+}

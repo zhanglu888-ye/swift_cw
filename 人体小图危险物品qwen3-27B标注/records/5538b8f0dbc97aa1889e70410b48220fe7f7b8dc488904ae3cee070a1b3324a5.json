@@ -1,0 +1,24 @@
+{
+  "image": "positive/唐道匡威店南_20261003171319_02.jpg",
+  "image_sha256": "b8c5940f6497cb21c38347c1560f8dd5e21b03d3e06a7f15c3e2e17f7878d5ec",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴眼镜男孩手持一个黑色枪形物体，可见握把、红色标记及向前延伸的长杆状部分。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "有",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 471,
+    "total_tokens": 760,
+    "completion_tokens": 289,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 213
+    }
+  }
+}

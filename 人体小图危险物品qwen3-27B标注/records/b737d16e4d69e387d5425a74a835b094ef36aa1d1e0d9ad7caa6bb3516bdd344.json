@@ -1,0 +1,24 @@
+{
+  "image": "positive/u=136283193,1023848809_fm=253_fmt=auto_app=120_f=JPEG_00.jpg",
+  "image_sha256": "d19e86c51b0c4c2228e567ce90efdb7e26c811692b19323e435fcd18d46076b4",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "男子左手提着一个带把手的金属桶，旁边立有一个灰色液化气钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 374,
+    "total_tokens": 696,
+    "completion_tokens": 322,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 255
+    }
+  }
+}

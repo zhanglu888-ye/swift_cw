@@ -1,0 +1,24 @@
+{
+  "image": "positive/01e8c366c2b94e3601037001993b77aff3_108_190_01.jpg",
+  "image_sha256": "b13725e75ae123451674b20828c876df9d7fb8750085b1b3283da549b9b9e75d",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿白T恤的男子手持一把黑色复合弩，前端带弧形弓臂与弓弦，中部装有瞄准镜和握把扳机结构。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "有"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1375,
+    "total_tokens": 1584,
+    "completion_tokens": 209,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 127
+    }
+  }
+}

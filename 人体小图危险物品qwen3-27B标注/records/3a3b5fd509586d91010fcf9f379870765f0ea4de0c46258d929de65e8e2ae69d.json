@@ -1,0 +1,24 @@
+{
+  "image": "negative/东方幼教幼儿园后厨加工间_20261119102635_00.jpg",
+  "image_sha256": "5143bb68c6de8553c47e029027b87131c0cce273195420a311385450f7d5b28c",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿白色厨师服、戴白帽和口罩的人站立，双手空着，旁边金属推车上放有带红盖的塑料瓶，右侧有装绿色蔬菜的白盆。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 1152,
+    "total_tokens": 1458,
+    "completion_tokens": 306,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 216
+    }
+  }
+}

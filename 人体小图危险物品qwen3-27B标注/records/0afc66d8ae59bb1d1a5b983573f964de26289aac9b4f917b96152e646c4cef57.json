@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道苹果手机店北_20261025113139_03.jpg",
+  "image_sha256": "dd39d12f0d052484a3f4b9a714a63eca8a6c67520b46f1cd70184352606148d7",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿橙色外套、戴口罩的人行走，手里提着一个深色袋状物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 525,
+    "completion_tokens": 200,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 133
+    }
+  }
+}

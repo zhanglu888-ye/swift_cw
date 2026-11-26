@@ -1,0 +1,24 @@
+{
+  "image": "negative/c54e5587fe139_04.jpg",
+  "image_sha256": "b0cba65bbb60b453c85e2498860b792fb499ca768f7f16806971e89e3b0b7811",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人站在栏杆旁，手提一个深色包状物，背景可见带彩色图案的展示板。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 594,
+    "completion_tokens": 264,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 193
+    }
+  }
+}

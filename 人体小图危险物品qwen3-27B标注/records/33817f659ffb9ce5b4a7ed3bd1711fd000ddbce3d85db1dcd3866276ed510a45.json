@@ -1,0 +1,24 @@
+{
+  "image": "negative/发现更多精彩视频 - 抖音搜索 (3)_49_01.jpg",
+  "image_sha256": "e86299ef20bcb1e5ba2c227e6e166ad7cf9af16dbe006652f6f9142298c9a84c",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴黑帽、穿蓝背心与黑裤的人背对镜头行走，双手空垂，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 519,
+    "completion_tokens": 194,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 119
+    }
+  }
+}

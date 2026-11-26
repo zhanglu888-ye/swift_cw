@@ -1,0 +1,26 @@
+{
+  "image": "positive/虎台中央厨房熟食加工间_20261118103516_00.jpg",
+  "image_sha256": "68242f80c8eb350fa836abe03d35efebd40df5807b986a0fd64c625f4e31bc43",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "两名穿白色工作服、戴帽和口罩的人员在台面处理一堆粉白色肉块，手中持肉块，未见刀具等目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 525,
+    "total_tokens": 922,
+    "completion_tokens": 397,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 317
+    }
+  }
+}

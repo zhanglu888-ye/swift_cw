@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0039_00.jpg",
+  "image_sha256": "906651a2c636f8d07ae58a2691cf33f670e257fb15dde4853b538446259c6b6f",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人戴手套双手握持一把长木柄金属斧头，正俯身劈砍地上的木头。",
+    "刀具": "无",
+    "斧头": "有",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 519,
+    "total_tokens": 787,
+    "completion_tokens": 268,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 196
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/88-mp4_21_100x100_0_jpg.rf.ab42e40c4f97db4c7d9e3ed5e47ce8fc_00.jpg",
+  "image_sha256": "a9210d31cecc7643d5efb512e2cf3c5dc9778869e4aa82260d732f57a8b6e33a",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿粉色上衣戴帽的男子靠墙站立，手中持一白色扁平物体（似手机或纸张）。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 327,
+    "total_tokens": 569,
+    "completion_tokens": 242,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 169
+    }
+  }
+}

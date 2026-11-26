@@ -1,0 +1,24 @@
+{
+  "image": "positive/虎台一巷中段东侧人行辅道人脸检测朝西南_20261117110935_00.jpg",
+  "image_sha256": "692fe81069e048cd7f94206b323186e5f8479f1cb10c1d34cc54960bbce8c777",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿深色连帽衫和长裤的人行走，手中提着一个白色半透明带提手的塑料桶/壶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 519,
+    "total_tokens": 750,
+    "completion_tokens": 231,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 156
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道匡威店西_20261119103811_01.jpg",
+  "image_sha256": "eb53f811a66b848b487526c37081d387cb07b118a90c52adefec35a175976a12",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名戴口罩、穿米色外套的女性背对镜头站立，手中未见任何目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 425,
+    "total_tokens": 650,
+    "completion_tokens": 225,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 156
+    }
+  }
+}

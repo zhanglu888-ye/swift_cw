@@ -1,0 +1,26 @@
+{
+  "image": "positive/唐道匡威店西_20261112101613_01.jpg",
+  "image_sha256": "27b9d3d6c0d1c6dabb1eac6f84e8841f0305762b6d7a53df7fee439566fa4912",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿围裙戴手套的男子手扶一辆蓝色平板手推车，车上放有带显示屏的电子台秤和黄色袋装物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 455,
+    "total_tokens": 726,
+    "completion_tokens": 271,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 192
+    }
+  }
+}

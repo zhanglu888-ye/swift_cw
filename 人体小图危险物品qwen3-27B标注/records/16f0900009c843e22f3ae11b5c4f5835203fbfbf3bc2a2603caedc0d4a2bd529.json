@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道阿迪达斯北_20261108134544 (1)_03.jpg",
+  "image_sha256": "032eedec23e0890f26bed3d016b01ce106cf8b9f35e5a19f352d5a58b79bd8bd",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "几名行人经过烧烤摊位前，其中一人手提一个瓶状容器。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 320,
+    "total_tokens": 601,
+    "completion_tokens": 281,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 216
+    }
+  }
+}

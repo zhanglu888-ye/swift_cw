@@ -1,0 +1,24 @@
+{
+  "image": "negative/扛煤气罐_040_01.jpg",
+  "image_sha256": "9878fd027ce2b9f4585c343b6f20bf93ddb6eb1550b842c1a1c466455d18b542",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑色背心和白色短裤的男子站立，手中拿着一个透明塑料瓶状物。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 521,
+    "completion_tokens": 191,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 122
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/文逸小学门卫室-平安校园_20261121091626_01.jpg",
+  "image_sha256": "481eb6705d510687a1deca29b3c89c1d2da0fe5767497299d273a2d4cf9ce089",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑衣、戴墨镜、背蓝色双肩包的人正在行走，未见目标物品。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 330,
+    "total_tokens": 534,
+    "completion_tokens": 204,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 135
+    }
+  }
+}

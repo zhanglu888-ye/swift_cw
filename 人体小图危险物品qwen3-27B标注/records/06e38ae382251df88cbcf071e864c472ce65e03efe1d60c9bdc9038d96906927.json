@@ -1,0 +1,26 @@
+{
+  "image": "negative/唐道匡威店南_20261004120413_03.jpg",
+  "image_sha256": "fd48369ee0f1a7e7191c72660298d29cc50f70078fbd030eefa4bf33fa134281",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "地面场景，前景可见金属栏杆及一个绿色半透明塑料容器，背景有人腿部。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "不确定",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 798,
+    "completion_tokens": 473,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 404
+    }
+  }
+}

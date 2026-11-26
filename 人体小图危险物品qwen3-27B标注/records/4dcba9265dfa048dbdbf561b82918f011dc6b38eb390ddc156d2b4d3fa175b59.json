@@ -1,0 +1,26 @@
+{
+  "image": "negative/北气象巷路口祭祀点_20261123115902_03.jpg",
+  "image_sha256": "aaf4b589d51e6c83d4f4c40ac0c6dba5f4c5bf037fdd786396fe89609e0f052a",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一人手提一个白色带提手的塑料桶/水壶状容器。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "有",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "负样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 564,
+    "completion_tokens": 239,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 175
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "image": "positive/01e921b6646407df010370019aabb635dd_115_13_01.jpg",
+  "image_sha256": "7c625d15057de98bcbcae2148757eb444d7c3aa13346708d5b33b7cd9ee5752d",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名男子弯腰双手握持一根棕色木杆，木杆上绑有一根粉红色管状物的长条装置。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [
+    "正样本目录与模型判断冲突"
+  ],
+  "usage": {
+    "prompt_tokens": 1479,
+    "total_tokens": 1852,
+    "completion_tokens": 373,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 298
+    }
+  }
+}

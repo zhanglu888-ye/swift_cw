@@ -1,0 +1,24 @@
+{
+  "image": "positive/frame_0127_00.jpg",
+  "image_sha256": "1633d96097558ce79c311abbe3784e6a1e73fe2f2c7cc9c26370c6bbbc4a0eab",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黄色反光背心的人双手举着一个灰色金属液化石油气钢瓶，瓶顶带有橙色阀门，地面右下角另有一个钢瓶。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "有",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 567,
+    "total_tokens": 845,
+    "completion_tokens": 278,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 198
+    }
+  }
+}

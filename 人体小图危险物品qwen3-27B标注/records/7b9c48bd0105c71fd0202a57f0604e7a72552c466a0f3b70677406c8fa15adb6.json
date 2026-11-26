@@ -1,0 +1,24 @@
+{
+  "image": "positive/乐兴婴童学苑后厨操作间_20261116095904_00.jpg",
+  "image_sha256": "e8ca4073be1a6343cd9b43ae956a46db060bb68b7835a5bd757a48b7d283e0f8",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "手持一把宽刃菜刀在黄色砧板上切绿色蔬菜。",
+    "刀具": "有",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 995,
+    "total_tokens": 1207,
+    "completion_tokens": 212,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 148
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "image": "negative/唐道阿迪达斯北_20261107165238_01.jpg",
+  "image_sha256": "b0c5b0770293d9a153dd90a3393d657ec4f618212e2e7d6f18b716fbda0099df",
+  "model": "Qwen3.8-27B",
+  "answer": {
+    "描述": "一名穿黑衣的男子双手抱着一个穿白色衣服、戴浅色帽子的婴儿，背景为餐馆招牌。",
+    "刀具": "无",
+    "斧头": "无",
+    "桶壶": "无",
+    "液化气钢瓶": "无",
+    "枪形物": "无",
+    "弩": "无"
+  },
+  "review_reasons": [],
+  "usage": {
+    "prompt_tokens": 325,
+    "total_tokens": 529,
+    "completion_tokens": 204,
+    "prompt_tokens_details": null,
+    "completion_tokens_details": {
+      "reasoning_tokens": 132
+    }
+  }
+}
